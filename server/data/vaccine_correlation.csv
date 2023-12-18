@@ -1,0 +1,4313 @@
+Country,Year,DPT vaccine rates,DALY,Region
+afghanistan,1990,0.25,104103,Asia
+afghanistan,1991,0.23,101240,Asia
+afghanistan,1992,0.21,90918,Asia
+afghanistan,1993,0.18,88234,Asia
+afghanistan,1994,0.12,92997,Asia
+afghanistan,1995,0.2,91435,Asia
+afghanistan,1996,0.31,89343,Asia
+afghanistan,1997,0.28,89603,Asia
+afghanistan,1998,0.27,92889,Asia
+afghanistan,1999,0.27,88708,Asia
+afghanistan,2000,0.24,88007,Asia
+afghanistan,2001,0.33,87059,Asia
+afghanistan,2002,0.36,81936,Asia
+afghanistan,2003,0.41,79011,Asia
+afghanistan,2004,0.5,78126,Asia
+afghanistan,2005,0.58,75879,Asia
+afghanistan,2006,0.58,75742,Asia
+afghanistan,2007,0.63,74522,Asia
+afghanistan,2008,0.64,71463,Asia
+afghanistan,2009,0.63,69850,Asia
+afghanistan,2010,0.66,67908,Asia
+afghanistan,2011,0.68,65925,Asia
+afghanistan,2012,0.67,64673,Asia
+afghanistan,2013,0.64,62943,Asia
+afghanistan,2014,0.62,62991,Asia
+afghanistan,2015,0.65,63274,Asia
+afghanistan,2016,0.66,62958,Asia
+afghanistan,2017,0.66,56925,Asia
+albania,1990,0.94,31497,Europe
+albania,1991,0.78,31908,Europe
+albania,1992,0.94,31463,Europe
+albania,1993,0.96,30880,Europe
+albania,1994,0.99,30135,Europe
+albania,1995,0.97,29787,Europe
+albania,1996,0.98,29877,Europe
+albania,1997,0.99,33372,Europe
+albania,1998,0.96,28834,Europe
+albania,1999,0.97,29065,Europe
+albania,2000,0.97,29406,Europe
+albania,2001,0.97,28215,Europe
+albania,2002,0.98,27844,Europe
+albania,2003,0.97,27543,Europe
+albania,2004,0.97,27187,Europe
+albania,2005,0.98,26644,Europe
+albania,2006,0.97,26156,Europe
+albania,2007,0.98,25418,Europe
+albania,2008,0.99,25247,Europe
+albania,2009,0.98,24604,Europe
+albania,2010,0.99,24260,Europe
+albania,2011,0.99,24029,Europe
+albania,2012,0.99,23802,Europe
+albania,2013,0.99,23583,Europe
+albania,2014,0.98,23497,Europe
+albania,2015,0.99,23329,Europe
+albania,2016,0.98,23155,Europe
+albania,2017,0.99,23013,Europe
+algeria,1990,0.89,35991,Africa
+algeria,1991,0.89,35134,Africa
+algeria,1992,0.88,34538,Africa
+algeria,1993,0.88,34046,Africa
+algeria,1994,0.87,33996,Africa
+algeria,1995,0.88,33671,Africa
+algeria,1996,0.88,32826,Africa
+algeria,1997,0.89,33136,Africa
+algeria,1998,0.85,32528,Africa
+algeria,1999,0.83,31783,Africa
+algeria,2000,0.86,31611,Africa
+algeria,2001,0.89,31018,Africa
+algeria,2002,0.86,30440,Africa
+algeria,2003,0.87,30212,Africa
+algeria,2004,0.86,29328,Africa
+algeria,2005,0.88,28867,Africa
+algeria,2006,0.95,28473,Africa
+algeria,2007,0.95,28163,Africa
+algeria,2008,0.93,27726,Africa
+algeria,2009,0.95,27332,Africa
+algeria,2010,0.95,26834,Africa
+algeria,2011,0.95,26439,Africa
+algeria,2012,0.95,25945,Africa
+algeria,2013,0.95,25709,Africa
+algeria,2014,0.95,25551,Africa
+algeria,2015,0.95,25247,Africa
+algeria,2016,0.91,24808,Africa
+algeria,2017,0.91,24307,Africa
+angola,1990,0.24,103033,Africa
+angola,1991,0.26,100628,Africa
+angola,1992,0.21,100249,Africa
+angola,1993,0.3,104775,Africa
+angola,1994,0.27,99706,Africa
+angola,1995,0.24,96409,Africa
+angola,1996,0.28,94231,Africa
+angola,1997,0.41,93719,Africa
+angola,1998,0.47,96794,Africa
+angola,1999,0.21,91687,Africa
+angola,2000,0.31,88523,Africa
+angola,2001,0.42,86052,Africa
+angola,2002,0.47,82514,Africa
+angola,2003,0.46,80312,Africa
+angola,2004,0.47,78548,Africa
+angola,2005,0.47,75616,Africa
+angola,2006,0.44,73556,Africa
+angola,2007,0.48,70034,Africa
+angola,2008,0.49,67366,Africa
+angola,2009,0.5,65122,Africa
+angola,2010,0.51,62840,Africa
+angola,2011,0.52,60846,Africa
+angola,2012,0.53,59072,Africa
+angola,2013,0.54,57311,Africa
+angola,2014,0.55,55156,Africa
+angola,2015,0.59,53706,Africa
+angola,2016,0.59,52470,Africa
+angola,2017,0.56,51390,Africa
+antigua and barbuda,1990,0.99,28300,NorthAmerica
+antigua and barbuda,1991,0.94,27951,NorthAmerica
+antigua and barbuda,1992,0.99,28064,NorthAmerica
+antigua and barbuda,1993,0.99,28226,NorthAmerica
+antigua and barbuda,1994,0.99,28266,NorthAmerica
+antigua and barbuda,1995,0.99,28436,NorthAmerica
+antigua and barbuda,1996,0.99,28259,NorthAmerica
+antigua and barbuda,1997,0.99,27903,NorthAmerica
+antigua and barbuda,1998,0.99,27721,NorthAmerica
+antigua and barbuda,1999,0.99,27592,NorthAmerica
+antigua and barbuda,2000,0.95,27376,NorthAmerica
+antigua and barbuda,2001,0.97,27100,NorthAmerica
+antigua and barbuda,2002,0.98,26780,NorthAmerica
+antigua and barbuda,2003,0.99,26455,NorthAmerica
+antigua and barbuda,2004,0.97,26254,NorthAmerica
+antigua and barbuda,2005,0.99,25948,NorthAmerica
+antigua and barbuda,2006,0.99,25732,NorthAmerica
+antigua and barbuda,2007,0.99,25399,NorthAmerica
+antigua and barbuda,2008,0.99,25182,NorthAmerica
+antigua and barbuda,2009,0.99,24965,NorthAmerica
+antigua and barbuda,2010,0.98,24919,NorthAmerica
+antigua and barbuda,2011,0.99,24839,NorthAmerica
+antigua and barbuda,2012,0.98,24730,NorthAmerica
+antigua and barbuda,2013,0.99,24626,NorthAmerica
+antigua and barbuda,2014,0.99,24690,NorthAmerica
+antigua and barbuda,2015,0.99,24558,NorthAmerica
+antigua and barbuda,2016,0.92,24434,NorthAmerica
+antigua and barbuda,2017,0.95,24391,NorthAmerica
+argentina,1990,0.87,31638,NorthAmerica
+argentina,1991,0.8,31224,NorthAmerica
+argentina,1992,0.81,31112,NorthAmerica
+argentina,1993,0.81,30644,NorthAmerica
+argentina,1994,0.82,30151,NorthAmerica
+argentina,1995,0.85,30003,NorthAmerica
+argentina,1996,0.83,30091,NorthAmerica
+argentina,1997,0.88,29754,NorthAmerica
+argentina,1998,0.84,29624,NorthAmerica
+argentina,1999,0.86,29327,NorthAmerica
+argentina,2000,0.83,28536,NorthAmerica
+argentina,2001,0.83,28284,NorthAmerica
+argentina,2002,0.93,28383,NorthAmerica
+argentina,2003,0.96,28072,NorthAmerica
+argentina,2004,0.98,27127,NorthAmerica
+argentina,2005,0.98,26607,NorthAmerica
+argentina,2006,0.91,26509,NorthAmerica
+argentina,2007,0.91,26892,NorthAmerica
+argentina,2008,0.93,26453,NorthAmerica
+argentina,2009,0.94,26265,NorthAmerica
+argentina,2010,0.94,25894,NorthAmerica
+argentina,2011,0.91,25758,NorthAmerica
+argentina,2012,0.91,25594,NorthAmerica
+argentina,2013,0.94,25494,NorthAmerica
+argentina,2014,0.94,25105,NorthAmerica
+argentina,2015,0.94,24763,NorthAmerica
+argentina,2016,0.92,24750,NorthAmerica
+argentina,2017,0.86,24632,NorthAmerica
+australia,1990,0.95,24714,Oceania
+australia,1991,0.93,24090,Oceania
+australia,1992,0.91,23926,Oceania
+australia,1993,0.9,23391,Oceania
+australia,1994,0.88,23348,Oceania
+australia,1995,0.86,23016,Oceania
+australia,1996,0.86,22900,Oceania
+australia,1997,0.77,22595,Oceania
+australia,1998,0.82,22319,Oceania
+australia,1999,0.88,22050,Oceania
+australia,2000,0.9,21715,Oceania
+australia,2001,0.92,21275,Oceania
+australia,2002,0.92,21022,Oceania
+australia,2003,0.93,20685,Oceania
+australia,2004,0.92,20382,Oceania
+australia,2005,0.92,20128,Oceania
+australia,2006,0.92,19891,Oceania
+australia,2007,0.92,19859,Oceania
+australia,2008,0.92,19753,Oceania
+australia,2009,0.92,19667,Oceania
+australia,2010,0.92,19446,Oceania
+australia,2011,0.92,19254,Oceania
+australia,2012,0.92,18929,Oceania
+australia,2013,0.91,18859,Oceania
+australia,2014,0.92,18911,Oceania
+australia,2015,0.93,18987,Oceania
+australia,2016,0.94,18967,Oceania
+australia,2017,0.95,19037,Oceania
+austria,1990,0.9,25376,Europe
+austria,1991,0.9,25313,Europe
+austria,1992,0.9,25028,Europe
+austria,1993,0.9,24765,Europe
+austria,1994,0.9,24343,Europe
+austria,1995,0.9,23905,Europe
+austria,1996,0.9,23543,Europe
+austria,1997,0.9,22920,Europe
+austria,1998,0.82,22673,Europe
+austria,1999,0.74,22409,Europe
+austria,2000,0.81,22234,Europe
+austria,2001,0.84,21756,Europe
+austria,2002,0.83,21509,Europe
+austria,2003,0.84,21412,Europe
+austria,2004,0.83,21053,Europe
+austria,2005,0.86,20819,Europe
+austria,2006,0.83,20341,Europe
+austria,2007,0.85,20232,Europe
+austria,2008,0.83,20057,Europe
+austria,2009,0.83,20219,Europe
+austria,2010,0.86,20048,Europe
+austria,2011,0.89,19772,Europe
+austria,2012,0.92,19487,Europe
+austria,2013,0.95,19279,Europe
+austria,2014,0.98,19107,Europe
+austria,2015,0.93,18994,Europe
+austria,2016,0.87,18763,Europe
+austria,2017,0.9,18620,Europe
+bahamas,1990,0.86,33344,NorthAmerica
+bahamas,1991,0.92,33109,NorthAmerica
+bahamas,1992,0.92,33156,NorthAmerica
+bahamas,1993,0.91,33535,NorthAmerica
+bahamas,1994,0.91,33879,NorthAmerica
+bahamas,1995,0.87,33755,NorthAmerica
+bahamas,1996,0.85,34221,NorthAmerica
+bahamas,1997,0.86,32984,NorthAmerica
+bahamas,1998,0.89,32202,NorthAmerica
+bahamas,1999,0.82,33160,NorthAmerica
+bahamas,2000,0.99,32604,NorthAmerica
+bahamas,2001,0.99,32270,NorthAmerica
+bahamas,2002,0.94,31067,NorthAmerica
+bahamas,2003,0.92,30184,NorthAmerica
+bahamas,2004,0.93,30224,NorthAmerica
+bahamas,2005,0.93,29430,NorthAmerica
+bahamas,2006,0.95,29860,NorthAmerica
+bahamas,2007,0.95,29170,NorthAmerica
+bahamas,2008,0.93,29157,NorthAmerica
+bahamas,2009,0.96,29376,NorthAmerica
+bahamas,2010,0.99,29326,NorthAmerica
+bahamas,2011,0.98,29395,NorthAmerica
+bahamas,2012,0.98,29453,NorthAmerica
+bahamas,2013,0.97,29409,NorthAmerica
+bahamas,2014,0.96,29378,NorthAmerica
+bahamas,2015,0.95,29738,NorthAmerica
+bahamas,2016,0.94,29145,NorthAmerica
+bahamas,2017,0.94,29002,NorthAmerica
+bahrain,1990,0.94,35542,Africa
+bahrain,1991,0.99,35600,Africa
+bahrain,1992,0.94,35613,Africa
+bahrain,1993,0.94,35277,Africa
+bahrain,1994,0.96,34784,Africa
+bahrain,1995,0.95,34345,Africa
+bahrain,1996,0.96,33819,Africa
+bahrain,1997,0.98,33325,Africa
+bahrain,1998,0.98,32677,Africa
+bahrain,1999,0.97,31531,Africa
+bahrain,2000,0.97,31309,Africa
+bahrain,2001,0.99,29345,Africa
+bahrain,2002,0.98,28532,Africa
+bahrain,2003,0.97,28343,Africa
+bahrain,2004,0.98,27914,Africa
+bahrain,2005,0.98,26943,Africa
+bahrain,2006,0.98,26194,Africa
+bahrain,2007,0.97,25148,Africa
+bahrain,2008,0.97,24361,Africa
+bahrain,2009,0.98,23568,Africa
+bahrain,2010,0.99,23032,Africa
+bahrain,2011,0.99,22748,Africa
+bahrain,2012,0.99,22463,Africa
+bahrain,2013,0.99,22154,Africa
+bahrain,2014,0.98,21844,Africa
+bahrain,2015,0.98,21611,Africa
+bahrain,2016,0.99,21381,Africa
+bahrain,2017,0.97,21249,Africa
+bangladesh,1990,0.69,67756,Asia
+bangladesh,1991,0.74,71623,Asia
+bangladesh,1992,0.66,62436,Asia
+bangladesh,1993,0.74,60308,Asia
+bangladesh,1994,0.84,58440,Asia
+bangladesh,1995,0.69,57285,Asia
+bangladesh,1996,0.77,55518,Asia
+bangladesh,1997,0.78,53929,Asia
+bangladesh,1998,0.77,52394,Asia
+bangladesh,1999,0.8,51097,Asia
+bangladesh,2000,0.82,50425,Asia
+bangladesh,2001,0.85,49474,Asia
+bangladesh,2002,0.83,48649,Asia
+bangladesh,2003,0.87,47822,Asia
+bangladesh,2004,0.99,46712,Asia
+bangladesh,2005,0.93,45718,Asia
+bangladesh,2006,0.94,44603,Asia
+bangladesh,2007,0.94,43898,Asia
+bangladesh,2008,0.96,42595,Asia
+bangladesh,2009,0.97,41109,Asia
+bangladesh,2010,0.94,40092,Asia
+bangladesh,2011,0.96,38679,Asia
+bangladesh,2012,0.94,37306,Asia
+bangladesh,2013,0.96,36169,Asia
+bangladesh,2014,0.97,35413,Asia
+bangladesh,2015,0.98,34465,Asia
+bangladesh,2016,0.98,33690,Asia
+bangladesh,2017,0.98,33089,Asia
+barbados,1990,0.91,28004,NorthAmerica
+barbados,1991,0.82,27754,NorthAmerica
+barbados,1992,0.9,27717,NorthAmerica
+barbados,1993,0.86,27611,NorthAmerica
+barbados,1994,0.9,27968,NorthAmerica
+barbados,1995,0.93,27739,NorthAmerica
+barbados,1996,0.85,27231,NorthAmerica
+barbados,1997,0.96,27097,NorthAmerica
+barbados,1998,0.93,26817,NorthAmerica
+barbados,1999,0.87,26513,NorthAmerica
+barbados,2000,0.93,26463,NorthAmerica
+barbados,2001,0.84,25785,NorthAmerica
+barbados,2002,0.87,25720,NorthAmerica
+barbados,2003,0.89,25606,NorthAmerica
+barbados,2004,0.93,25561,NorthAmerica
+barbados,2005,0.92,25533,NorthAmerica
+barbados,2006,0.84,25289,NorthAmerica
+barbados,2007,0.93,24929,NorthAmerica
+barbados,2008,0.85,24626,NorthAmerica
+barbados,2009,0.93,24307,NorthAmerica
+barbados,2010,0.86,24240,NorthAmerica
+barbados,2011,0.91,24170,NorthAmerica
+barbados,2012,0.87,23850,NorthAmerica
+barbados,2013,0.91,23816,NorthAmerica
+barbados,2014,0.94,23851,NorthAmerica
+barbados,2015,0.97,23836,NorthAmerica
+barbados,2016,0.97,23781,NorthAmerica
+barbados,2017,0.9,23743,NorthAmerica
+belgium,1990,0.93,25402,Europe
+belgium,1991,0.92,25159,Europe
+belgium,1992,0.95,25002,Europe
+belgium,1993,0.97,24835,Europe
+belgium,1994,0.96,24641,Europe
+belgium,1995,0.94,24282,Europe
+belgium,1996,0.95,23789,Europe
+belgium,1997,0.87,23613,Europe
+belgium,1998,0.79,23419,Europe
+belgium,1999,0.87,23267,Europe
+belgium,2000,0.95,23213,Europe
+belgium,2001,0.95,22945,Europe
+belgium,2002,0.95,22727,Europe
+belgium,2003,0.95,22429,Europe
+belgium,2004,0.95,21977,Europe
+belgium,2005,0.97,21818,Europe
+belgium,2006,0.98,21453,Europe
+belgium,2007,0.98,21478,Europe
+belgium,2008,0.99,21377,Europe
+belgium,2009,0.98,21149,Europe
+belgium,2010,0.98,20923,Europe
+belgium,2011,0.98,20804,Europe
+belgium,2012,0.99,20686,Europe
+belgium,2013,0.99,20418,Europe
+belgium,2014,0.99,19996,Europe
+belgium,2015,0.99,19910,Europe
+belgium,2016,0.98,19635,Europe
+belgium,2017,0.98,19465,Europe
+belize,1990,0.91,33336,NorthAmerica
+belize,1991,0.82,32859,NorthAmerica
+belize,1992,0.74,32710,NorthAmerica
+belize,1993,0.85,32713,NorthAmerica
+belize,1994,0.88,32778,NorthAmerica
+belize,1995,0.83,32899,NorthAmerica
+belize,1996,0.85,33779,NorthAmerica
+belize,1997,0.86,34249,NorthAmerica
+belize,1998,0.87,36740,NorthAmerica
+belize,1999,0.87,35296,NorthAmerica
+belize,2000,0.91,35649,NorthAmerica
+belize,2001,0.96,34669,NorthAmerica
+belize,2002,0.89,33918,NorthAmerica
+belize,2003,0.96,33517,NorthAmerica
+belize,2004,0.97,32949,NorthAmerica
+belize,2005,0.96,32336,NorthAmerica
+belize,2006,0.98,31793,NorthAmerica
+belize,2007,0.96,31093,NorthAmerica
+belize,2008,0.94,30760,NorthAmerica
+belize,2009,0.97,30708,NorthAmerica
+belize,2010,0.96,30738,NorthAmerica
+belize,2011,0.95,30513,NorthAmerica
+belize,2012,0.98,30149,NorthAmerica
+belize,2013,0.95,29997,NorthAmerica
+belize,2014,0.95,29968,NorthAmerica
+belize,2015,0.94,30095,NorthAmerica
+belize,2016,0.95,30010,NorthAmerica
+belize,2017,0.88,29790,NorthAmerica
+benin,1990,0.74,75683,Africa
+benin,1991,0.69,74603,Africa
+benin,1992,0.73,73090,Africa
+benin,1993,0.75,71850,Africa
+benin,1994,0.81,71342,Africa
+benin,1995,0.67,70623,Africa
+benin,1996,0.66,70338,Africa
+benin,1997,0.66,69511,Africa
+benin,1998,0.7,68963,Africa
+benin,1999,0.74,68332,Africa
+benin,2000,0.78,67821,Africa
+benin,2001,0.76,67397,Africa
+benin,2002,0.75,66200,Africa
+benin,2003,0.73,65307,Africa
+benin,2004,0.72,64210,Africa
+benin,2005,0.7,63163,Africa
+benin,2006,0.74,62298,Africa
+benin,2007,0.82,61424,Africa
+benin,2008,0.75,60227,Africa
+benin,2009,0.79,59111,Africa
+benin,2010,0.76,58100,Africa
+benin,2011,0.75,57182,Africa
+benin,2012,0.8,56394,Africa
+benin,2013,0.77,55387,Africa
+benin,2014,0.74,54253,Africa
+benin,2015,0.74,52954,Africa
+benin,2016,0.76,51623,Africa
+benin,2017,0.76,50235,Africa
+bhutan,1990,0.96,59114,Asia
+bhutan,1991,0.91,59090,Asia
+bhutan,1992,0.86,59413,Asia
+bhutan,1993,0.79,58368,Asia
+bhutan,1994,0.86,57545,Asia
+bhutan,1995,0.87,55302,Asia
+bhutan,1996,0.87,53211,Asia
+bhutan,1997,0.87,51455,Asia
+bhutan,1998,0.86,49617,Asia
+bhutan,1999,0.9,47846,Asia
+bhutan,2000,0.92,48381,Asia
+bhutan,2001,0.88,45050,Asia
+bhutan,2002,0.86,43611,Asia
+bhutan,2003,0.95,42384,Asia
+bhutan,2004,0.89,41227,Asia
+bhutan,2005,0.95,40201,Asia
+bhutan,2006,0.95,39036,Asia
+bhutan,2007,0.95,37729,Asia
+bhutan,2008,0.96,36487,Asia
+bhutan,2009,0.93,35439,Asia
+bhutan,2010,0.91,34085,Asia
+bhutan,2011,0.95,33015,Asia
+bhutan,2012,0.97,32105,Asia
+bhutan,2013,0.97,31373,Asia
+bhutan,2014,0.99,30718,Asia
+bhutan,2015,0.99,30115,Asia
+bhutan,2016,0.98,29579,Asia
+bhutan,2017,0.98,29095,Asia
+botswana,1990,0.92,51827,Africa
+botswana,1991,0.93,53214,Africa
+botswana,1992,0.94,54909,Africa
+botswana,1993,0.94,56857,Africa
+botswana,1994,0.94,59138,Africa
+botswana,1995,0.95,61868,Africa
+botswana,1996,0.96,64544,Africa
+botswana,1997,0.96,67894,Africa
+botswana,1998,0.98,71817,Africa
+botswana,1999,0.97,76078,Africa
+botswana,2000,0.97,80475,Africa
+botswana,2001,0.97,84424,Africa
+botswana,2002,0.97,87586,Africa
+botswana,2003,0.96,89535,Africa
+botswana,2004,0.96,88814,Africa
+botswana,2005,0.96,84876,Africa
+botswana,2006,0.96,79513,Africa
+botswana,2007,0.96,74190,Africa
+botswana,2008,0.96,70024,Africa
+botswana,2009,0.96,65805,Africa
+botswana,2010,0.95,60698,Africa
+botswana,2011,0.95,56828,Africa
+botswana,2012,0.95,52833,Africa
+botswana,2013,0.95,49420,Africa
+botswana,2014,0.95,46508,Africa
+botswana,2015,0.95,44111,Africa
+botswana,2016,0.95,41603,Africa
+botswana,2017,0.95,39611,Africa
+brazil,1990,0.66,43153,SouthAmerica
+brazil,1991,0.78,41953,SouthAmerica
+brazil,1992,0.71,41164,SouthAmerica
+brazil,1993,0.75,40760,SouthAmerica
+brazil,1994,0.74,40073,SouthAmerica
+brazil,1995,0.81,39386,SouthAmerica
+brazil,1996,0.77,38609,SouthAmerica
+brazil,1997,0.79,37758,SouthAmerica
+brazil,1998,0.93,37150,SouthAmerica
+brazil,1999,0.94,36533,SouthAmerica
+brazil,2000,0.98,35723,SouthAmerica
+brazil,2001,0.98,34956,SouthAmerica
+brazil,2002,0.99,34283,SouthAmerica
+brazil,2003,0.99,33738,SouthAmerica
+brazil,2004,0.99,33100,SouthAmerica
+brazil,2005,0.99,32288,SouthAmerica
+brazil,2006,0.99,31744,SouthAmerica
+brazil,2007,0.99,31261,SouthAmerica
+brazil,2008,0.99,30824,SouthAmerica
+brazil,2009,0.99,30470,SouthAmerica
+brazil,2010,0.99,30094,SouthAmerica
+brazil,2011,0.99,29814,SouthAmerica
+brazil,2012,0.95,29313,SouthAmerica
+brazil,2013,0.97,28995,SouthAmerica
+brazil,2014,0.93,28584,SouthAmerica
+brazil,2015,0.96,28227,SouthAmerica
+brazil,2016,0.89,28144,SouthAmerica
+brazil,2017,0.89,27894,SouthAmerica
+brunei,1990,0.93,33193,Asia
+brunei,1991,0.95,32698,Asia
+brunei,1992,0.96,31992,Asia
+brunei,1993,0.99,31200,Asia
+brunei,1994,0.99,30553,Asia
+brunei,1995,0.99,29852,Asia
+brunei,1996,0.99,29241,Asia
+brunei,1997,0.99,28604,Asia
+brunei,1998,0.97,28171,Asia
+brunei,1999,0.92,27744,Asia
+brunei,2000,0.99,27532,Asia
+brunei,2001,0.97,27219,Asia
+brunei,2002,0.94,26987,Asia
+brunei,2003,0.92,26805,Asia
+brunei,2004,0.92,26595,Asia
+brunei,2005,0.94,26406,Asia
+brunei,2006,0.97,26246,Asia
+brunei,2007,0.99,26154,Asia
+brunei,2008,0.98,26019,Asia
+brunei,2009,0.99,25969,Asia
+brunei,2010,0.95,25898,Asia
+brunei,2011,0.97,26044,Asia
+brunei,2012,0.95,26046,Asia
+brunei,2013,0.99,25949,Asia
+brunei,2014,0.99,25806,Asia
+brunei,2015,0.99,25783,Asia
+brunei,2016,0.99,25566,Asia
+brunei,2017,0.99,25380,Asia
+bulgaria,1990,0.99,32562,Europe
+bulgaria,1991,0.99,32279,Europe
+bulgaria,1992,0.98,32937,Europe
+bulgaria,1993,0.98,32674,Europe
+bulgaria,1994,0.93,33709,Europe
+bulgaria,1995,0.96,33351,Europe
+bulgaria,1996,0.95,33546,Europe
+bulgaria,1997,0.94,34610,Europe
+bulgaria,1998,0.95,33562,Europe
+bulgaria,1999,0.96,32533,Europe
+bulgaria,2000,0.93,32181,Europe
+bulgaria,2001,0.94,31656,Europe
+bulgaria,2002,0.93,31129,Europe
+bulgaria,2003,0.96,30643,Europe
+bulgaria,2004,0.95,30412,Europe
+bulgaria,2005,0.96,30187,Europe
+bulgaria,2006,0.95,30003,Europe
+bulgaria,2007,0.95,29461,Europe
+bulgaria,2008,0.95,28995,Europe
+bulgaria,2009,0.94,28654,Europe
+bulgaria,2010,0.94,28306,Europe
+bulgaria,2011,0.95,27788,Europe
+bulgaria,2012,0.95,27217,Europe
+bulgaria,2013,0.95,26817,Europe
+bulgaria,2014,0.88,27214,Europe
+bulgaria,2015,0.91,26690,Europe
+bulgaria,2016,0.92,26565,Europe
+bulgaria,2017,0.92,26541,Europe
+burkina faso,1990,0.66,91720,Africa
+burkina faso,1991,0.53,91767,Africa
+burkina faso,1992,0.39,92129,Africa
+burkina faso,1993,0.39,92117,Africa
+burkina faso,1994,0.36,92182,Africa
+burkina faso,1995,0.34,92093,Africa
+burkina faso,1996,0.37,92863,Africa
+burkina faso,1997,0.39,90929,Africa
+burkina faso,1998,0.15,88930,Africa
+burkina faso,1999,0.15,87108,Africa
+burkina faso,2000,0.45,85593,Africa
+burkina faso,2001,0.62,84180,Africa
+burkina faso,2002,0.69,82398,Africa
+burkina faso,2003,0.79,80236,Africa
+burkina faso,2004,0.79,78232,Africa
+burkina faso,2005,0.82,75976,Africa
+burkina faso,2006,0.86,74195,Africa
+burkina faso,2007,0.89,72348,Africa
+burkina faso,2008,0.93,70368,Africa
+burkina faso,2009,0.92,68643,Africa
+burkina faso,2010,0.91,67362,Africa
+burkina faso,2011,0.91,65926,Africa
+burkina faso,2012,0.9,64676,Africa
+burkina faso,2013,0.88,63281,Africa
+burkina faso,2014,0.91,61845,Africa
+burkina faso,2015,0.91,60428,Africa
+burkina faso,2016,0.91,59124,Africa
+burkina faso,2017,0.91,57810,Africa
+burundi,1990,0.86,96361,Africa
+burundi,1991,0.83,96906,Africa
+burundi,1992,0.8,100373,Africa
+burundi,1993,0.63,100625,Africa
+burundi,1994,0.48,112839,Africa
+burundi,1995,0.73,116715,Africa
+burundi,1996,0.73,121062,Africa
+burundi,1997,0.74,122695,Africa
+burundi,1998,0.65,119548,Africa
+burundi,1999,0.79,118721,Africa
+burundi,2000,0.8,117885,Africa
+burundi,2001,0.81,114159,Africa
+burundi,2002,0.81,110024,Africa
+burundi,2003,0.82,105800,Africa
+burundi,2004,0.83,100694,Africa
+burundi,2005,0.87,96196,Africa
+burundi,2006,0.92,81374,Africa
+burundi,2007,0.99,76963,Africa
+burundi,2008,0.92,72736,Africa
+burundi,2009,0.94,68808,Africa
+burundi,2010,0.96,66271,Africa
+burundi,2011,0.96,63910,Africa
+burundi,2012,0.96,61641,Africa
+burundi,2013,0.96,59727,Africa
+burundi,2014,0.95,58457,Africa
+burundi,2015,0.94,57937,Africa
+burundi,2016,0.94,56763,Africa
+burundi,2017,0.91,55770,Africa
+cambodia,1990,0.38,68138,Asia
+cambodia,1991,0.38,67027,Asia
+cambodia,1992,0.32,65900,Asia
+cambodia,1993,0.35,65323,Asia
+cambodia,1994,0.37,65242,Asia
+cambodia,1995,0.39,64310,Asia
+cambodia,1996,0.43,63752,Asia
+cambodia,1997,0.46,62987,Asia
+cambodia,1998,0.47,62134,Asia
+cambodia,1999,0.53,61007,Asia
+cambodia,2000,0.59,59890,Asia
+cambodia,2001,0.6,58188,Asia
+cambodia,2002,0.54,56450,Asia
+cambodia,2003,0.69,54608,Asia
+cambodia,2004,0.85,52744,Asia
+cambodia,2005,0.82,50738,Asia
+cambodia,2006,0.8,48753,Asia
+cambodia,2007,0.82,46912,Asia
+cambodia,2008,0.91,45209,Asia
+cambodia,2009,0.94,43851,Asia
+cambodia,2010,0.9,42710,Asia
+cambodia,2011,0.91,41462,Asia
+cambodia,2012,0.9,40317,Asia
+cambodia,2013,0.86,39433,Asia
+cambodia,2014,0.91,38591,Asia
+cambodia,2015,0.92,37896,Asia
+cambodia,2016,0.93,37229,Asia
+cambodia,2017,0.93,36602,Asia
+cameroon,1990,0.48,71671,Africa
+cameroon,1991,0.42,72309,Africa
+cameroon,1992,0.37,72781,Africa
+cameroon,1993,0.37,73541,Africa
+cameroon,1994,0.38,73871,Africa
+cameroon,1995,0.46,74376,Africa
+cameroon,1996,0.46,74742,Africa
+cameroon,1997,0.48,75131,Africa
+cameroon,1998,0.56,75685,Africa
+cameroon,1999,0.59,75816,Africa
+cameroon,2000,0.62,76223,Africa
+cameroon,2001,0.63,76282,Africa
+cameroon,2002,0.66,76112,Africa
+cameroon,2003,0.73,75818,Africa
+cameroon,2004,0.73,75222,Africa
+cameroon,2005,0.8,74320,Africa
+cameroon,2006,0.81,72941,Africa
+cameroon,2007,0.82,71442,Africa
+cameroon,2008,0.84,69606,Africa
+cameroon,2009,0.8,67710,Africa
+cameroon,2010,0.84,65750,Africa
+cameroon,2011,0.82,63878,Africa
+cameroon,2012,0.85,61616,Africa
+cameroon,2013,0.89,59773,Africa
+cameroon,2014,0.83,58259,Africa
+cameroon,2015,0.78,56421,Africa
+cameroon,2016,0.75,54207,Africa
+cameroon,2017,0.74,52120,Africa
+canada,1990,0.88,23698,NorthAmerica
+canada,1991,0.88,23353,NorthAmerica
+canada,1992,0.89,23144,NorthAmerica
+canada,1993,0.9,23155,NorthAmerica
+canada,1994,0.93,22970,NorthAmerica
+canada,1995,0.87,22824,NorthAmerica
+canada,1996,0.9,22462,NorthAmerica
+canada,1997,0.86,22117,NorthAmerica
+canada,1998,0.9,21895,NorthAmerica
+canada,1999,0.9,21658,NorthAmerica
+canada,2000,0.89,21369,NorthAmerica
+canada,2001,0.89,21191,NorthAmerica
+canada,2002,0.88,21032,NorthAmerica
+canada,2003,0.91,20890,NorthAmerica
+canada,2004,0.91,20627,NorthAmerica
+canada,2005,0.93,20556,NorthAmerica
+canada,2006,0.95,20242,NorthAmerica
+canada,2007,0.94,20184,NorthAmerica
+canada,2008,0.92,20048,NorthAmerica
+canada,2009,0.91,19776,NorthAmerica
+canada,2010,0.89,19502,NorthAmerica
+canada,2011,0.87,19220,NorthAmerica
+canada,2012,0.91,19283,NorthAmerica
+canada,2013,0.91,19213,NorthAmerica
+canada,2014,0.91,19363,NorthAmerica
+canada,2015,0.91,19440,NorthAmerica
+canada,2016,0.91,19305,NorthAmerica
+canada,2017,0.91,19226,NorthAmerica
+cape verde,1990,0.88,39991,Africa
+cape verde,1991,0.87,39908,Africa
+cape verde,1992,0.88,39695,Africa
+cape verde,1993,0.89,39512,Africa
+cape verde,1994,0.89,39286,Africa
+cape verde,1995,0.88,42418,Africa
+cape verde,1996,0.88,39243,Africa
+cape verde,1997,0.87,38900,Africa
+cape verde,1998,0.88,38358,Africa
+cape verde,1999,0.89,38586,Africa
+cape verde,2000,0.9,37493,Africa
+cape verde,2001,0.9,36971,Africa
+cape verde,2002,0.91,36591,Africa
+cape verde,2003,0.92,35920,Africa
+cape verde,2004,0.93,35261,Africa
+cape verde,2005,0.95,34592,Africa
+cape verde,2006,0.96,33843,Africa
+cape verde,2007,0.98,33582,Africa
+cape verde,2008,0.99,32231,Africa
+cape verde,2009,0.99,31666,Africa
+cape verde,2010,0.99,31095,Africa
+cape verde,2011,0.9,30503,Africa
+cape verde,2012,0.94,30273,Africa
+cape verde,2013,0.93,29788,Africa
+cape verde,2014,0.95,29342,Africa
+cape verde,2015,0.93,29184,Africa
+cape verde,2016,0.96,28681,Africa
+cape verde,2017,0.96,28267,Africa
+central african republic,1990,0.82,103876,Africa
+central african republic,1991,0.64,105070,Africa
+central african republic,1992,0.45,106298,Africa
+central african republic,1993,0.47,108281,Africa
+central african republic,1994,0.48,110102,Africa
+central african republic,1995,0.53,112103,Africa
+central african republic,1996,0.48,114177,Africa
+central african republic,1997,0.43,115786,Africa
+central african republic,1998,0.43,116955,Africa
+central african republic,1999,0.33,117903,Africa
+central african republic,2000,0.37,119296,Africa
+central african republic,2001,0.4,120032,Africa
+central african republic,2002,0.44,120032,Africa
+central african republic,2003,0.47,119602,Africa
+central african republic,2004,0.51,119189,Africa
+central african republic,2005,0.54,118194,Africa
+central african republic,2006,0.51,117224,Africa
+central african republic,2007,0.48,115900,Africa
+central african republic,2008,0.45,113196,Africa
+central african republic,2009,0.42,110458,Africa
+central african republic,2010,0.45,107500,Africa
+central african republic,2011,0.47,104044,Africa
+central african republic,2012,0.47,101241,Africa
+central african republic,2013,0.23,106916,Africa
+central african republic,2014,0.47,107718,Africa
+central african republic,2015,0.47,99924,Africa
+central african republic,2016,0.47,97191,Africa
+central african republic,2017,0.47,96470,Africa
+chad,1990,0.2,87005,Africa
+chad,1991,0.18,86685,Africa
+chad,1992,0.1,86802,Africa
+chad,1993,0.13,86070,Africa
+chad,1994,0.18,86535,Africa
+chad,1995,0.18,86503,Africa
+chad,1996,0.2,87765,Africa
+chad,1997,0.24,88145,Africa
+chad,1998,0.35,88523,Africa
+chad,1999,0.45,88367,Africa
+chad,2000,0.36,88983,Africa
+chad,2001,0.26,88089,Africa
+chad,2002,0.25,87517,Africa
+chad,2003,0.23,86954,Africa
+chad,2004,0.21,85612,Africa
+chad,2005,0.25,83421,Africa
+chad,2006,0.4,82987,Africa
+chad,2007,0.28,80017,Africa
+chad,2008,0.19,78500,Africa
+chad,2009,0.24,76231,Africa
+chad,2010,0.39,74120,Africa
+chad,2011,0.33,72557,Africa
+chad,2012,0.4,70656,Africa
+chad,2013,0.39,68809,Africa
+chad,2014,0.36,67041,Africa
+chad,2015,0.42,65492,Africa
+chad,2016,0.41,64036,Africa
+chad,2017,0.41,63126,Africa
+chile,1990,0.95,30364,SouthAmerica
+chile,1991,0.94,28732,SouthAmerica
+chile,1992,0.9,27805,SouthAmerica
+chile,1993,0.9,27736,SouthAmerica
+chile,1994,0.94,27501,SouthAmerica
+chile,1995,0.94,27392,SouthAmerica
+chile,1996,0.91,26967,SouthAmerica
+chile,1997,0.9,26346,SouthAmerica
+chile,1998,0.9,26087,SouthAmerica
+chile,1999,0.95,25670,SouthAmerica
+chile,2000,0.91,24939,SouthAmerica
+chile,2001,0.97,25061,SouthAmerica
+chile,2002,0.97,24338,SouthAmerica
+chile,2003,0.96,24280,SouthAmerica
+chile,2004,0.93,24145,SouthAmerica
+chile,2005,0.91,23675,SouthAmerica
+chile,2006,0.94,23354,SouthAmerica
+chile,2007,0.96,23195,SouthAmerica
+chile,2008,0.95,22796,SouthAmerica
+chile,2009,0.94,23018,SouthAmerica
+chile,2010,0.92,22875,SouthAmerica
+chile,2011,0.94,22404,SouthAmerica
+chile,2012,0.9,22172,SouthAmerica
+chile,2013,0.91,22074,SouthAmerica
+chile,2014,0.95,21913,SouthAmerica
+chile,2015,0.96,21816,SouthAmerica
+chile,2016,0.95,21649,SouthAmerica
+chile,2017,0.93,21615,SouthAmerica
+china,1990,0.97,38822,Asia
+china,1991,0.94,38869,Asia
+china,1992,0.91,38621,Asia
+china,1993,0.88,37940,Asia
+china,1994,0.85,37068,Asia
+china,1995,0.8,36432,Asia
+china,1996,0.83,35823,Asia
+china,1997,0.84,34996,Asia
+china,1998,0.84,34178,Asia
+china,1999,0.85,33322,Asia
+china,2000,0.85,32490,Asia
+china,2001,0.86,31450,Asia
+china,2002,0.86,30567,Asia
+china,2003,0.86,29518,Asia
+china,2004,0.87,28737,Asia
+china,2005,0.87,27766,Asia
+china,2006,0.93,26590,Asia
+china,2007,0.93,25770,Asia
+china,2008,0.97,25707,Asia
+china,2009,0.99,25095,Asia
+china,2010,0.99,24831,Asia
+china,2011,0.99,24488,Asia
+china,2012,0.99,24077,Asia
+china,2013,0.99,23516,Asia
+china,2014,0.99,23328,Asia
+china,2015,0.99,23340,Asia
+china,2016,0.99,22820,Asia
+china,2017,0.99,22086,Asia
+colombia,1990,0.88,34319,NorthAmerica
+colombia,1991,0.84,35079,NorthAmerica
+colombia,1992,0.78,34820,NorthAmerica
+colombia,1993,0.88,33917,NorthAmerica
+colombia,1994,0.85,33460,NorthAmerica
+colombia,1995,0.85,32898,NorthAmerica
+colombia,1996,0.85,32466,NorthAmerica
+colombia,1997,0.84,31299,NorthAmerica
+colombia,1998,0.73,30721,NorthAmerica
+colombia,1999,0.74,30532,NorthAmerica
+colombia,2000,0.79,30354,NorthAmerica
+colombia,2001,0.8,30062,NorthAmerica
+colombia,2002,0.81,31313,NorthAmerica
+colombia,2003,0.92,28407,NorthAmerica
+colombia,2004,0.89,27616,NorthAmerica
+colombia,2005,0.93,26375,NorthAmerica
+colombia,2006,0.93,25931,NorthAmerica
+colombia,2007,0.93,25094,NorthAmerica
+colombia,2008,0.92,24645,NorthAmerica
+colombia,2009,0.92,24598,NorthAmerica
+colombia,2010,0.88,23992,NorthAmerica
+colombia,2011,0.85,23039,NorthAmerica
+colombia,2012,0.91,22595,NorthAmerica
+colombia,2013,0.91,22205,NorthAmerica
+colombia,2014,0.9,21771,NorthAmerica
+colombia,2015,0.91,21688,NorthAmerica
+colombia,2016,0.91,21555,NorthAmerica
+colombia,2017,0.92,21427,NorthAmerica
+comoros,1990,0.94,66936,Africa
+comoros,1991,0.52,66008,Africa
+comoros,1992,0.38,64924,Africa
+comoros,1993,0.7,63954,Africa
+comoros,1994,0.58,63312,Africa
+comoros,1995,0.75,62435,Africa
+comoros,1996,0.6,63839,Africa
+comoros,1997,0.48,61154,Africa
+comoros,1998,0.75,60814,Africa
+comoros,1999,0.73,58001,Africa
+comoros,2000,0.7,56994,Africa
+comoros,2001,0.7,54465,Africa
+comoros,2002,0.89,53368,Africa
+comoros,2003,0.8,51115,Africa
+comoros,2004,0.76,49642,Africa
+comoros,2005,0.68,48502,Africa
+comoros,2006,0.69,47434,Africa
+comoros,2007,0.75,46832,Africa
+comoros,2008,0.81,44958,Africa
+comoros,2009,0.83,45613,Africa
+comoros,2010,0.74,43072,Africa
+comoros,2011,0.83,43367,Africa
+comoros,2012,0.86,41953,Africa
+comoros,2013,0.87,41133,Africa
+comoros,2014,0.87,40107,Africa
+comoros,2015,0.91,39404,Africa
+comoros,2016,0.91,38758,Africa
+comoros,2017,0.91,38155,Africa
+congo,1990,0.79,82307,Africa
+congo,1991,0.74,83290,Africa
+congo,1992,0.67,84025,Africa
+congo,1993,0.6,86480,Africa
+congo,1994,0.55,87125,Africa
+congo,1995,0.5,88020,Africa
+congo,1996,0.37,88666,Africa
+congo,1997,0.23,109063,Africa
+congo,1998,0.26,95520,Africa
+congo,1999,0.29,88836,Africa
+congo,2000,0.33,85948,Africa
+congo,2001,0.31,82657,Africa
+congo,2002,0.41,80323,Africa
+congo,2003,0.5,78283,Africa
+congo,2004,0.67,75709,Africa
+congo,2005,0.62,73304,Africa
+congo,2006,0.73,70610,Africa
+congo,2007,0.72,68774,Africa
+congo,2008,0.79,66327,Africa
+congo,2009,0.78,64086,Africa
+congo,2010,0.74,62116,Africa
+congo,2011,0.82,60014,Africa
+congo,2012,0.85,58923,Africa
+congo,2013,0.85,57428,Africa
+congo,2014,0.9,56138,Africa
+congo,2015,0.8,54950,Africa
+congo,2016,0.71,54010,Africa
+congo,2017,0.69,53615,Africa
+costa rica,1990,0.95,24432,SouthAmerica
+costa rica,1991,0.9,24323,SouthAmerica
+costa rica,1992,0.9,24264,SouthAmerica
+costa rica,1993,0.88,24054,SouthAmerica
+costa rica,1994,0.88,24378,SouthAmerica
+costa rica,1995,0.85,24603,SouthAmerica
+costa rica,1996,0.85,23865,SouthAmerica
+costa rica,1997,0.94,23775,SouthAmerica
+costa rica,1998,0.85,23466,SouthAmerica
+costa rica,1999,0.86,23370,SouthAmerica
+costa rica,2000,0.88,22509,SouthAmerica
+costa rica,2001,0.91,22485,SouthAmerica
+costa rica,2002,0.94,22208,SouthAmerica
+costa rica,2003,0.88,22032,SouthAmerica
+costa rica,2004,0.9,21785,SouthAmerica
+costa rica,2005,0.91,21077,SouthAmerica
+costa rica,2006,0.89,21326,SouthAmerica
+costa rica,2007,0.89,20446,SouthAmerica
+costa rica,2008,0.9,20412,SouthAmerica
+costa rica,2009,0.86,20281,SouthAmerica
+costa rica,2010,0.88,21185,SouthAmerica
+costa rica,2011,0.85,20707,SouthAmerica
+costa rica,2012,0.91,20520,SouthAmerica
+costa rica,2013,0.95,20408,SouthAmerica
+costa rica,2014,0.91,20352,SouthAmerica
+costa rica,2015,0.92,20488,SouthAmerica
+costa rica,2016,0.97,20826,SouthAmerica
+costa rica,2017,0.96,20790,SouthAmerica
+cote ivoire,1990,0.54,76534,Africa
+cote ivoire,1991,0.39,78067,Africa
+cote ivoire,1992,0.49,79932,Africa
+cote ivoire,1993,0.5,81987,Africa
+cote ivoire,1994,0.5,83808,Africa
+cote ivoire,1995,0.52,85414,Africa
+cote ivoire,1996,0.55,85717,Africa
+cote ivoire,1997,0.58,85567,Africa
+cote ivoire,1998,0.58,85240,Africa
+cote ivoire,1999,0.58,84579,Africa
+cote ivoire,2000,0.65,83673,Africa
+cote ivoire,2001,0.66,82660,Africa
+cote ivoire,2002,0.64,81794,Africa
+cote ivoire,2003,0.61,80579,Africa
+cote ivoire,2004,0.67,79186,Africa
+cote ivoire,2005,0.76,77416,Africa
+cote ivoire,2006,0.77,75426,Africa
+cote ivoire,2007,0.76,73481,Africa
+cote ivoire,2008,0.74,71249,Africa
+cote ivoire,2009,0.81,69245,Africa
+cote ivoire,2010,0.78,67927,Africa
+cote ivoire,2011,0.61,66266,Africa
+cote ivoire,2012,0.82,63809,Africa
+cote ivoire,2013,0.75,61834,Africa
+cote ivoire,2014,0.73,60134,Africa
+cote ivoire,2015,0.79,58097,Africa
+cote ivoire,2016,0.87,56151,Africa
+cote ivoire,2017,0.83,54257,Africa
+cuba,1990,0.92,26611,NorthAmerica
+cuba,1991,0.99,26352,NorthAmerica
+cuba,1992,0.94,26228,NorthAmerica
+cuba,1993,0.99,26264,NorthAmerica
+cuba,1994,0.99,26301,NorthAmerica
+cuba,1995,0.99,25997,NorthAmerica
+cuba,1996,0.9,25227,NorthAmerica
+cuba,1997,0.99,24727,NorthAmerica
+cuba,1998,0.99,24464,NorthAmerica
+cuba,1999,0.95,24031,NorthAmerica
+cuba,2000,0.95,23457,NorthAmerica
+cuba,2001,0.98,23036,NorthAmerica
+cuba,2002,0.99,22244,NorthAmerica
+cuba,2003,0.72,22140,NorthAmerica
+cuba,2004,0.88,22031,NorthAmerica
+cuba,2005,0.89,22114,NorthAmerica
+cuba,2006,0.89,21374,NorthAmerica
+cuba,2007,0.93,21306,NorthAmerica
+cuba,2008,0.95,21320,NorthAmerica
+cuba,2009,0.96,21309,NorthAmerica
+cuba,2010,0.96,21237,NorthAmerica
+cuba,2011,0.97,20716,NorthAmerica
+cuba,2012,0.99,20934,NorthAmerica
+cuba,2013,0.99,20947,NorthAmerica
+cuba,2014,0.99,20943,NorthAmerica
+cuba,2015,0.99,21253,NorthAmerica
+cuba,2016,0.99,21140,NorthAmerica
+cuba,2017,0.99,21017,NorthAmerica
+cyprus,1990,0.93,25210,Europe
+cyprus,1991,0.94,24880,Europe
+cyprus,1992,0.94,24478,Europe
+cyprus,1993,0.95,24181,Europe
+cyprus,1994,0.95,24033,Europe
+cyprus,1995,0.96,23876,Europe
+cyprus,1996,0.98,23907,Europe
+cyprus,1997,0.98,24062,Europe
+cyprus,1998,0.98,24195,Europe
+cyprus,1999,0.97,23768,Europe
+cyprus,2000,0.97,23643,Europe
+cyprus,2001,0.97,23254,Europe
+cyprus,2002,0.98,22958,Europe
+cyprus,2003,0.98,22640,Europe
+cyprus,2004,0.98,22359,Europe
+cyprus,2005,0.98,22055,Europe
+cyprus,2006,0.97,21453,Europe
+cyprus,2007,0.97,21092,Europe
+cyprus,2008,0.97,20592,Europe
+cyprus,2009,0.99,20213,Europe
+cyprus,2010,0.99,19771,Europe
+cyprus,2011,0.99,19401,Europe
+cyprus,2012,0.99,19014,Europe
+cyprus,2013,0.99,18784,Europe
+cyprus,2014,0.99,18648,Europe
+cyprus,2015,0.97,18530,Europe
+cyprus,2016,0.97,18375,Europe
+cyprus,2017,0.97,18287,Europe
+democratic republic of congo,1990,0.35,82830,Africa
+democratic republic of congo,1991,0.16,82938,Africa
+democratic republic of congo,1992,0.23,82807,Africa
+democratic republic of congo,1993,0.29,83384,Africa
+democratic republic of congo,1994,0.26,83898,Africa
+democratic republic of congo,1995,0.23,83928,Africa
+democratic republic of congo,1996,0.18,89330,Africa
+democratic republic of congo,1997,0.18,89184,Africa
+democratic republic of congo,1998,0.18,85435,Africa
+democratic republic of congo,1999,0.25,84509,Africa
+democratic republic of congo,2000,0.4,83180,Africa
+democratic republic of congo,2001,0.3,82374,Africa
+democratic republic of congo,2002,0.38,82135,Africa
+democratic republic of congo,2003,0.41,80974,Africa
+democratic republic of congo,2004,0.54,78967,Africa
+democratic republic of congo,2005,0.6,77192,Africa
+democratic republic of congo,2006,0.62,76090,Africa
+democratic republic of congo,2007,0.7,75114,Africa
+democratic republic of congo,2008,0.65,74222,Africa
+democratic republic of congo,2009,0.72,73333,Africa
+democratic republic of congo,2010,0.6,70978,Africa
+democratic republic of congo,2011,0.74,69218,Africa
+democratic republic of congo,2012,0.75,67533,Africa
+democratic republic of congo,2013,0.68,65221,Africa
+democratic republic of congo,2014,0.68,63050,Africa
+democratic republic of congo,2015,0.63,60856,Africa
+democratic republic of congo,2016,0.57,59113,Africa
+democratic republic of congo,2017,0.57,57690,Africa
+denmark,1990,0.9,26378,Europe
+denmark,1991,0.9,25961,Europe
+denmark,1992,0.91,25773,Europe
+denmark,1993,0.88,25663,Europe
+denmark,1994,0.89,25733,Europe
+denmark,1995,0.9,25482,Europe
+denmark,1996,0.77,25103,Europe
+denmark,1997,0.92,24566,Europe
+denmark,1998,0.99,23998,Europe
+denmark,1999,0.99,24324,Europe
+denmark,2000,0.97,23484,Europe
+denmark,2001,0.97,23258,Europe
+denmark,2002,0.98,23212,Europe
+denmark,2003,0.96,22899,Europe
+denmark,2004,0.95,22488,Europe
+denmark,2005,0.93,21942,Europe
+denmark,2006,0.93,21864,Europe
+denmark,2007,0.87,21842,Europe
+denmark,2008,0.88,21400,Europe
+denmark,2009,0.89,21070,Europe
+denmark,2010,0.9,20752,Europe
+denmark,2011,0.91,20232,Europe
+denmark,2012,0.94,19898,Europe
+denmark,2013,0.94,19685,Europe
+denmark,2014,0.94,19462,Europe
+denmark,2015,0.93,19297,Europe
+denmark,2016,0.94,19373,Europe
+denmark,2017,0.98,19430,Europe
+djibouti,1990,0.85,56669,Africa
+djibouti,1991,0.53,58496,Africa
+djibouti,1992,0.41,64242,Africa
+djibouti,1993,0.41,61256,Africa
+djibouti,1994,0.41,62442,Africa
+djibouti,1995,0.41,60536,Africa
+djibouti,1996,0.41,60927,Africa
+djibouti,1997,0.32,60896,Africa
+djibouti,1998,0.23,59885,Africa
+djibouti,1999,0.23,59272,Africa
+djibouti,2000,0.46,58320,Africa
+djibouti,2001,0.53,57102,Africa
+djibouti,2002,0.62,56271,Africa
+djibouti,2003,0.68,55525,Africa
+djibouti,2004,0.64,55431,Africa
+djibouti,2005,0.71,54372,Africa
+djibouti,2006,0.72,54435,Africa
+djibouti,2007,0.88,52278,Africa
+djibouti,2008,0.89,50804,Africa
+djibouti,2009,0.89,49165,Africa
+djibouti,2010,0.88,47772,Africa
+djibouti,2011,0.87,46339,Africa
+djibouti,2012,0.81,45027,Africa
+djibouti,2013,0.82,43836,Africa
+djibouti,2014,0.78,42751,Africa
+djibouti,2015,0.84,41637,Africa
+djibouti,2016,0.68,40354,Africa
+djibouti,2017,0.76,39318,Africa
+dominica,1990,0.92,29927,NorthAmerica
+dominica,1991,0.98,29939,NorthAmerica
+dominica,1992,0.99,29890,NorthAmerica
+dominica,1993,0.99,29921,NorthAmerica
+dominica,1994,0.99,29902,NorthAmerica
+dominica,1995,0.99,29965,NorthAmerica
+dominica,1996,0.99,29801,NorthAmerica
+dominica,1997,0.92,29438,NorthAmerica
+dominica,1998,0.99,29219,NorthAmerica
+dominica,1999,0.99,29045,NorthAmerica
+dominica,2000,0.99,28914,NorthAmerica
+dominica,2001,0.99,28676,NorthAmerica
+dominica,2002,0.98,28544,NorthAmerica
+dominica,2003,0.99,28802,NorthAmerica
+dominica,2004,0.99,28680,NorthAmerica
+dominica,2005,0.98,28600,NorthAmerica
+dominica,2006,0.95,28752,NorthAmerica
+dominica,2007,0.96,29152,NorthAmerica
+dominica,2008,0.96,28811,NorthAmerica
+dominica,2009,0.99,29249,NorthAmerica
+dominica,2010,0.98,30029,NorthAmerica
+dominica,2011,0.98,30467,NorthAmerica
+dominica,2012,0.97,31019,NorthAmerica
+dominica,2013,0.96,31642,NorthAmerica
+dominica,2014,0.97,32170,NorthAmerica
+dominica,2015,0.98,32790,NorthAmerica
+dominica,2016,0.99,32202,NorthAmerica
+dominica,2017,0.91,32138,NorthAmerica
+dominican republic,1990,0.69,36904,NorthAmerica
+dominican republic,1991,0.71,36110,NorthAmerica
+dominican republic,1992,0.73,35025,NorthAmerica
+dominican republic,1993,0.75,34412,NorthAmerica
+dominican republic,1994,0.74,33788,NorthAmerica
+dominican republic,1995,0.72,33490,NorthAmerica
+dominican republic,1996,0.72,33386,NorthAmerica
+dominican republic,1997,0.73,33102,NorthAmerica
+dominican republic,1998,0.75,32989,NorthAmerica
+dominican republic,1999,0.83,32331,NorthAmerica
+dominican republic,2000,0.78,31917,NorthAmerica
+dominican republic,2001,0.72,31609,NorthAmerica
+dominican republic,2002,0.82,31288,NorthAmerica
+dominican republic,2003,0.79,31546,NorthAmerica
+dominican republic,2004,0.79,32489,NorthAmerica
+dominican republic,2005,0.87,32301,NorthAmerica
+dominican republic,2006,0.89,32224,NorthAmerica
+dominican republic,2007,0.85,31783,NorthAmerica
+dominican republic,2008,0.82,31010,NorthAmerica
+dominican republic,2009,0.82,30711,NorthAmerica
+dominican republic,2010,0.88,30617,NorthAmerica
+dominican republic,2011,0.84,30899,NorthAmerica
+dominican republic,2012,0.85,31120,NorthAmerica
+dominican republic,2013,0.83,31615,NorthAmerica
+dominican republic,2014,0.91,31478,NorthAmerica
+dominican republic,2015,0.85,31526,NorthAmerica
+dominican republic,2016,0.87,31450,NorthAmerica
+dominican republic,2017,0.84,30965,NorthAmerica
+ecuador,1990,0.68,34164,SouthAmerica
+ecuador,1991,0.59,34632,SouthAmerica
+ecuador,1992,0.87,33778,SouthAmerica
+ecuador,1993,0.85,32906,SouthAmerica
+ecuador,1994,0.84,31815,SouthAmerica
+ecuador,1995,0.83,31531,SouthAmerica
+ecuador,1996,0.82,31749,SouthAmerica
+ecuador,1997,0.81,30834,SouthAmerica
+ecuador,1998,0.85,30858,SouthAmerica
+ecuador,1999,0.79,30615,SouthAmerica
+ecuador,2000,0.87,30177,SouthAmerica
+ecuador,2001,0.89,29322,SouthAmerica
+ecuador,2002,0.88,29732,SouthAmerica
+ecuador,2003,0.87,29719,SouthAmerica
+ecuador,2004,0.88,29632,SouthAmerica
+ecuador,2005,0.92,29770,SouthAmerica
+ecuador,2006,0.96,29704,SouthAmerica
+ecuador,2007,0.96,29588,SouthAmerica
+ecuador,2008,0.96,29494,SouthAmerica
+ecuador,2009,0.94,29113,SouthAmerica
+ecuador,2010,0.91,28768,SouthAmerica
+ecuador,2011,0.88,28034,SouthAmerica
+ecuador,2012,0.87,27421,SouthAmerica
+ecuador,2013,0.87,26763,SouthAmerica
+ecuador,2014,0.83,26159,SouthAmerica
+ecuador,2015,0.78,25781,SouthAmerica
+ecuador,2016,0.83,25932,SouthAmerica
+ecuador,2017,0.85,25477,SouthAmerica
+egypt,1990,0.87,54048,Africa
+egypt,1991,0.76,52598,Africa
+egypt,1992,0.79,51033,Africa
+egypt,1993,0.81,50408,Africa
+egypt,1994,0.83,49471,Africa
+egypt,1995,0.88,47834,Africa
+egypt,1996,0.9,46319,Africa
+egypt,1997,0.88,45429,Africa
+egypt,1998,0.92,44300,Africa
+egypt,1999,0.97,43506,Africa
+egypt,2000,0.98,42285,Africa
+egypt,2001,0.99,42580,Africa
+egypt,2002,0.97,42410,Africa
+egypt,2003,0.98,42244,Africa
+egypt,2004,0.97,41701,Africa
+egypt,2005,0.98,41136,Africa
+egypt,2006,0.98,40811,Africa
+egypt,2007,0.98,39876,Africa
+egypt,2008,0.97,39508,Africa
+egypt,2009,0.97,39490,Africa
+egypt,2010,0.97,39019,Africa
+egypt,2011,0.96,38355,Africa
+egypt,2012,0.93,37571,Africa
+egypt,2013,0.97,36556,Africa
+egypt,2014,0.94,35768,Africa
+egypt,2015,0.93,36215,Africa
+egypt,2016,0.95,35541,Africa
+egypt,2017,0.94,35255,Africa
+el salvador,1990,0.8,40419,NorthAmerica
+el salvador,1991,0.61,39164,NorthAmerica
+el salvador,1992,0.6,38433,NorthAmerica
+el salvador,1993,0.79,37756,NorthAmerica
+el salvador,1994,0.9,37776,NorthAmerica
+el salvador,1995,0.99,36291,NorthAmerica
+el salvador,1996,0.96,35825,NorthAmerica
+el salvador,1997,0.97,35354,NorthAmerica
+el salvador,1998,0.99,35472,NorthAmerica
+el salvador,1999,0.94,34138,NorthAmerica
+el salvador,2000,0.99,33227,NorthAmerica
+el salvador,2001,0.92,33455,NorthAmerica
+el salvador,2002,0.81,31848,NorthAmerica
+el salvador,2003,0.94,31855,NorthAmerica
+el salvador,2004,0.9,32291,NorthAmerica
+el salvador,2005,0.89,32329,NorthAmerica
+el salvador,2006,0.96,31473,NorthAmerica
+el salvador,2007,0.99,32037,NorthAmerica
+el salvador,2008,0.98,31232,NorthAmerica
+el salvador,2009,0.91,31393,NorthAmerica
+el salvador,2010,0.89,30449,NorthAmerica
+el salvador,2011,0.89,30203,NorthAmerica
+el salvador,2012,0.92,31883,NorthAmerica
+el salvador,2013,0.92,31844,NorthAmerica
+el salvador,2014,0.94,32511,NorthAmerica
+el salvador,2015,0.91,32742,NorthAmerica
+el salvador,2016,0.93,29541,NorthAmerica
+el salvador,2017,0.85,29122,NorthAmerica
+equatorial guinea,1990,0.77,99962,Africa
+equatorial guinea,1991,0.77,100185,Africa
+equatorial guinea,1992,0.76,99516,Africa
+equatorial guinea,1993,0.76,99179,Africa
+equatorial guinea,1994,0.77,99128,Africa
+equatorial guinea,1995,0.79,98402,Africa
+equatorial guinea,1996,0.8,96046,Africa
+equatorial guinea,1997,0.81,87845,Africa
+equatorial guinea,1998,0.81,83031,Africa
+equatorial guinea,1999,0.33,78733,Africa
+equatorial guinea,2000,0.35,73928,Africa
+equatorial guinea,2001,0.37,68875,Africa
+equatorial guinea,2002,0.39,65008,Africa
+equatorial guinea,2003,0.41,63125,Africa
+equatorial guinea,2004,0.43,61309,Africa
+equatorial guinea,2005,0.44,60483,Africa
+equatorial guinea,2006,0.46,58335,Africa
+equatorial guinea,2007,0.48,57171,Africa
+equatorial guinea,2008,0.5,56453,Africa
+equatorial guinea,2009,0.52,55504,Africa
+equatorial guinea,2010,0.54,54758,Africa
+equatorial guinea,2011,0.54,54320,Africa
+equatorial guinea,2012,0.54,53535,Africa
+equatorial guinea,2013,0.53,51448,Africa
+equatorial guinea,2014,0.53,49489,Africa
+equatorial guinea,2015,0.4,48540,Africa
+equatorial guinea,2016,0.53,47690,Africa
+equatorial guinea,2017,0.53,46657,Africa
+eswatini,1990,0.89,55529,Africa
+eswatini,1991,0.79,54919,Africa
+eswatini,1992,0.93,54802,Africa
+eswatini,1993,0.89,55294,Africa
+eswatini,1994,0.96,58094,Africa
+eswatini,1995,0.82,62848,Africa
+eswatini,1996,0.82,69169,Africa
+eswatini,1997,0.82,75951,Africa
+eswatini,1998,0.83,84209,Africa
+eswatini,1999,0.83,92393,Africa
+eswatini,2000,0.84,101304,Africa
+eswatini,2001,0.84,109518,Africa
+eswatini,2002,0.85,115217,Africa
+eswatini,2003,0.85,119923,Africa
+eswatini,2004,0.86,123372,Africa
+eswatini,2005,0.86,125059,Africa
+eswatini,2006,0.87,123662,Africa
+eswatini,2007,0.87,121860,Africa
+eswatini,2008,0.88,120323,Africa
+eswatini,2009,0.88,118228,Africa
+eswatini,2010,0.89,112818,Africa
+eswatini,2011,0.91,103934,Africa
+eswatini,2012,0.95,98476,Africa
+eswatini,2013,0.98,92280,Africa
+eswatini,2014,0.98,83124,Africa
+eswatini,2015,0.9,73841,Africa
+eswatini,2016,0.9,67219,Africa
+eswatini,2017,0.9,61391,Africa
+ethiopia,1990,0.49,100631,Africa
+ethiopia,1991,0.21,98402,Africa
+ethiopia,1992,0.13,98062,Africa
+ethiopia,1993,0.28,97262,Africa
+ethiopia,1994,0.57,96515,Africa
+ethiopia,1995,0.57,95592,Africa
+ethiopia,1996,0.55,93714,Africa
+ethiopia,1997,0.55,91843,Africa
+ethiopia,1998,0.41,90508,Africa
+ethiopia,1999,0.27,91744,Africa
+ethiopia,2000,0.3,90027,Africa
+ethiopia,2001,0.32,82336,Africa
+ethiopia,2002,0.35,79064,Africa
+ethiopia,2003,0.37,76289,Africa
+ethiopia,2004,0.4,73149,Africa
+ethiopia,2005,0.44,69691,Africa
+ethiopia,2006,0.46,66266,Africa
+ethiopia,2007,0.5,62547,Africa
+ethiopia,2008,0.54,59113,Africa
+ethiopia,2009,0.58,56139,Africa
+ethiopia,2010,0.61,53242,Africa
+ethiopia,2011,0.65,50609,Africa
+ethiopia,2012,0.62,48369,Africa
+ethiopia,2013,0.59,46446,Africa
+ethiopia,2014,0.61,44735,Africa
+ethiopia,2015,0.64,43274,Africa
+ethiopia,2016,0.66,41925,Africa
+ethiopia,2017,0.69,40653,Africa
+fiji,1990,0.97,41296,Oceania
+fiji,1991,0.99,41468,Oceania
+fiji,1992,0.97,41346,Oceania
+fiji,1993,0.96,42051,Oceania
+fiji,1994,0.96,42469,Oceania
+fiji,1995,0.97,43016,Oceania
+fiji,1996,0.97,43732,Oceania
+fiji,1997,0.86,45195,Oceania
+fiji,1998,0.87,44856,Oceania
+fiji,1999,0.89,45800,Oceania
+fiji,2000,0.9,45909,Oceania
+fiji,2001,0.91,45140,Oceania
+fiji,2002,0.93,44732,Oceania
+fiji,2003,0.94,44493,Oceania
+fiji,2004,0.95,43845,Oceania
+fiji,2005,0.96,43665,Oceania
+fiji,2006,0.98,43528,Oceania
+fiji,2007,0.99,43403,Oceania
+fiji,2008,0.99,43182,Oceania
+fiji,2009,0.99,42328,Oceania
+fiji,2010,0.99,41883,Oceania
+fiji,2011,0.99,41425,Oceania
+fiji,2012,0.99,41156,Oceania
+fiji,2013,0.99,40826,Oceania
+fiji,2014,0.99,40525,Oceania
+fiji,2015,0.99,40229,Oceania
+fiji,2016,0.99,40215,Oceania
+fiji,2017,0.99,39647,Oceania
+finland,1990,0.9,26936,Europe
+finland,1991,0.95,26466,Europe
+finland,1992,0.99,26044,Europe
+finland,1993,0.99,25511,Europe
+finland,1994,0.99,24848,Europe
+finland,1995,0.99,24782,Europe
+finland,1996,0.99,24415,Europe
+finland,1997,0.99,24298,Europe
+finland,1998,0.99,24065,Europe
+finland,1999,0.99,23866,Europe
+finland,2000,0.99,23649,Europe
+finland,2001,0.98,23145,Europe
+finland,2002,0.98,22818,Europe
+finland,2003,0.98,22675,Europe
+finland,2004,0.98,22742,Europe
+finland,2005,0.97,22441,Europe
+finland,2006,0.97,22000,Europe
+finland,2007,0.99,21969,Europe
+finland,2008,0.99,21713,Europe
+finland,2009,0.99,21436,Europe
+finland,2010,0.99,21166,Europe
+finland,2011,0.99,20811,Europe
+finland,2012,0.99,20540,Europe
+finland,2013,0.98,20207,Europe
+finland,2014,0.98,19862,Europe
+finland,2015,0.97,19473,Europe
+finland,2016,0.92,19489,Europe
+finland,2017,0.89,19522,Europe
+france,1990,0.94,23902,Europe
+france,1991,0.94,23728,Europe
+france,1992,0.94,23392,Europe
+france,1993,0.94,23199,Europe
+france,1994,0.96,22824,Europe
+france,1995,0.96,22441,Europe
+france,1996,0.97,22108,Europe
+france,1997,0.97,21718,Europe
+france,1998,0.96,21745,Europe
+france,1999,0.97,21551,Europe
+france,2000,0.97,21266,Europe
+france,2001,0.97,21176,Europe
+france,2002,0.97,20946,Europe
+france,2003,0.97,20726,Europe
+france,2004,0.98,20107,Europe
+france,2005,0.98,19942,Europe
+france,2006,0.99,19708,Europe
+france,2007,0.99,19451,Europe
+france,2008,0.99,19365,Europe
+france,2009,0.98,19324,Europe
+france,2010,0.99,19139,Europe
+france,2011,0.99,18908,Europe
+france,2012,0.99,18684,Europe
+france,2013,0.99,18467,Europe
+france,2014,0.98,18188,Europe
+france,2015,0.97,18144,Europe
+france,2016,0.96,17937,Europe
+france,2017,0.96,17833,Europe
+gabon,1990,0.78,61338,Africa
+gabon,1991,0.72,60742,Africa
+gabon,1992,0.66,59824,Africa
+gabon,1993,0.67,59815,Africa
+gabon,1994,0.69,59947,Africa
+gabon,1995,0.7,60064,Africa
+gabon,1996,0.62,60929,Africa
+gabon,1997,0.54,60332,Africa
+gabon,1998,0.5,60686,Africa
+gabon,1999,0.45,61567,Africa
+gabon,2000,0.45,62455,Africa
+gabon,2001,0.45,63419,Africa
+gabon,2002,0.45,63315,Africa
+gabon,2003,0.45,63530,Africa
+gabon,2004,0.45,63499,Africa
+gabon,2005,0.45,62204,Africa
+gabon,2006,0.45,61124,Africa
+gabon,2007,0.81,59422,Africa
+gabon,2008,0.82,58118,Africa
+gabon,2009,0.76,56453,Africa
+gabon,2010,0.67,54641,Africa
+gabon,2011,0.75,53240,Africa
+gabon,2012,0.82,51377,Africa
+gabon,2013,0.79,49167,Africa
+gabon,2014,0.7,47173,Africa
+gabon,2015,0.8,45510,Africa
+gabon,2016,0.75,43900,Africa
+gabon,2017,0.75,42486,Africa
+gambia,1990,0.92,63042,Africa
+gambia,1991,0.85,62319,Africa
+gambia,1992,0.85,62228,Africa
+gambia,1993,0.9,60920,Africa
+gambia,1994,0.93,60530,Africa
+gambia,1995,0.96,60043,Africa
+gambia,1996,0.96,59637,Africa
+gambia,1997,0.96,59762,Africa
+gambia,1998,0.85,58907,Africa
+gambia,1999,0.74,58679,Africa
+gambia,2000,0.8,58183,Africa
+gambia,2001,0.87,57659,Africa
+gambia,2002,0.87,57370,Africa
+gambia,2003,0.87,56941,Africa
+gambia,2004,0.87,56410,Africa
+gambia,2005,0.95,56114,Africa
+gambia,2006,0.95,55292,Africa
+gambia,2007,0.95,54949,Africa
+gambia,2008,0.96,54106,Africa
+gambia,2009,0.98,53381,Africa
+gambia,2010,0.97,52499,Africa
+gambia,2011,0.96,51630,Africa
+gambia,2012,0.98,50812,Africa
+gambia,2013,0.97,50190,Africa
+gambia,2014,0.96,49536,Africa
+gambia,2015,0.97,48663,Africa
+gambia,2016,0.95,47840,Africa
+gambia,2017,0.92,46916,Africa
+germany,1990,0.8,25750,Europe
+germany,1991,0.8,25482,Europe
+germany,1992,0.85,24958,Europe
+germany,1993,0.62,24718,Europe
+germany,1994,0.73,24348,Europe
+germany,1995,0.78,24017,Europe
+germany,1996,0.84,23663,Europe
+germany,1997,0.87,23169,Europe
+germany,1998,0.89,22620,Europe
+germany,1999,0.97,22315,Europe
+germany,2000,0.9,22051,Europe
+germany,2001,0.93,21694,Europe
+germany,2002,0.93,21558,Europe
+germany,2003,0.97,21464,Europe
+germany,2004,0.96,20966,Europe
+germany,2005,0.96,20654,Europe
+germany,2006,0.96,20383,Europe
+germany,2007,0.96,20257,Europe
+germany,2008,0.96,20102,Europe
+germany,2009,0.96,20023,Europe
+germany,2010,0.96,19889,Europe
+germany,2011,0.95,19759,Europe
+germany,2012,0.95,19523,Europe
+germany,2013,0.93,19581,Europe
+germany,2014,0.93,19336,Europe
+germany,2015,0.93,19554,Europe
+germany,2016,0.93,19627,Europe
+germany,2017,0.93,19580,Europe
+ghana,1990,0.58,63962,Africa
+ghana,1991,0.6,63515,Africa
+ghana,1992,0.62,63138,Africa
+ghana,1993,0.66,62736,Africa
+ghana,1994,0.7,63491,Africa
+ghana,1995,0.7,62881,Africa
+ghana,1996,0.71,62896,Africa
+ghana,1997,0.71,63605,Africa
+ghana,1998,0.76,62962,Africa
+ghana,1999,0.79,62832,Africa
+ghana,2000,0.88,62576,Africa
+ghana,2001,0.79,62537,Africa
+ghana,2002,0.78,62139,Africa
+ghana,2003,0.8,61581,Africa
+ghana,2004,0.8,60888,Africa
+ghana,2005,0.84,60139,Africa
+ghana,2006,0.84,59325,Africa
+ghana,2007,0.94,58547,Africa
+ghana,2008,0.93,57501,Africa
+ghana,2009,0.94,56532,Africa
+ghana,2010,0.94,55457,Africa
+ghana,2011,0.91,53843,Africa
+ghana,2012,0.92,52138,Africa
+ghana,2013,0.9,50693,Africa
+ghana,2014,0.98,49503,Africa
+ghana,2015,0.88,48514,Africa
+ghana,2016,0.93,47401,Africa
+ghana,2017,0.99,45910,Africa
+greece,1990,0.54,23263,Europe
+greece,1991,0.85,23123,Europe
+greece,1992,0.89,22987,Europe
+greece,1993,0.89,22646,Europe
+greece,1994,0.9,22476,Europe
+greece,1995,0.9,22392,Europe
+greece,1996,0.9,22209,Europe
+greece,1997,0.9,21891,Europe
+greece,1998,0.89,21788,Europe
+greece,1999,0.88,21737,Europe
+greece,2000,0.89,21402,Europe
+greece,2001,0.91,21146,Europe
+greece,2002,0.92,20979,Europe
+greece,2003,0.94,20934,Europe
+greece,2004,0.95,21017,Europe
+greece,2005,0.96,20875,Europe
+greece,2006,0.98,20488,Europe
+greece,2007,0.99,20696,Europe
+greece,2008,0.99,20307,Europe
+greece,2009,0.99,20202,Europe
+greece,2010,0.99,20008,Europe
+greece,2011,0.99,19927,Europe
+greece,2012,0.99,19841,Europe
+greece,2013,0.99,19515,Europe
+greece,2014,0.99,19440,Europe
+greece,2015,0.99,19689,Europe
+greece,2016,0.99,19537,Europe
+greece,2017,0.99,19396,Europe
+grenada,1990,0.8,35478,NorthAmerica
+grenada,1991,0.85,34281,NorthAmerica
+grenada,1992,0.9,33588,NorthAmerica
+grenada,1993,0.89,32931,NorthAmerica
+grenada,1994,0.91,32295,NorthAmerica
+grenada,1995,0.95,31572,NorthAmerica
+grenada,1996,0.8,30850,NorthAmerica
+grenada,1997,0.95,30283,NorthAmerica
+grenada,1998,0.97,29745,NorthAmerica
+grenada,1999,0.88,29058,NorthAmerica
+grenada,2000,0.97,28658,NorthAmerica
+grenada,2001,0.96,28442,NorthAmerica
+grenada,2002,0.98,28299,NorthAmerica
+grenada,2003,0.97,28075,NorthAmerica
+grenada,2004,0.83,28682,NorthAmerica
+grenada,2005,0.99,27732,NorthAmerica
+grenada,2006,0.91,27674,NorthAmerica
+grenada,2007,0.96,27599,NorthAmerica
+grenada,2008,0.99,27664,NorthAmerica
+grenada,2009,0.99,27768,NorthAmerica
+grenada,2010,0.97,27929,NorthAmerica
+grenada,2011,0.95,28015,NorthAmerica
+grenada,2012,0.97,27708,NorthAmerica
+grenada,2013,0.97,27734,NorthAmerica
+grenada,2014,0.97,27861,NorthAmerica
+grenada,2015,0.92,27820,NorthAmerica
+grenada,2016,0.96,27661,NorthAmerica
+grenada,2017,0.96,27442,NorthAmerica
+guatemala,1990,0.66,54001,NorthAmerica
+guatemala,1991,0.63,54677,NorthAmerica
+guatemala,1992,0.66,54246,NorthAmerica
+guatemala,1993,0.75,52835,NorthAmerica
+guatemala,1994,0.71,51903,NorthAmerica
+guatemala,1995,0.77,46957,NorthAmerica
+guatemala,1996,0.66,44077,NorthAmerica
+guatemala,1997,0.73,44474,NorthAmerica
+guatemala,1998,0.78,44079,NorthAmerica
+guatemala,1999,0.77,41530,NorthAmerica
+guatemala,2000,0.81,41564,NorthAmerica
+guatemala,2001,0.77,40428,NorthAmerica
+guatemala,2002,0.82,39070,NorthAmerica
+guatemala,2003,0.84,38708,NorthAmerica
+guatemala,2004,0.87,38030,NorthAmerica
+guatemala,2005,0.87,38304,NorthAmerica
+guatemala,2006,0.89,37410,NorthAmerica
+guatemala,2007,0.85,35724,NorthAmerica
+guatemala,2008,0.95,34882,NorthAmerica
+guatemala,2009,0.92,34933,NorthAmerica
+guatemala,2010,0.94,34128,NorthAmerica
+guatemala,2011,0.88,33384,NorthAmerica
+guatemala,2012,0.96,32871,NorthAmerica
+guatemala,2013,0.85,32402,NorthAmerica
+guatemala,2014,0.73,32372,NorthAmerica
+guatemala,2015,0.74,32214,NorthAmerica
+guatemala,2016,0.8,32474,NorthAmerica
+guatemala,2017,0.82,32309,NorthAmerica
+guinea,1990,0.17,90761,Africa
+guinea,1991,0.36,88540,Africa
+guinea,1992,0.52,87895,Africa
+guinea,1993,0.53,86645,Africa
+guinea,1994,0.53,85690,Africa
+guinea,1995,0.54,83919,Africa
+guinea,1996,0.48,83143,Africa
+guinea,1997,0.47,81672,Africa
+guinea,1998,0.56,80283,Africa
+guinea,1999,0.43,80044,Africa
+guinea,2000,0.46,80640,Africa
+guinea,2001,0.5,79451,Africa
+guinea,2002,0.53,77741,Africa
+guinea,2003,0.57,76395,Africa
+guinea,2004,0.6,75503,Africa
+guinea,2005,0.59,74536,Africa
+guinea,2006,0.57,73730,Africa
+guinea,2007,0.63,72892,Africa
+guinea,2008,0.6,71427,Africa
+guinea,2009,0.57,70438,Africa
+guinea,2010,0.64,68951,Africa
+guinea,2011,0.63,67575,Africa
+guinea,2012,0.57,66398,Africa
+guinea,2013,0.5,65221,Africa
+guinea,2014,0.44,65827,Africa
+guinea,2015,0.47,63420,Africa
+guinea,2016,0.47,60962,Africa
+guinea,2017,0.47,59374,Africa
+guinea-bissau,1990,0.61,100368,Africa
+guinea-bissau,1991,0.63,98377,Africa
+guinea-bissau,1992,0.67,96807,Africa
+guinea-bissau,1993,0.63,95363,Africa
+guinea-bissau,1994,0.74,95177,Africa
+guinea-bissau,1995,0.45,92674,Africa
+guinea-bissau,1996,0.53,91561,Africa
+guinea-bissau,1997,0.63,93291,Africa
+guinea-bissau,1998,0.54,93511,Africa
+guinea-bissau,1999,0.45,90939,Africa
+guinea-bissau,2000,0.49,87254,Africa
+guinea-bissau,2001,0.53,85954,Africa
+guinea-bissau,2002,0.57,84910,Africa
+guinea-bissau,2003,0.6,83818,Africa
+guinea-bissau,2004,0.64,82957,Africa
+guinea-bissau,2005,0.68,82863,Africa
+guinea-bissau,2006,0.71,80488,Africa
+guinea-bissau,2007,0.74,78932,Africa
+guinea-bissau,2008,0.77,77893,Africa
+guinea-bissau,2009,0.8,76002,Africa
+guinea-bissau,2010,0.83,73997,Africa
+guinea-bissau,2011,0.86,71979,Africa
+guinea-bissau,2012,0.87,70420,Africa
+guinea-bissau,2013,0.87,68788,Africa
+guinea-bissau,2014,0.88,67357,Africa
+guinea-bissau,2015,0.88,65661,Africa
+guinea-bissau,2016,0.88,63837,Africa
+guinea-bissau,2017,0.88,61936,Africa
+guyana,1990,0.83,44993,SouthAmerica
+guyana,1991,0.81,43734,SouthAmerica
+guyana,1992,0.79,42007,SouthAmerica
+guyana,1993,0.93,42332,SouthAmerica
+guyana,1994,0.9,42219,SouthAmerica
+guyana,1995,0.86,43499,SouthAmerica
+guyana,1996,0.83,44288,SouthAmerica
+guyana,1997,0.88,43626,SouthAmerica
+guyana,1998,0.9,43339,SouthAmerica
+guyana,1999,0.83,42527,SouthAmerica
+guyana,2000,0.88,43482,SouthAmerica
+guyana,2001,0.85,43587,SouthAmerica
+guyana,2002,0.91,43736,SouthAmerica
+guyana,2003,0.9,43176,SouthAmerica
+guyana,2004,0.91,42841,SouthAmerica
+guyana,2005,0.93,43203,SouthAmerica
+guyana,2006,0.93,42100,SouthAmerica
+guyana,2007,0.94,41073,SouthAmerica
+guyana,2008,0.93,40528,SouthAmerica
+guyana,2009,0.98,39352,SouthAmerica
+guyana,2010,0.95,40318,SouthAmerica
+guyana,2011,0.93,41148,SouthAmerica
+guyana,2012,0.97,41327,SouthAmerica
+guyana,2013,0.98,40253,SouthAmerica
+guyana,2014,0.98,39435,SouthAmerica
+guyana,2015,0.95,38628,SouthAmerica
+guyana,2016,0.97,37914,SouthAmerica
+guyana,2017,0.97,37282,SouthAmerica
+haiti,1990,0.41,77774,NorthAmerica
+haiti,1991,0.36,77408,NorthAmerica
+haiti,1992,0.38,76569,NorthAmerica
+haiti,1993,0.39,78001,NorthAmerica
+haiti,1994,0.41,76410,NorthAmerica
+haiti,1995,0.42,75829,NorthAmerica
+haiti,1996,0.42,74844,NorthAmerica
+haiti,1997,0.42,73798,NorthAmerica
+haiti,1998,0.41,72211,NorthAmerica
+haiti,1999,0.39,70517,NorthAmerica
+haiti,2000,0.43,68625,NorthAmerica
+haiti,2001,0.46,66964,NorthAmerica
+haiti,2002,0.5,65330,NorthAmerica
+haiti,2003,0.53,64013,NorthAmerica
+haiti,2004,0.57,64501,NorthAmerica
+haiti,2005,0.6,61666,NorthAmerica
+haiti,2006,0.62,60483,NorthAmerica
+haiti,2007,0.64,59335,NorthAmerica
+haiti,2008,0.64,58537,NorthAmerica
+haiti,2009,0.65,56994,NorthAmerica
+haiti,2010,0.67,181259,NorthAmerica
+haiti,2011,0.68,58129,NorthAmerica
+haiti,2012,0.66,55545,NorthAmerica
+haiti,2013,0.65,53963,NorthAmerica
+haiti,2014,0.63,52693,NorthAmerica
+haiti,2015,0.64,51445,NorthAmerica
+haiti,2016,0.64,50642,NorthAmerica
+haiti,2017,0.64,49023,NorthAmerica
+honduras,1990,0.84,40703,NorthAmerica
+honduras,1991,0.94,40099,NorthAmerica
+honduras,1992,0.93,39979,NorthAmerica
+honduras,1993,0.94,39805,NorthAmerica
+honduras,1994,0.94,38789,NorthAmerica
+honduras,1995,0.94,38908,NorthAmerica
+honduras,1996,0.94,38256,NorthAmerica
+honduras,1997,0.95,37649,NorthAmerica
+honduras,1998,0.97,51431,NorthAmerica
+honduras,1999,0.95,36777,NorthAmerica
+honduras,2000,0.94,36105,NorthAmerica
+honduras,2001,0.96,35565,NorthAmerica
+honduras,2002,0.95,34944,NorthAmerica
+honduras,2003,0.92,34594,NorthAmerica
+honduras,2004,0.94,34173,NorthAmerica
+honduras,2005,0.98,33592,NorthAmerica
+honduras,2006,0.95,33143,NorthAmerica
+honduras,2007,0.94,32653,NorthAmerica
+honduras,2008,0.93,32031,NorthAmerica
+honduras,2009,0.97,31480,NorthAmerica
+honduras,2010,0.97,31213,NorthAmerica
+honduras,2011,0.97,30677,NorthAmerica
+honduras,2012,0.98,33158,NorthAmerica
+honduras,2013,0.98,32393,NorthAmerica
+honduras,2014,0.98,32259,NorthAmerica
+honduras,2015,0.98,32200,NorthAmerica
+honduras,2016,0.94,28865,NorthAmerica
+honduras,2017,0.89,28522,NorthAmerica
+hungary,1990,0.99,37271,Europe
+hungary,1991,0.99,37092,Europe
+hungary,1992,0.99,37521,Europe
+hungary,1993,0.99,37311,Europe
+hungary,1994,0.99,36495,Europe
+hungary,1995,0.99,35645,Europe
+hungary,1996,0.99,34166,Europe
+hungary,1997,0.99,33571,Europe
+hungary,1998,0.99,33678,Europe
+hungary,1999,0.99,33318,Europe
+hungary,2000,0.99,31999,Europe
+hungary,2001,0.99,30965,Europe
+hungary,2002,0.99,30662,Europe
+hungary,2003,0.99,30484,Europe
+hungary,2004,0.99,29887,Europe
+hungary,2005,0.99,29828,Europe
+hungary,2006,0.99,29198,Europe
+hungary,2007,0.99,29007,Europe
+hungary,2008,0.99,28195,Europe
+hungary,2009,0.99,27847,Europe
+hungary,2010,0.99,27247,Europe
+hungary,2011,0.99,26749,Europe
+hungary,2012,0.99,26366,Europe
+hungary,2013,0.99,25739,Europe
+hungary,2014,0.99,25403,Europe
+hungary,2015,0.99,25950,Europe
+hungary,2016,0.99,24766,Europe
+hungary,2017,0.99,24252,Europe
+iceland,1990,0.99,22946,Europe
+iceland,1991,0.99,22683,Europe
+iceland,1992,0.99,22269,Europe
+iceland,1993,0.99,21962,Europe
+iceland,1994,0.99,21727,Europe
+iceland,1995,0.99,22335,Europe
+iceland,1996,0.99,21367,Europe
+iceland,1997,0.99,21114,Europe
+iceland,1998,0.99,20756,Europe
+iceland,1999,0.98,20444,Europe
+iceland,2000,0.98,20119,Europe
+iceland,2001,0.92,19767,Europe
+iceland,2002,0.95,19422,Europe
+iceland,2003,0.97,19101,Europe
+iceland,2004,0.99,18896,Europe
+iceland,2005,0.95,18668,Europe
+iceland,2006,0.97,18462,Europe
+iceland,2007,0.97,18227,Europe
+iceland,2008,0.98,18104,Europe
+iceland,2009,0.96,18049,Europe
+iceland,2010,0.96,17871,Europe
+iceland,2011,0.95,17698,Europe
+iceland,2012,0.89,17674,Europe
+iceland,2013,0.91,17668,Europe
+iceland,2014,0.9,17675,Europe
+iceland,2015,0.92,17671,Europe
+iceland,2016,0.91,17646,Europe
+iceland,2017,0.89,17664,Europe
+india,1990,0.7,63571,Asia
+india,1991,0.57,62971,Asia
+india,1992,0.56,62336,Asia
+india,1993,0.61,61025,Asia
+india,1994,0.67,59672,Asia
+india,1995,0.71,58442,Asia
+india,1996,0.66,57416,Asia
+india,1997,0.62,57561,Asia
+india,1998,0.61,56756,Asia
+india,1999,0.59,55341,Asia
+india,2000,0.58,54405,Asia
+india,2001,0.59,53511,Asia
+india,2002,0.59,52013,Asia
+india,2003,0.61,50496,Asia
+india,2004,0.63,49165,Asia
+india,2005,0.65,48503,Asia
+india,2006,0.65,47678,Asia
+india,2007,0.64,46885,Asia
+india,2008,0.7,46181,Asia
+india,2009,0.74,45506,Asia
+india,2010,0.79,45021,Asia
+india,2011,0.82,44310,Asia
+india,2012,0.82,43190,Asia
+india,2013,0.83,42168,Asia
+india,2014,0.85,41263,Asia
+india,2015,0.87,40773,Asia
+india,2016,0.88,40282,Asia
+india,2017,0.89,39559,Asia
+indonesia,1990,0.6,50521,Asia
+indonesia,1991,0.62,49457,Asia
+indonesia,1992,0.64,48503,Asia
+indonesia,1993,0.66,47606,Asia
+indonesia,1994,0.68,46771,Asia
+indonesia,1995,0.69,45870,Asia
+indonesia,1996,0.72,44981,Asia
+indonesia,1997,0.73,44342,Asia
+indonesia,1998,0.74,43815,Asia
+indonesia,1999,0.75,43248,Asia
+indonesia,2000,0.75,42298,Asia
+indonesia,2001,0.76,41593,Asia
+indonesia,2002,0.7,40948,Asia
+indonesia,2003,0.71,40347,Asia
+indonesia,2004,0.71,43680,Asia
+indonesia,2005,0.72,39023,Asia
+indonesia,2006,0.72,38650,Asia
+indonesia,2007,0.73,37979,Asia
+indonesia,2008,0.77,37526,Asia
+indonesia,2009,0.78,37034,Asia
+indonesia,2010,0.81,36329,Asia
+indonesia,2011,0.81,35677,Asia
+indonesia,2012,0.87,35089,Asia
+indonesia,2013,0.92,34629,Asia
+indonesia,2014,0.88,34075,Asia
+indonesia,2015,0.84,33612,Asia
+indonesia,2016,0.84,33128,Asia
+indonesia,2017,0.85,32671,Asia
+iran,1990,0.91,43628,Asia
+iran,1991,0.88,38829,Asia
+iran,1992,0.97,38316,Asia
+iran,1993,0.99,37861,Asia
+iran,1994,0.95,37158,Asia
+iran,1995,0.98,36519,Asia
+iran,1996,0.99,35666,Asia
+iran,1997,0.99,35077,Asia
+iran,1998,0.99,34020,Asia
+iran,1999,0.99,33361,Asia
+iran,2000,0.99,33084,Asia
+iran,2001,0.96,33256,Asia
+iran,2002,0.99,33349,Asia
+iran,2003,0.99,35356,Asia
+iran,2004,0.99,33043,Asia
+iran,2005,0.95,32686,Asia
+iran,2006,0.98,32301,Asia
+iran,2007,0.99,31930,Asia
+iran,2008,0.99,31596,Asia
+iran,2009,0.99,31213,Asia
+iran,2010,0.99,30775,Asia
+iran,2011,0.99,30293,Asia
+iran,2012,0.99,29862,Asia
+iran,2013,0.98,29401,Asia
+iran,2014,0.99,28678,Asia
+iran,2015,0.98,27906,Asia
+iran,2016,0.99,26917,Asia
+iran,2017,0.99,26346,Asia
+iraq,1990,0.83,48225,Asia
+iraq,1991,0.78,55450,Asia
+iraq,1992,0.74,47567,Asia
+iraq,1993,0.7,48038,Asia
+iraq,1994,0.72,48289,Asia
+iraq,1995,0.74,48491,Asia
+iraq,1996,0.76,48398,Asia
+iraq,1997,0.78,48494,Asia
+iraq,1998,0.76,46740,Asia
+iraq,1999,0.81,45615,Asia
+iraq,2000,0.8,45286,Asia
+iraq,2001,0.78,43296,Asia
+iraq,2002,0.77,42973,Asia
+iraq,2003,0.75,41754,Asia
+iraq,2004,0.74,40537,Asia
+iraq,2005,0.65,39817,Asia
+iraq,2006,0.59,42395,Asia
+iraq,2007,0.57,41256,Asia
+iraq,2008,0.69,36455,Asia
+iraq,2009,0.78,34619,Asia
+iraq,2010,0.74,33515,Asia
+iraq,2011,0.81,31979,Asia
+iraq,2012,0.73,30820,Asia
+iraq,2013,0.74,31323,Asia
+iraq,2014,0.72,32689,Asia
+iraq,2015,0.68,30561,Asia
+iraq,2016,0.73,30052,Asia
+iraq,2017,0.85,30139,Asia
+ireland,1990,0.65,26416,Europe
+ireland,1991,0.67,25987,Europe
+ireland,1992,0.68,25632,Europe
+ireland,1993,0.7,25457,Europe
+ireland,1994,0.71,25068,Europe
+ireland,1995,0.73,25275,Europe
+ireland,1996,0.74,24915,Europe
+ireland,1997,0.76,24813,Europe
+ireland,1998,0.84,24578,Europe
+ireland,1999,0.86,24495,Europe
+ireland,2000,0.86,24214,Europe
+ireland,2001,0.84,23551,Europe
+ireland,2002,0.83,22955,Europe
+ireland,2003,0.86,22307,Europe
+ireland,2004,0.89,21936,Europe
+ireland,2005,0.9,21465,Europe
+ireland,2006,0.91,21200,Europe
+ireland,2007,0.92,20827,Europe
+ireland,2008,0.93,20774,Europe
+ireland,2009,0.94,20700,Europe
+ireland,2010,0.94,19844,Europe
+ireland,2011,0.95,19768,Europe
+ireland,2012,0.95,19596,Europe
+ireland,2013,0.96,19328,Europe
+ireland,2014,0.96,19060,Europe
+ireland,2015,0.95,18875,Europe
+ireland,2016,0.95,18640,Europe
+ireland,2017,0.95,18623,Europe
+israel,1990,0.93,23550,Asia
+israel,1991,0.94,23773,Asia
+israel,1992,0.95,24012,Asia
+israel,1993,0.96,23270,Asia
+israel,1994,0.95,23068,Asia
+israel,1995,0.96,22832,Asia
+israel,1996,0.94,22591,Asia
+israel,1997,0.95,22383,Asia
+israel,1998,0.92,22189,Asia
+israel,1999,0.91,21812,Asia
+israel,2000,0.93,21743,Asia
+israel,2001,0.92,21687,Asia
+israel,2002,0.9,22099,Asia
+israel,2003,0.93,21144,Asia
+israel,2004,0.95,20641,Asia
+israel,2005,0.93,20198,Asia
+israel,2006,0.95,20189,Asia
+israel,2007,0.95,19718,Asia
+israel,2008,0.94,19656,Asia
+israel,2009,0.96,19264,Asia
+israel,2010,0.95,18562,Asia
+israel,2011,0.94,18432,Asia
+israel,2012,0.94,18196,Asia
+israel,2013,0.96,17987,Asia
+israel,2014,0.95,18963,Asia
+israel,2015,0.95,17783,Asia
+israel,2016,0.94,17598,Asia
+israel,2017,0.98,17481,Asia
+italy,1990,0.83,23905,Europe
+italy,1991,0.95,23917,Europe
+italy,1992,0.95,23519,Europe
+italy,1993,0.95,23040,Europe
+italy,1994,0.95,22785,Europe
+italy,1995,0.95,22513,Europe
+italy,1996,0.96,22168,Europe
+italy,1997,0.95,21684,Europe
+italy,1998,0.95,21450,Europe
+italy,1999,0.95,20997,Europe
+italy,2000,0.87,20609,Europe
+italy,2001,0.93,20370,Europe
+italy,2002,0.93,20095,Europe
+italy,2003,0.96,19976,Europe
+italy,2004,0.94,19433,Europe
+italy,2005,0.95,19216,Europe
+italy,2006,0.96,18973,Europe
+italy,2007,0.97,18783,Europe
+italy,2008,0.96,18612,Europe
+italy,2009,0.96,18474,Europe
+italy,2010,0.96,18113,Europe
+italy,2011,0.96,18012,Europe
+italy,2012,0.97,17883,Europe
+italy,2013,0.96,17670,Europe
+italy,2014,0.95,17432,Europe
+italy,2015,0.93,17465,Europe
+italy,2016,0.94,17172,Europe
+italy,2017,0.95,17021,Europe
+jamaica,1990,0.86,27406,NorthAmerica
+jamaica,1991,0.85,27036,NorthAmerica
+jamaica,1992,0.84,27641,NorthAmerica
+jamaica,1993,0.91,27817,NorthAmerica
+jamaica,1994,0.93,28073,NorthAmerica
+jamaica,1995,0.9,28282,NorthAmerica
+jamaica,1996,0.92,28519,NorthAmerica
+jamaica,1997,0.9,28700,NorthAmerica
+jamaica,1998,0.86,28761,NorthAmerica
+jamaica,1999,0.89,28955,NorthAmerica
+jamaica,2000,0.93,28501,NorthAmerica
+jamaica,2001,0.99,28319,NorthAmerica
+jamaica,2002,0.99,27147,NorthAmerica
+jamaica,2003,0.96,26037,NorthAmerica
+jamaica,2004,0.98,25282,NorthAmerica
+jamaica,2005,0.99,24580,NorthAmerica
+jamaica,2006,0.95,24682,NorthAmerica
+jamaica,2007,0.92,25756,NorthAmerica
+jamaica,2008,0.91,26705,NorthAmerica
+jamaica,2009,0.9,27375,NorthAmerica
+jamaica,2010,0.94,26419,NorthAmerica
+jamaica,2011,0.92,26809,NorthAmerica
+jamaica,2012,0.96,27464,NorthAmerica
+jamaica,2013,0.93,28051,NorthAmerica
+jamaica,2014,0.92,28335,NorthAmerica
+jamaica,2015,0.91,28409,NorthAmerica
+jamaica,2016,0.99,28388,NorthAmerica
+jamaica,2017,0.93,28122,NorthAmerica
+japan,1990,0.9,20077,Asia
+japan,1991,0.92,19913,Asia
+japan,1992,0.87,19825,Asia
+japan,1993,0.85,19680,Asia
+japan,1994,0.8,19364,Asia
+japan,1995,0.74,19479,Asia
+japan,1996,0.99,18960,Asia
+japan,1997,0.7,18735,Asia
+japan,1998,0.75,18826,Asia
+japan,1999,0.8,18695,Asia
+japan,2000,0.85,18329,Asia
+japan,2001,0.95,18083,Asia
+japan,2002,0.96,17849,Asia
+japan,2003,0.97,17786,Asia
+japan,2004,0.99,17616,Asia
+japan,2005,0.98,17607,Asia
+japan,2006,0.98,17399,Asia
+japan,2007,0.98,17274,Asia
+japan,2008,0.98,17182,Asia
+japan,2009,0.97,17052,Asia
+japan,2010,0.97,17011,Asia
+japan,2011,0.97,17364,Asia
+japan,2012,0.97,16760,Asia
+japan,2013,0.96,16597,Asia
+japan,2014,0.96,16473,Asia
+japan,2015,0.96,16262,Asia
+japan,2016,0.99,16224,Asia
+japan,2017,0.99,16214,Asia
+jordan,1990,0.92,36720,Asia
+jordan,1991,0.92,36383,Asia
+jordan,1992,0.92,35897,Asia
+jordan,1993,0.91,35916,Asia
+jordan,1994,0.94,35648,Asia
+jordan,1995,0.95,35467,Asia
+jordan,1996,0.96,35351,Asia
+jordan,1997,0.99,34928,Asia
+jordan,1998,0.99,34530,Asia
+jordan,1999,0.85,34077,Asia
+jordan,2000,0.91,33440,Asia
+jordan,2001,0.99,32913,Asia
+jordan,2002,0.95,32230,Asia
+jordan,2003,0.97,31300,Asia
+jordan,2004,0.95,30658,Asia
+jordan,2005,0.95,29718,Asia
+jordan,2006,0.98,28983,Asia
+jordan,2007,0.98,28192,Asia
+jordan,2008,0.97,27258,Asia
+jordan,2009,0.98,26493,Asia
+jordan,2010,0.98,25839,Asia
+jordan,2011,0.98,25448,Asia
+jordan,2012,0.98,24900,Asia
+jordan,2013,0.98,24431,Asia
+jordan,2014,0.98,24368,Asia
+jordan,2015,0.99,24092,Asia
+jordan,2016,0.98,23906,Asia
+jordan,2017,0.99,23676,Asia
+kenya,1990,0.84,55221,Africa
+kenya,1991,0.86,56766,Africa
+kenya,1992,0.87,58817,Africa
+kenya,1993,0.89,61104,Africa
+kenya,1994,0.92,63301,Africa
+kenya,1995,0.94,65546,Africa
+kenya,1996,0.87,67647,Africa
+kenya,1997,0.79,69780,Africa
+kenya,1998,0.81,71554,Africa
+kenya,1999,0.82,72066,Africa
+kenya,2000,0.82,72693,Africa
+kenya,2001,0.8,72493,Africa
+kenya,2002,0.84,71992,Africa
+kenya,2003,0.73,71292,Africa
+kenya,2004,0.73,70173,Africa
+kenya,2005,0.76,68501,Africa
+kenya,2006,0.8,66432,Africa
+kenya,2007,0.81,64081,Africa
+kenya,2008,0.88,61602,Africa
+kenya,2009,0.88,59011,Africa
+kenya,2010,0.9,56534,Africa
+kenya,2011,0.96,54135,Africa
+kenya,2012,0.94,52197,Africa
+kenya,2013,0.87,50711,Africa
+kenya,2014,0.92,49209,Africa
+kenya,2015,0.89,47944,Africa
+kenya,2016,0.89,46501,Africa
+kenya,2017,0.82,45177,Africa
+kiribati,1990,0.97,65444,Oceania
+kiribati,1991,0.7,65032,Oceania
+kiribati,1992,0.86,64812,Oceania
+kiribati,1993,0.99,64784,Oceania
+kiribati,1994,0.71,64200,Oceania
+kiribati,1995,0.6,64365,Oceania
+kiribati,1996,0.79,63498,Oceania
+kiribati,1997,0.91,63186,Oceania
+kiribati,1998,0.88,62924,Oceania
+kiribati,1999,0.78,62759,Oceania
+kiribati,2000,0.9,62463,Oceania
+kiribati,2001,0.85,62024,Oceania
+kiribati,2002,0.77,61612,Oceania
+kiribati,2003,0.7,61186,Oceania
+kiribati,2004,0.62,60809,Oceania
+kiribati,2005,0.79,60254,Oceania
+kiribati,2006,0.86,59788,Oceania
+kiribati,2007,0.94,59220,Oceania
+kiribati,2008,0.82,58693,Oceania
+kiribati,2009,0.86,58170,Oceania
+kiribati,2010,0.91,57649,Oceania
+kiribati,2011,0.99,57105,Oceania
+kiribati,2012,0.94,56620,Oceania
+kiribati,2013,0.95,56045,Oceania
+kiribati,2014,0.75,55497,Oceania
+kiribati,2015,0.78,54895,Oceania
+kiribati,2016,0.81,54269,Oceania
+kiribati,2017,0.9,53679,Oceania
+kuwait,1990,0.71,29466,Asia
+kuwait,1991,0.8,25277,Asia
+kuwait,1992,0.88,23818,Asia
+kuwait,1993,0.97,23066,Asia
+kuwait,1994,0.99,23621,Asia
+kuwait,1995,0.99,23352,Asia
+kuwait,1996,0.99,22712,Asia
+kuwait,1997,0.96,23112,Asia
+kuwait,1998,0.95,22793,Asia
+kuwait,1999,0.94,23011,Asia
+kuwait,2000,0.98,22982,Asia
+kuwait,2001,0.99,22105,Asia
+kuwait,2002,0.99,22125,Asia
+kuwait,2003,0.99,22101,Asia
+kuwait,2004,0.98,22198,Asia
+kuwait,2005,0.99,22180,Asia
+kuwait,2006,0.99,22120,Asia
+kuwait,2007,0.99,21824,Asia
+kuwait,2008,0.99,21823,Asia
+kuwait,2009,0.99,21581,Asia
+kuwait,2010,0.98,20472,Asia
+kuwait,2011,0.99,19776,Asia
+kuwait,2012,0.98,19549,Asia
+kuwait,2013,0.99,19237,Asia
+kuwait,2014,0.95,19037,Asia
+kuwait,2015,0.99,19033,Asia
+kuwait,2016,0.99,18817,Asia
+kuwait,2017,0.99,18712,Asia
+laos,1990,0.18,84299,Asia
+laos,1991,0.22,82187,Asia
+laos,1992,0.23,80463,Asia
+laos,1993,0.25,79038,Asia
+laos,1994,0.48,77861,Asia
+laos,1995,0.54,75853,Asia
+laos,1996,0.58,74054,Asia
+laos,1997,0.6,72220,Asia
+laos,1998,0.54,70572,Asia
+laos,1999,0.55,68704,Asia
+laos,2000,0.51,67037,Asia
+laos,2001,0.52,65362,Asia
+laos,2002,0.53,63369,Asia
+laos,2003,0.49,61729,Asia
+laos,2004,0.45,60147,Asia
+laos,2005,0.49,58722,Asia
+laos,2006,0.57,57244,Asia
+laos,2007,0.5,55515,Asia
+laos,2008,0.61,53937,Asia
+laos,2009,0.67,52309,Asia
+laos,2010,0.74,50628,Asia
+laos,2011,0.78,49052,Asia
+laos,2012,0.79,47680,Asia
+laos,2013,0.87,46461,Asia
+laos,2014,0.88,45149,Asia
+laos,2015,0.81,43987,Asia
+laos,2016,0.66,42852,Asia
+laos,2017,0.69,41789,Asia
+lebanon,1990,0.82,37327,Asia
+lebanon,1991,0.86,33962,Asia
+lebanon,1992,0.9,33485,Asia
+lebanon,1993,0.91,32915,Asia
+lebanon,1994,0.92,32179,Asia
+lebanon,1995,0.93,31395,Asia
+lebanon,1996,0.93,30770,Asia
+lebanon,1997,0.92,29899,Asia
+lebanon,1998,0.89,29140,Asia
+lebanon,1999,0.86,28420,Asia
+lebanon,2000,0.83,27842,Asia
+lebanon,2001,0.8,27296,Asia
+lebanon,2002,0.77,26933,Asia
+lebanon,2003,0.74,26626,Asia
+lebanon,2004,0.75,26339,Asia
+lebanon,2005,0.77,26126,Asia
+lebanon,2006,0.78,26628,Asia
+lebanon,2007,0.8,25904,Asia
+lebanon,2008,0.81,25766,Asia
+lebanon,2009,0.81,25358,Asia
+lebanon,2010,0.82,25128,Asia
+lebanon,2011,0.82,24888,Asia
+lebanon,2012,0.83,24647,Asia
+lebanon,2013,0.83,24704,Asia
+lebanon,2014,0.83,24718,Asia
+lebanon,2015,0.83,24668,Asia
+lebanon,2016,0.83,24383,Asia
+lebanon,2017,0.83,24477,Asia
+lesotho,1990,0.82,60012,Africa
+lesotho,1991,0.84,60643,Africa
+lesotho,1992,0.85,62127,Africa
+lesotho,1993,0.86,64143,Africa
+lesotho,1994,0.87,67215,Africa
+lesotho,1995,0.88,70596,Africa
+lesotho,1996,0.87,74672,Africa
+lesotho,1997,0.87,79766,Africa
+lesotho,1998,0.88,86169,Africa
+lesotho,1999,0.88,92179,Africa
+lesotho,2000,0.83,98938,Africa
+lesotho,2001,0.78,104096,Africa
+lesotho,2002,0.84,109437,Africa
+lesotho,2003,0.9,114276,Africa
+lesotho,2004,0.9,117923,Africa
+lesotho,2005,0.89,120212,Africa
+lesotho,2006,0.89,120451,Africa
+lesotho,2007,0.88,118198,Africa
+lesotho,2008,0.88,114765,Africa
+lesotho,2009,0.91,108243,Africa
+lesotho,2010,0.93,102223,Africa
+lesotho,2011,0.96,99030,Africa
+lesotho,2012,0.95,97204,Africa
+lesotho,2013,0.93,95278,Africa
+lesotho,2014,0.88,93141,Africa
+lesotho,2015,0.83,90403,Africa
+lesotho,2016,0.87,83024,Africa
+lesotho,2017,0.87,75805,Africa
+libya,1990,0.84,34417,Africa
+libya,1991,0.87,33999,Africa
+libya,1992,0.9,33848,Africa
+libya,1993,0.96,33321,Africa
+libya,1994,0.95,33009,Africa
+libya,1995,0.95,32698,Africa
+libya,1996,0.96,35276,Africa
+libya,1997,0.96,32432,Africa
+libya,1998,0.95,32448,Africa
+libya,1999,0.94,32408,Africa
+libya,2000,0.94,32351,Africa
+libya,2001,0.94,31986,Africa
+libya,2002,0.93,31727,Africa
+libya,2003,0.95,31041,Africa
+libya,2004,0.97,30772,Africa
+libya,2005,0.98,30388,Africa
+libya,2006,0.98,29545,Africa
+libya,2007,0.98,28984,Africa
+libya,2008,0.98,29291,Africa
+libya,2009,0.98,30047,Africa
+libya,2010,0.98,30246,Africa
+libya,2011,0.98,72147,Africa
+libya,2012,0.98,30881,Africa
+libya,2013,0.96,30321,Africa
+libya,2014,0.94,33209,Africa
+libya,2015,0.97,31305,Africa
+libya,2016,0.97,32684,Africa
+libya,2017,0.96,31617,Africa
+luxembourg,1990,0.9,26800,Europe
+luxembourg,1991,0.91,26519,Europe
+luxembourg,1992,0.93,26234,Europe
+luxembourg,1993,0.94,25958,Europe
+luxembourg,1994,0.95,25625,Europe
+luxembourg,1995,0.97,25310,Europe
+luxembourg,1996,0.98,25010,Europe
+luxembourg,1997,0.98,24548,Europe
+luxembourg,1998,0.98,24039,Europe
+luxembourg,1999,0.98,23537,Europe
+luxembourg,2000,0.99,23192,Europe
+luxembourg,2001,0.99,22867,Europe
+luxembourg,2002,0.99,22658,Europe
+luxembourg,2003,0.98,22273,Europe
+luxembourg,2004,0.99,21886,Europe
+luxembourg,2005,0.99,21449,Europe
+luxembourg,2006,0.99,21134,Europe
+luxembourg,2007,0.99,20701,Europe
+luxembourg,2008,0.99,20306,Europe
+luxembourg,2009,0.99,20108,Europe
+luxembourg,2010,0.99,19949,Europe
+luxembourg,2011,0.99,19772,Europe
+luxembourg,2012,0.99,19576,Europe
+luxembourg,2013,0.99,19402,Europe
+luxembourg,2014,0.99,19347,Europe
+luxembourg,2015,0.99,19310,Europe
+luxembourg,2016,0.99,19191,Europe
+luxembourg,2017,0.99,19136,Europe
+madagascar,1990,0.46,75928,Africa
+madagascar,1991,0.53,75085,Africa
+madagascar,1992,0.65,74214,Africa
+madagascar,1993,0.66,74459,Africa
+madagascar,1994,0.66,72230,Africa
+madagascar,1995,0.57,70898,Africa
+madagascar,1996,0.49,69778,Africa
+madagascar,1997,0.49,68714,Africa
+madagascar,1998,0.52,67653,Africa
+madagascar,1999,0.55,65908,Africa
+madagascar,2000,0.57,64959,Africa
+madagascar,2001,0.6,63109,Africa
+madagascar,2002,0.62,62280,Africa
+madagascar,2003,0.66,61769,Africa
+madagascar,2004,0.78,61059,Africa
+madagascar,2005,0.85,59829,Africa
+madagascar,2006,0.85,58933,Africa
+madagascar,2007,0.84,58060,Africa
+madagascar,2008,0.77,57613,Africa
+madagascar,2009,0.77,57593,Africa
+madagascar,2010,0.7,57295,Africa
+madagascar,2011,0.73,56620,Africa
+madagascar,2012,0.7,55765,Africa
+madagascar,2013,0.74,55022,Africa
+madagascar,2014,0.73,54300,Africa
+madagascar,2015,0.69,53466,Africa
+madagascar,2016,0.77,52718,Africa
+madagascar,2017,0.74,51989,Africa
+malawi,1990,0.87,99392,Africa
+malawi,1991,0.87,101824,Africa
+malawi,1992,0.87,104320,Africa
+malawi,1993,0.91,108293,Africa
+malawi,1994,0.82,113542,Africa
+malawi,1995,0.89,115500,Africa
+malawi,1996,0.9,115590,Africa
+malawi,1997,0.95,116392,Africa
+malawi,1998,0.96,117671,Africa
+malawi,1999,0.85,117794,Africa
+malawi,2000,0.75,116611,Africa
+malawi,2001,0.9,115062,Africa
+malawi,2002,0.64,113433,Africa
+malawi,2003,0.84,110498,Africa
+malawi,2004,0.89,107541,Africa
+malawi,2005,0.93,103797,Africa
+malawi,2006,0.99,99620,Africa
+malawi,2007,0.87,94592,Africa
+malawi,2008,0.91,89129,Africa
+malawi,2009,0.93,83878,Africa
+malawi,2010,0.93,78350,Africa
+malawi,2011,0.97,72347,Africa
+malawi,2012,0.96,66448,Africa
+malawi,2013,0.89,62041,Africa
+malawi,2014,0.91,58584,Africa
+malawi,2015,0.88,56319,Africa
+malawi,2016,0.84,54447,Africa
+malawi,2017,0.88,52313,Africa
+malaysia,1990,0.9,31917,Asia
+malaysia,1991,0.92,31476,Asia
+malaysia,1992,0.94,31086,Asia
+malaysia,1993,0.91,30638,Asia
+malaysia,1994,0.95,30205,Asia
+malaysia,1995,0.98,30350,Asia
+malaysia,1996,0.97,29893,Asia
+malaysia,1997,0.98,29470,Asia
+malaysia,1998,0.97,28853,Asia
+malaysia,1999,0.97,28796,Asia
+malaysia,2000,0.98,28422,Asia
+malaysia,2001,0.96,27806,Asia
+malaysia,2002,0.94,27331,Asia
+malaysia,2003,0.96,27340,Asia
+malaysia,2004,0.95,26988,Asia
+malaysia,2005,0.96,26451,Asia
+malaysia,2006,0.95,25961,Asia
+malaysia,2007,0.97,25850,Asia
+malaysia,2008,0.97,26152,Asia
+malaysia,2009,0.97,26470,Asia
+malaysia,2010,0.96,25930,Asia
+malaysia,2011,0.96,25338,Asia
+malaysia,2012,0.97,25334,Asia
+malaysia,2013,0.97,25124,Asia
+malaysia,2014,0.97,25735,Asia
+malaysia,2015,0.99,25838,Asia
+malaysia,2016,0.95,25549,Asia
+malaysia,2017,0.99,25491,Asia
+maldives,1990,0.94,45171,Asia
+maldives,1991,0.98,43708,Asia
+maldives,1992,0.98,42492,Asia
+maldives,1993,0.9,40957,Asia
+maldives,1994,0.96,39451,Asia
+maldives,1995,0.94,38274,Asia
+maldives,1996,0.97,36811,Asia
+maldives,1997,0.97,35513,Asia
+maldives,1998,0.97,34265,Asia
+maldives,1999,0.97,32934,Asia
+maldives,2000,0.98,31543,Asia
+maldives,2001,0.98,30317,Asia
+maldives,2002,0.98,29078,Asia
+maldives,2003,0.98,27836,Asia
+maldives,2004,0.96,29237,Asia
+maldives,2005,0.98,25854,Asia
+maldives,2006,0.98,24834,Asia
+maldives,2007,0.98,23828,Asia
+maldives,2008,0.98,22871,Asia
+maldives,2009,0.98,21758,Asia
+maldives,2010,0.96,21034,Asia
+maldives,2011,0.96,20358,Asia
+maldives,2012,0.99,19737,Asia
+maldives,2013,0.99,19331,Asia
+maldives,2014,0.99,19030,Asia
+maldives,2015,0.99,18792,Asia
+maldives,2016,0.99,18591,Asia
+maldives,2017,0.99,18422,Asia
+mali,1990,0.42,102418,Africa
+mali,1991,0.34,100951,Africa
+mali,1992,0.38,99766,Africa
+mali,1993,0.46,98206,Africa
+mali,1994,0.39,97028,Africa
+mali,1995,0.49,94773,Africa
+mali,1996,0.53,93265,Africa
+mali,1997,0.52,94094,Africa
+mali,1998,0.52,94388,Africa
+mali,1999,0.4,87382,Africa
+mali,2000,0.43,85540,Africa
+mali,2001,0.49,83131,Africa
+mali,2002,0.61,81007,Africa
+mali,2003,0.63,78632,Africa
+mali,2004,0.69,76314,Africa
+mali,2005,0.77,74125,Africa
+mali,2006,0.78,72458,Africa
+mali,2007,0.74,70659,Africa
+mali,2008,0.74,68980,Africa
+mali,2009,0.73,67429,Africa
+mali,2010,0.73,66073,Africa
+mali,2011,0.66,65068,Africa
+mali,2012,0.65,64453,Africa
+mali,2013,0.64,64016,Africa
+mali,2014,0.66,62765,Africa
+mali,2015,0.71,61825,Africa
+mali,2016,0.76,60571,Africa
+mali,2017,0.77,59694,Africa
+malta,1990,0.63,24024,Europe
+malta,1991,0.86,23781,Europe
+malta,1992,0.82,23522,Europe
+malta,1993,0.83,23051,Europe
+malta,1994,0.88,22766,Europe
+malta,1995,0.92,22636,Europe
+malta,1996,0.92,22349,Europe
+malta,1997,0.92,22095,Europe
+malta,1998,0.92,21841,Europe
+malta,1999,0.93,21698,Europe
+malta,2000,0.94,21528,Europe
+malta,2001,0.95,21294,Europe
+malta,2002,0.95,21055,Europe
+malta,2003,0.94,20881,Europe
+malta,2004,0.89,20807,Europe
+malta,2005,0.92,20682,Europe
+malta,2006,0.85,20557,Europe
+malta,2007,0.74,20482,Europe
+malta,2008,0.72,20281,Europe
+malta,2009,0.73,20009,Europe
+malta,2010,0.76,19824,Europe
+malta,2011,0.96,19552,Europe
+malta,2012,0.99,19438,Europe
+malta,2013,0.99,19243,Europe
+malta,2014,0.99,19119,Europe
+malta,2015,0.97,19140,Europe
+malta,2016,0.97,19302,Europe
+malta,2017,0.98,19286,Europe
+marshall islands,1990,0.92,52037,Oceania
+marshall islands,1991,0.71,52164,Oceania
+marshall islands,1992,0.82,52498,Oceania
+marshall islands,1993,0.56,52685,Oceania
+marshall islands,1994,0.67,52599,Oceania
+marshall islands,1995,0.7,52912,Oceania
+marshall islands,1996,0.78,53007,Oceania
+marshall islands,1997,0.78,53403,Oceania
+marshall islands,1998,0.86,53739,Oceania
+marshall islands,1999,0.66,53967,Oceania
+marshall islands,2000,0.39,55032,Oceania
+marshall islands,2001,0.48,54221,Oceania
+marshall islands,2002,0.8,54167,Oceania
+marshall islands,2003,0.68,54178,Oceania
+marshall islands,2004,0.64,53981,Oceania
+marshall islands,2005,0.77,53867,Oceania
+marshall islands,2006,0.74,53515,Oceania
+marshall islands,2007,0.93,52932,Oceania
+marshall islands,2008,0.95,52457,Oceania
+marshall islands,2009,0.96,51862,Oceania
+marshall islands,2010,0.94,51355,Oceania
+marshall islands,2011,0.87,50655,Oceania
+marshall islands,2012,0.8,50021,Oceania
+marshall islands,2013,0.79,49447,Oceania
+marshall islands,2014,0.78,48860,Oceania
+marshall islands,2015,0.85,48394,Oceania
+marshall islands,2016,0.71,47790,Oceania
+marshall islands,2017,0.8,47288,Oceania
+mauritania,1990,0.33,63495,Africa
+mauritania,1991,0.29,62160,Africa
+mauritania,1992,0.39,61080,Africa
+mauritania,1993,0.44,59989,Africa
+mauritania,1994,0.5,59360,Africa
+mauritania,1995,0.55,58049,Africa
+mauritania,1996,0.5,57247,Africa
+mauritania,1997,0.28,55862,Africa
+mauritania,1998,0.16,54906,Africa
+mauritania,1999,0.53,53720,Africa
+mauritania,2000,0.51,52682,Africa
+mauritania,2001,0.75,51625,Africa
+mauritania,2002,0.89,50430,Africa
+mauritania,2003,0.76,49344,Africa
+mauritania,2004,0.7,48219,Africa
+mauritania,2005,0.71,47365,Africa
+mauritania,2006,0.68,45681,Africa
+mauritania,2007,0.75,44487,Africa
+mauritania,2008,0.74,43203,Africa
+mauritania,2009,0.64,42188,Africa
+mauritania,2010,0.64,41236,Africa
+mauritania,2011,0.75,40438,Africa
+mauritania,2012,0.8,39590,Africa
+mauritania,2013,0.8,38914,Africa
+mauritania,2014,0.81,38165,Africa
+mauritania,2015,0.73,37552,Africa
+mauritania,2016,0.74,36912,Africa
+mauritania,2017,0.81,36334,Africa
+mauritius,1990,0.85,35173,Africa
+mauritius,1991,0.91,34085,Africa
+mauritius,1992,0.88,34159,Africa
+mauritius,1993,0.88,34254,Africa
+mauritius,1994,0.89,33829,Africa
+mauritius,1995,0.93,33461,Africa
+mauritius,1996,0.89,33503,Africa
+mauritius,1997,0.9,33420,Africa
+mauritius,1998,0.89,32463,Africa
+mauritius,1999,0.85,32087,Africa
+mauritius,2000,0.88,31144,Africa
+mauritius,2001,0.92,30792,Africa
+mauritius,2002,0.88,30781,Africa
+mauritius,2003,0.99,30263,Africa
+mauritius,2004,0.98,29926,Africa
+mauritius,2005,0.97,30028,Africa
+mauritius,2006,0.97,29922,Africa
+mauritius,2007,0.97,29552,Africa
+mauritius,2008,0.99,29515,Africa
+mauritius,2009,0.99,29312,Africa
+mauritius,2010,0.99,28813,Africa
+mauritius,2011,0.98,28447,Africa
+mauritius,2012,0.98,28515,Africa
+mauritius,2013,0.98,28102,Africa
+mauritius,2014,0.97,28331,Africa
+mauritius,2015,0.97,28280,Africa
+mauritius,2016,0.96,28094,Africa
+mauritius,2017,0.94,27765,Africa
+mexico,1990,0.53,33874,NorthAmerica
+mexico,1991,0.88,33196,NorthAmerica
+mexico,1992,0.9,32792,NorthAmerica
+mexico,1993,0.82,32289,NorthAmerica
+mexico,1994,0.91,31566,NorthAmerica
+mexico,1995,0.91,31071,NorthAmerica
+mexico,1996,0.95,30347,NorthAmerica
+mexico,1997,0.95,29963,NorthAmerica
+mexico,1998,0.96,29659,NorthAmerica
+mexico,1999,0.96,28944,NorthAmerica
+mexico,2000,0.97,28149,NorthAmerica
+mexico,2001,0.97,27640,NorthAmerica
+mexico,2002,0.97,27477,NorthAmerica
+mexico,2003,0.98,27208,NorthAmerica
+mexico,2004,0.98,26540,NorthAmerica
+mexico,2005,0.98,26382,NorthAmerica
+mexico,2006,0.98,25894,NorthAmerica
+mexico,2007,0.98,25534,NorthAmerica
+mexico,2008,0.96,26103,NorthAmerica
+mexico,2009,0.95,26576,NorthAmerica
+mexico,2010,0.95,26689,NorthAmerica
+mexico,2011,0.97,26474,NorthAmerica
+mexico,2012,0.99,26264,NorthAmerica
+mexico,2013,0.83,25952,NorthAmerica
+mexico,2014,0.87,25688,NorthAmerica
+mexico,2015,0.87,25571,NorthAmerica
+mexico,2016,0.93,25571,NorthAmerica
+mexico,2017,0.85,26181,NorthAmerica
+mongolia,1990,0.84,57137,Asia
+mongolia,1991,0.81,56700,Asia
+mongolia,1992,0.64,57044,Asia
+mongolia,1993,0.79,57821,Asia
+mongolia,1994,0.78,58340,Asia
+mongolia,1995,0.88,59581,Asia
+mongolia,1996,0.9,59792,Asia
+mongolia,1997,0.92,59286,Asia
+mongolia,1998,0.94,58180,Asia
+mongolia,1999,0.94,57071,Asia
+mongolia,2000,0.94,56090,Asia
+mongolia,2001,0.95,54981,Asia
+mongolia,2002,0.98,53772,Asia
+mongolia,2003,0.98,52646,Asia
+mongolia,2004,0.99,51594,Asia
+mongolia,2005,0.99,50695,Asia
+mongolia,2006,0.99,49182,Asia
+mongolia,2007,0.95,47554,Asia
+mongolia,2008,0.96,46237,Asia
+mongolia,2009,0.95,45618,Asia
+mongolia,2010,0.96,44471,Asia
+mongolia,2011,0.99,42957,Asia
+mongolia,2012,0.99,41607,Asia
+mongolia,2013,0.98,40437,Asia
+mongolia,2014,0.99,39392,Asia
+mongolia,2015,0.99,38621,Asia
+mongolia,2016,0.99,38136,Asia
+mongolia,2017,0.99,37723,Asia
+morocco,1990,0.81,47597,Africa
+morocco,1991,0.81,46578,Africa
+morocco,1992,0.87,45693,Africa
+morocco,1993,0.86,45035,Africa
+morocco,1994,0.87,44175,Africa
+morocco,1995,0.9,43889,Africa
+morocco,1996,0.95,43166,Africa
+morocco,1997,0.94,42841,Africa
+morocco,1998,0.93,42207,Africa
+morocco,1999,0.91,41739,Africa
+morocco,2000,0.95,40899,Africa
+morocco,2001,0.96,40223,Africa
+morocco,2002,0.94,39636,Africa
+morocco,2003,0.91,39094,Africa
+morocco,2004,0.97,38457,Africa
+morocco,2005,0.98,37687,Africa
+morocco,2006,0.97,37039,Africa
+morocco,2007,0.95,36326,Africa
+morocco,2008,0.99,35920,Africa
+morocco,2009,0.99,35403,Africa
+morocco,2010,0.99,34955,Africa
+morocco,2011,0.99,34605,Africa
+morocco,2012,0.99,33850,Africa
+morocco,2013,0.99,33250,Africa
+morocco,2014,0.99,32703,Africa
+morocco,2015,0.99,32161,Africa
+morocco,2016,0.99,31644,Africa
+morocco,2017,0.99,31139,Africa
+mozambique,1990,0.46,95873,Africa
+mozambique,1991,0.46,95004,Africa
+mozambique,1992,0.5,93958,Africa
+mozambique,1993,0.49,93119,Africa
+mozambique,1994,0.55,92326,Africa
+mozambique,1995,0.57,92114,Africa
+mozambique,1996,0.6,91647,Africa
+mozambique,1997,0.62,91640,Africa
+mozambique,1998,0.65,91300,Africa
+mozambique,1999,0.68,91085,Africa
+mozambique,2000,0.7,91357,Africa
+mozambique,2001,0.73,90732,Africa
+mozambique,2002,0.76,90815,Africa
+mozambique,2003,0.85,90573,Africa
+mozambique,2004,0.83,90421,Africa
+mozambique,2005,0.8,90282,Africa
+mozambique,2006,0.78,89892,Africa
+mozambique,2007,0.75,89095,Africa
+mozambique,2008,0.75,87266,Africa
+mozambique,2009,0.74,86151,Africa
+mozambique,2010,0.74,85103,Africa
+mozambique,2011,0.78,83680,Africa
+mozambique,2012,0.81,82387,Africa
+mozambique,2013,0.85,79286,Africa
+mozambique,2014,0.88,75103,Africa
+mozambique,2015,0.88,71755,Africa
+mozambique,2016,0.88,68515,Africa
+mozambique,2017,0.88,65564,Africa
+myanmar,1990,0.88,74374,Asia
+myanmar,1991,0.66,73768,Asia
+myanmar,1992,0.71,73006,Asia
+myanmar,1993,0.73,71845,Asia
+myanmar,1994,0.77,70862,Asia
+myanmar,1995,0.84,69960,Asia
+myanmar,1996,0.88,68917,Asia
+myanmar,1997,0.9,67957,Asia
+myanmar,1998,0.9,66864,Asia
+myanmar,1999,0.75,65713,Asia
+myanmar,2000,0.82,64466,Asia
+myanmar,2001,0.73,63155,Asia
+myanmar,2002,0.79,61800,Asia
+myanmar,2003,0.78,60292,Asia
+myanmar,2004,0.82,58837,Asia
+myanmar,2005,0.73,57003,Asia
+myanmar,2006,0.82,55272,Asia
+myanmar,2007,0.86,53361,Asia
+myanmar,2008,0.85,66726,Asia
+myanmar,2009,0.9,49877,Asia
+myanmar,2010,0.9,48011,Asia
+myanmar,2011,0.84,46460,Asia
+myanmar,2012,0.84,44840,Asia
+myanmar,2013,0.75,43356,Asia
+myanmar,2014,0.88,41940,Asia
+myanmar,2015,0.89,40892,Asia
+myanmar,2016,0.9,39728,Asia
+myanmar,2017,0.89,39364,Asia
+nepal,1990,0.43,69623,Asia
+nepal,1991,0.46,67326,Asia
+nepal,1992,0.49,64749,Asia
+nepal,1993,0.51,63119,Asia
+nepal,1994,0.54,60542,Asia
+nepal,1995,0.54,58522,Asia
+nepal,1996,0.65,56368,Asia
+nepal,1997,0.78,54034,Asia
+nepal,1998,0.71,52158,Asia
+nepal,1999,0.65,50195,Asia
+nepal,2000,0.74,48444,Asia
+nepal,2001,0.72,46850,Asia
+nepal,2002,0.72,46591,Asia
+nepal,2003,0.78,44594,Asia
+nepal,2004,0.8,43927,Asia
+nepal,2005,0.75,42813,Asia
+nepal,2006,0.89,41952,Asia
+nepal,2007,0.82,41216,Asia
+nepal,2008,0.82,40497,Asia
+nepal,2009,0.89,39753,Asia
+nepal,2010,0.82,39070,Asia
+nepal,2011,0.92,38528,Asia
+nepal,2012,0.9,37830,Asia
+nepal,2013,0.92,37171,Asia
+nepal,2014,0.92,36529,Asia
+nepal,2015,0.91,37759,Asia
+nepal,2016,0.87,35528,Asia
+nepal,2017,0.9,34963,Asia
+netherlands,1990,0.97,23845,Europe
+netherlands,1991,0.97,23613,Europe
+netherlands,1992,0.98,23450,Europe
+netherlands,1993,0.97,23619,Europe
+netherlands,1994,0.97,23197,Europe
+netherlands,1995,0.97,23018,Europe
+netherlands,1996,0.97,23009,Europe
+netherlands,1997,0.97,22616,Europe
+netherlands,1998,0.97,22453,Europe
+netherlands,1999,0.97,22516,Europe
+netherlands,2000,0.97,22383,Europe
+netherlands,2001,0.97,22195,Europe
+netherlands,2002,0.97,21967,Europe
+netherlands,2003,0.98,21698,Europe
+netherlands,2004,0.98,21164,Europe
+netherlands,2005,0.96,20780,Europe
+netherlands,2006,0.96,20393,Europe
+netherlands,2007,0.97,20019,Europe
+netherlands,2008,0.97,19902,Europe
+netherlands,2009,0.97,19651,Europe
+netherlands,2010,0.97,19464,Europe
+netherlands,2011,0.97,19319,Europe
+netherlands,2012,0.97,19244,Europe
+netherlands,2013,0.97,19016,Europe
+netherlands,2014,0.96,18808,Europe
+netherlands,2015,0.95,18711,Europe
+netherlands,2016,0.95,18771,Europe
+netherlands,2017,0.94,18716,Europe
+new zealand,1990,0.9,27563,Oceania
+new zealand,1991,0.81,26926,Oceania
+new zealand,1992,0.81,26685,Oceania
+new zealand,1993,0.83,26496,Oceania
+new zealand,1994,0.84,25842,Oceania
+new zealand,1995,0.89,25926,Oceania
+new zealand,1996,0.88,25663,Oceania
+new zealand,1997,0.86,25204,Oceania
+new zealand,1998,0.81,24445,Oceania
+new zealand,1999,0.88,24365,Oceania
+new zealand,2000,0.9,23883,Oceania
+new zealand,2001,0.9,23622,Oceania
+new zealand,2002,0.9,23539,Oceania
+new zealand,2003,0.9,23244,Oceania
+new zealand,2004,0.89,22880,Oceania
+new zealand,2005,0.89,22444,Oceania
+new zealand,2006,0.89,22180,Oceania
+new zealand,2007,0.88,22126,Oceania
+new zealand,2008,0.89,21942,Oceania
+new zealand,2009,0.92,21664,Oceania
+new zealand,2010,0.93,21436,Oceania
+new zealand,2011,0.95,21599,Oceania
+new zealand,2012,0.93,20998,Oceania
+new zealand,2013,0.92,20740,Oceania
+new zealand,2014,0.93,20750,Oceania
+new zealand,2015,0.92,20500,Oceania
+new zealand,2016,0.92,20394,Oceania
+new zealand,2017,0.94,20481,Oceania
+nicaragua,1990,0.7,36584,NorthAmerica
+nicaragua,1991,0.75,36304,NorthAmerica
+nicaragua,1992,0.81,35426,NorthAmerica
+nicaragua,1993,0.81,34838,NorthAmerica
+nicaragua,1994,0.81,33940,NorthAmerica
+nicaragua,1995,0.8,33541,NorthAmerica
+nicaragua,1996,0.8,32803,NorthAmerica
+nicaragua,1997,0.8,31575,NorthAmerica
+nicaragua,1998,0.73,31695,NorthAmerica
+nicaragua,1999,0.79,30131,NorthAmerica
+nicaragua,2000,0.83,29358,NorthAmerica
+nicaragua,2001,0.87,29006,NorthAmerica
+nicaragua,2002,0.85,28681,NorthAmerica
+nicaragua,2003,0.86,28313,NorthAmerica
+nicaragua,2004,0.79,27848,NorthAmerica
+nicaragua,2005,0.86,27517,NorthAmerica
+nicaragua,2006,0.88,26572,NorthAmerica
+nicaragua,2007,0.93,26212,NorthAmerica
+nicaragua,2008,0.97,25695,NorthAmerica
+nicaragua,2009,0.98,25238,NorthAmerica
+nicaragua,2010,0.98,24694,NorthAmerica
+nicaragua,2011,0.98,24580,NorthAmerica
+nicaragua,2012,0.98,24497,NorthAmerica
+nicaragua,2013,0.98,24489,NorthAmerica
+nicaragua,2014,0.98,24565,NorthAmerica
+nicaragua,2015,0.98,23780,NorthAmerica
+nicaragua,2016,0.98,23183,NorthAmerica
+nicaragua,2017,0.98,22753,NorthAmerica
+niger,1990,0.22,108753,Africa
+niger,1991,0.19,106815,Africa
+niger,1992,0.2,105186,Africa
+niger,1993,0.2,103331,Africa
+niger,1994,0.2,100863,Africa
+niger,1995,0.23,99184,Africa
+niger,1996,0.23,95802,Africa
+niger,1997,0.25,93076,Africa
+niger,1998,0.29,90551,Africa
+niger,1999,0.32,88227,Africa
+niger,2000,0.34,86299,Africa
+niger,2001,0.36,84121,Africa
+niger,2002,0.39,81441,Africa
+niger,2003,0.41,79105,Africa
+niger,2004,0.43,76365,Africa
+niger,2005,0.45,73979,Africa
+niger,2006,0.51,71605,Africa
+niger,2007,0.57,69424,Africa
+niger,2008,0.67,67141,Africa
+niger,2009,0.71,65580,Africa
+niger,2010,0.7,64052,Africa
+niger,2011,0.75,62783,Africa
+niger,2012,0.71,61485,Africa
+niger,2013,0.73,60036,Africa
+niger,2014,0.81,58637,Africa
+niger,2015,0.84,57528,Africa
+niger,2016,0.8,56050,Africa
+niger,2017,0.85,54661,Africa
+nigeria,1990,0.56,83166,Africa
+nigeria,1991,0.39,83172,Africa
+nigeria,1992,0.43,82715,Africa
+nigeria,1993,0.29,82568,Africa
+nigeria,1994,0.44,82624,Africa
+nigeria,1995,0.34,82772,Africa
+nigeria,1996,0.26,83338,Africa
+nigeria,1997,0.21,82701,Africa
+nigeria,1998,0.32,82777,Africa
+nigeria,1999,0.31,82960,Africa
+nigeria,2000,0.29,83152,Africa
+nigeria,2001,0.27,82109,Africa
+nigeria,2002,0.25,81145,Africa
+nigeria,2003,0.29,79866,Africa
+nigeria,2004,0.33,78138,Africa
+nigeria,2005,0.36,75819,Africa
+nigeria,2006,0.4,73861,Africa
+nigeria,2007,0.42,71814,Africa
+nigeria,2008,0.53,69549,Africa
+nigeria,2009,0.63,67427,Africa
+nigeria,2010,0.54,65528,Africa
+nigeria,2011,0.48,63648,Africa
+nigeria,2012,0.42,61807,Africa
+nigeria,2013,0.43,59902,Africa
+nigeria,2014,0.43,59073,Africa
+nigeria,2015,0.42,56809,Africa
+nigeria,2016,0.53,55188,Africa
+nigeria,2017,0.55,53711,Africa
+north korea,1990,0.98,31272,Asia
+north korea,1991,0.97,31262,Asia
+north korea,1992,0.9,31272,Asia
+north korea,1993,0.9,31365,Asia
+north korea,1994,0.77,31553,Asia
+north korea,1995,0.64,54154,Asia
+north korea,1996,0.5,55009,Asia
+north korea,1997,0.37,55676,Asia
+north korea,1998,0.43,56252,Asia
+north korea,1999,0.5,56828,Asia
+north korea,2000,0.56,57276,Asia
+north korea,2001,0.62,57724,Asia
+north korea,2002,0.64,58006,Asia
+north korea,2003,0.68,35442,Asia
+north korea,2004,0.72,35200,Asia
+north korea,2005,0.79,35029,Asia
+north korea,2006,0.89,34821,Asia
+north korea,2007,0.92,34687,Asia
+north korea,2008,0.92,34302,Asia
+north korea,2009,0.93,34054,Asia
+north korea,2010,0.93,33800,Asia
+north korea,2011,0.94,33580,Asia
+north korea,2012,0.96,33345,Asia
+north korea,2013,0.93,33068,Asia
+north korea,2014,0.93,32765,Asia
+north korea,2015,0.96,32476,Asia
+north korea,2016,0.96,32220,Asia
+north korea,2017,0.97,31804,Asia
+norway,1990,0.86,25033,Europe
+norway,1991,0.96,24467,Europe
+norway,1992,0.98,24270,Europe
+norway,1993,0.94,23863,Europe
+norway,1994,0.93,23557,Europe
+norway,1995,0.97,23239,Europe
+norway,1996,0.97,23062,Europe
+norway,1997,0.95,22842,Europe
+norway,1998,0.93,22806,Europe
+norway,1999,0.92,22661,Europe
+norway,2000,0.9,22613,Europe
+norway,2001,0.91,22321,Europe
+norway,2002,0.93,22099,Europe
+norway,2003,0.92,21665,Europe
+norway,2004,0.92,21377,Europe
+norway,2005,0.91,21072,Europe
+norway,2006,0.94,20776,Europe
+norway,2007,0.93,20578,Europe
+norway,2008,0.94,20474,Europe
+norway,2009,0.94,20417,Europe
+norway,2010,0.93,20219,Europe
+norway,2011,0.94,20234,Europe
+norway,2012,0.95,19585,Europe
+norway,2013,0.94,19522,Europe
+norway,2014,0.93,19135,Europe
+norway,2015,0.95,18790,Europe
+norway,2016,0.96,18663,Europe
+norway,2017,0.96,18648,Europe
+oman,1990,0.98,39615,Asia
+oman,1991,0.95,38729,Asia
+oman,1992,0.99,37702,Asia
+oman,1993,0.97,36656,Asia
+oman,1994,0.97,35805,Asia
+oman,1995,0.99,34852,Asia
+oman,1996,0.99,33934,Asia
+oman,1997,0.99,33060,Asia
+oman,1998,0.99,32196,Asia
+oman,1999,0.99,31244,Asia
+oman,2000,0.99,30562,Asia
+oman,2001,0.99,29866,Asia
+oman,2002,0.99,29322,Asia
+oman,2003,0.99,28677,Asia
+oman,2004,0.99,28072,Asia
+oman,2005,0.99,27555,Asia
+oman,2006,0.98,27288,Asia
+oman,2007,0.99,27226,Asia
+oman,2008,0.99,27174,Asia
+oman,2009,0.98,27124,Asia
+oman,2010,0.99,27265,Asia
+oman,2011,0.99,27467,Asia
+oman,2012,0.98,27081,Asia
+oman,2013,0.98,26421,Asia
+oman,2014,0.99,26122,Asia
+oman,2015,0.99,25901,Asia
+oman,2016,0.99,25382,Asia
+oman,2017,0.99,25096,Asia
+pakistan,1990,0.54,61792,Asia
+pakistan,1991,0.5,61900,Asia
+pakistan,1992,0.42,61724,Asia
+pakistan,1993,0.37,61210,Asia
+pakistan,1994,0.39,60765,Asia
+pakistan,1995,0.58,60891,Asia
+pakistan,1996,0.46,60359,Asia
+pakistan,1997,0.52,60004,Asia
+pakistan,1998,0.54,59301,Asia
+pakistan,1999,0.57,58689,Asia
+pakistan,2000,0.59,58081,Asia
+pakistan,2001,0.61,57606,Asia
+pakistan,2002,0.63,57173,Asia
+pakistan,2003,0.66,56764,Asia
+pakistan,2004,0.68,56238,Asia
+pakistan,2005,0.63,58529,Asia
+pakistan,2006,0.59,55140,Asia
+pakistan,2007,0.54,54105,Asia
+pakistan,2008,0.53,53501,Asia
+pakistan,2009,0.52,52655,Asia
+pakistan,2010,0.52,51880,Asia
+pakistan,2011,0.63,50760,Asia
+pakistan,2012,0.64,49940,Asia
+pakistan,2013,0.65,49180,Asia
+pakistan,2014,0.69,48963,Asia
+pakistan,2015,0.72,47618,Asia
+pakistan,2016,0.75,46564,Asia
+pakistan,2017,0.75,45532,Asia
+panama,1990,0.86,26875,NorthAmerica
+panama,1991,0.82,26719,NorthAmerica
+panama,1992,0.77,26772,NorthAmerica
+panama,1993,0.83,26897,NorthAmerica
+panama,1994,0.83,26709,NorthAmerica
+panama,1995,0.86,26688,NorthAmerica
+panama,1996,0.91,26276,NorthAmerica
+panama,1997,0.95,26506,NorthAmerica
+panama,1998,0.98,26180,NorthAmerica
+panama,1999,0.92,25591,NorthAmerica
+panama,2000,0.98,25068,NorthAmerica
+panama,2001,0.99,24788,NorthAmerica
+panama,2002,0.99,24638,NorthAmerica
+panama,2003,0.98,24579,NorthAmerica
+panama,2004,0.95,24278,NorthAmerica
+panama,2005,0.92,24213,NorthAmerica
+panama,2006,0.88,24369,NorthAmerica
+panama,2007,0.85,24251,NorthAmerica
+panama,2008,0.86,24458,NorthAmerica
+panama,2009,0.85,24489,NorthAmerica
+panama,2010,0.94,24354,NorthAmerica
+panama,2011,0.87,24192,NorthAmerica
+panama,2012,0.85,24213,NorthAmerica
+panama,2013,0.8,23979,NorthAmerica
+panama,2014,0.8,23683,NorthAmerica
+panama,2015,0.73,23199,NorthAmerica
+panama,2016,0.86,22909,NorthAmerica
+panama,2017,0.81,22661,NorthAmerica
+papua new guinea,1990,0.68,77101,Oceania
+papua new guinea,1991,0.68,76970,Oceania
+papua new guinea,1992,0.58,75904,Oceania
+papua new guinea,1993,0.58,74892,Oceania
+papua new guinea,1994,0.61,73902,Oceania
+papua new guinea,1995,0.62,73123,Oceania
+papua new guinea,1996,0.56,72412,Oceania
+papua new guinea,1997,0.45,71965,Oceania
+papua new guinea,1998,0.6,74316,Oceania
+papua new guinea,1999,0.6,71964,Oceania
+papua new guinea,2000,0.59,72101,Oceania
+papua new guinea,2001,0.55,72510,Oceania
+papua new guinea,2002,0.61,72994,Oceania
+papua new guinea,2003,0.68,73562,Oceania
+papua new guinea,2004,0.62,73826,Oceania
+papua new guinea,2005,0.72,73892,Oceania
+papua new guinea,2006,0.7,73854,Oceania
+papua new guinea,2007,0.66,73546,Oceania
+papua new guinea,2008,0.56,72803,Oceania
+papua new guinea,2009,0.64,72133,Oceania
+papua new guinea,2010,0.55,71226,Oceania
+papua new guinea,2011,0.58,70164,Oceania
+papua new guinea,2012,0.57,69351,Oceania
+papua new guinea,2013,0.6,67988,Oceania
+papua new guinea,2014,0.52,66766,Oceania
+papua new guinea,2015,0.49,65662,Oceania
+papua new guinea,2016,0.46,64683,Oceania
+papua new guinea,2017,0.36,63819,Oceania
+paraguay,1990,0.67,30811,SouthAmerica
+paraguay,1991,0.66,30251,SouthAmerica
+paraguay,1992,0.73,30453,SouthAmerica
+paraguay,1993,0.66,31076,SouthAmerica
+paraguay,1994,0.71,31001,SouthAmerica
+paraguay,1995,0.68,30651,SouthAmerica
+paraguay,1996,0.72,30574,SouthAmerica
+paraguay,1997,0.75,29926,SouthAmerica
+paraguay,1998,0.79,29783,SouthAmerica
+paraguay,1999,0.82,29770,SouthAmerica
+paraguay,2000,0.86,29740,SouthAmerica
+paraguay,2001,0.89,29346,SouthAmerica
+paraguay,2002,0.87,29229,SouthAmerica
+paraguay,2003,0.86,29559,SouthAmerica
+paraguay,2004,0.92,30326,SouthAmerica
+paraguay,2005,0.96,29688,SouthAmerica
+paraguay,2006,0.98,29575,SouthAmerica
+paraguay,2007,0.95,28868,SouthAmerica
+paraguay,2008,0.89,28659,SouthAmerica
+paraguay,2009,0.86,28822,SouthAmerica
+paraguay,2010,0.91,28594,SouthAmerica
+paraguay,2011,0.92,28115,SouthAmerica
+paraguay,2012,0.91,27677,SouthAmerica
+paraguay,2013,0.91,27717,SouthAmerica
+paraguay,2014,0.93,27154,SouthAmerica
+paraguay,2015,0.92,26450,SouthAmerica
+paraguay,2016,0.92,26173,SouthAmerica
+paraguay,2017,0.91,25958,SouthAmerica
+peru,1990,0.72,40829,SouthAmerica
+peru,1991,0.71,40195,SouthAmerica
+peru,1992,0.83,39701,SouthAmerica
+peru,1993,0.87,38444,SouthAmerica
+peru,1994,0.87,36847,SouthAmerica
+peru,1995,0.9,36172,SouthAmerica
+peru,1996,0.94,34931,SouthAmerica
+peru,1997,0.9,33748,SouthAmerica
+peru,1998,0.94,32770,SouthAmerica
+peru,1999,0.99,30969,SouthAmerica
+peru,2000,0.98,30040,SouthAmerica
+peru,2001,0.9,28780,SouthAmerica
+peru,2002,0.95,28091,SouthAmerica
+peru,2003,0.94,27920,SouthAmerica
+peru,2004,0.86,27325,SouthAmerica
+peru,2005,0.77,26723,SouthAmerica
+peru,2006,0.94,25828,SouthAmerica
+peru,2007,0.93,25127,SouthAmerica
+peru,2008,0.93,24909,SouthAmerica
+peru,2009,0.93,25401,SouthAmerica
+peru,2010,0.93,25078,SouthAmerica
+peru,2011,0.91,24458,SouthAmerica
+peru,2012,0.95,23867,SouthAmerica
+peru,2013,0.88,23272,SouthAmerica
+peru,2014,0.88,22617,SouthAmerica
+peru,2015,0.9,21914,SouthAmerica
+peru,2016,0.89,21712,SouthAmerica
+peru,2017,0.83,21463,SouthAmerica
+philippines,1990,0.88,43081,Asia
+philippines,1991,0.9,41626,Asia
+philippines,1992,0.8,41305,Asia
+philippines,1993,0.76,40700,Asia
+philippines,1994,0.73,39872,Asia
+philippines,1995,0.7,39565,Asia
+philippines,1996,0.75,38908,Asia
+philippines,1997,0.81,38728,Asia
+philippines,1998,0.81,38537,Asia
+philippines,1999,0.8,38307,Asia
+philippines,2000,0.78,38708,Asia
+philippines,2001,0.79,38849,Asia
+philippines,2002,0.79,38927,Asia
+philippines,2003,0.84,38807,Asia
+philippines,2004,0.88,38677,Asia
+philippines,2005,0.89,38731,Asia
+philippines,2006,0.88,38820,Asia
+philippines,2007,0.87,38398,Asia
+philippines,2008,0.91,38355,Asia
+philippines,2009,0.87,38444,Asia
+philippines,2010,0.79,38023,Asia
+philippines,2011,0.87,37829,Asia
+philippines,2012,0.88,37672,Asia
+philippines,2013,0.89,37831,Asia
+philippines,2014,0.67,37412,Asia
+philippines,2015,0.6,37650,Asia
+philippines,2016,0.86,36945,Asia
+philippines,2017,0.72,36379,Asia
+poland,1990,0.96,33741,Europe
+poland,1991,0.95,34130,Europe
+poland,1992,0.95,33234,Europe
+poland,1993,0.95,32047,Europe
+poland,1994,0.96,32077,Europe
+poland,1995,0.96,31638,Europe
+poland,1996,0.97,30835,Europe
+poland,1997,0.98,30295,Europe
+poland,1998,0.98,29699,Europe
+poland,1999,0.98,29557,Europe
+poland,2000,0.98,28448,Europe
+poland,2001,0.98,27823,Europe
+poland,2002,0.99,27335,Europe
+poland,2003,0.99,26942,Europe
+poland,2004,0.99,26824,Europe
+poland,2005,0.99,26608,Europe
+poland,2006,0.99,26463,Europe
+poland,2007,0.99,26408,Europe
+poland,2008,0.99,26130,Europe
+poland,2009,0.99,25723,Europe
+poland,2010,0.99,25037,Europe
+poland,2011,0.99,24708,Europe
+poland,2012,0.99,24574,Europe
+poland,2013,0.99,24174,Europe
+poland,2014,0.98,23611,Europe
+poland,2015,0.98,23591,Europe
+poland,2016,0.98,23319,Europe
+poland,2017,0.96,23039,Europe
+portugal,1990,0.89,28960,Europe
+portugal,1991,0.96,29059,Europe
+portugal,1992,0.94,28368,Europe
+portugal,1993,0.93,28014,Europe
+portugal,1994,0.97,26792,Europe
+portugal,1995,0.93,26816,Europe
+portugal,1996,0.95,26794,Europe
+portugal,1997,0.94,26286,Europe
+portugal,1998,0.97,25817,Europe
+portugal,1999,0.97,25347,Europe
+portugal,2000,0.96,24759,Europe
+portugal,2001,0.97,24324,Europe
+portugal,2002,0.98,23950,Europe
+portugal,2003,0.99,23431,Europe
+portugal,2004,0.95,22536,Europe
+portugal,2005,0.93,22074,Europe
+portugal,2006,0.97,21627,Europe
+portugal,2007,0.97,21424,Europe
+portugal,2008,0.97,21120,Europe
+portugal,2009,0.96,20908,Europe
+portugal,2010,0.98,20521,Europe
+portugal,2011,0.97,20201,Europe
+portugal,2012,0.98,19896,Europe
+portugal,2013,0.98,19586,Europe
+portugal,2014,0.98,19300,Europe
+portugal,2015,0.98,18952,Europe
+portugal,2016,0.98,18962,Europe
+portugal,2017,0.98,18936,Europe
+qatar,1990,0.82,34842,Asia
+qatar,1991,0.86,34606,Asia
+qatar,1992,0.88,34454,Asia
+qatar,1993,0.9,34518,Asia
+qatar,1994,0.91,34108,Asia
+qatar,1995,0.92,33513,Asia
+qatar,1996,0.92,33199,Asia
+qatar,1997,0.92,32717,Asia
+qatar,1998,0.94,32150,Asia
+qatar,1999,0.92,31382,Asia
+qatar,2000,0.8,30395,Asia
+qatar,2001,0.93,29170,Asia
+qatar,2002,0.96,28205,Asia
+qatar,2003,0.92,27229,Asia
+qatar,2004,0.96,26426,Asia
+qatar,2005,0.97,26133,Asia
+qatar,2006,0.96,25629,Asia
+qatar,2007,0.94,25186,Asia
+qatar,2008,0.97,24982,Asia
+qatar,2009,0.99,24588,Asia
+qatar,2010,0.97,23960,Asia
+qatar,2011,0.93,23432,Asia
+qatar,2012,0.92,23010,Asia
+qatar,2013,0.97,22542,Asia
+qatar,2014,0.89,22200,Asia
+qatar,2015,0.99,21794,Asia
+qatar,2016,0.98,21524,Asia
+qatar,2017,0.97,21363,Asia
+romania,1990,0.96,37363,Europe
+romania,1991,0.98,36408,Europe
+romania,1992,0.98,37281,Europe
+romania,1993,0.91,37506,Europe
+romania,1994,0.98,37703,Europe
+romania,1995,0.98,37717,Europe
+romania,1996,0.98,38525,Europe
+romania,1997,0.97,38405,Europe
+romania,1998,0.97,36661,Europe
+romania,1999,0.97,35006,Europe
+romania,2000,0.99,34151,Europe
+romania,2001,0.99,34114,Europe
+romania,2002,0.98,33955,Europe
+romania,2003,0.97,33419,Europe
+romania,2004,0.97,32542,Europe
+romania,2005,0.97,31846,Europe
+romania,2006,0.97,31010,Europe
+romania,2007,0.96,30107,Europe
+romania,2008,0.96,29977,Europe
+romania,2009,0.95,29716,Europe
+romania,2010,0.94,29225,Europe
+romania,2011,0.89,28006,Europe
+romania,2012,0.91,27857,Europe
+romania,2013,0.92,27425,Europe
+romania,2014,0.94,27409,Europe
+romania,2015,0.89,27036,Europe
+romania,2016,0.89,26876,Europe
+romania,2017,0.82,26808,Europe
+rwanda,1990,0.84,94419,Africa
+rwanda,1991,0.91,95401,Africa
+rwanda,1992,0.85,96730,Africa
+rwanda,1993,0.83,113083,Africa
+rwanda,1994,0.23,724252,Africa
+rwanda,1995,0.83,118939,Africa
+rwanda,1996,0.89,109828,Africa
+rwanda,1997,0.73,113947,Africa
+rwanda,1998,0.79,112441,Africa
+rwanda,1999,0.85,106767,Africa
+rwanda,2000,0.9,102497,Africa
+rwanda,2001,0.77,95610,Africa
+rwanda,2002,0.88,88136,Africa
+rwanda,2003,0.96,81281,Africa
+rwanda,2004,0.89,75201,Africa
+rwanda,2005,0.95,69747,Africa
+rwanda,2006,0.99,64669,Africa
+rwanda,2007,0.97,60291,Africa
+rwanda,2008,0.97,56457,Africa
+rwanda,2009,0.97,52944,Africa
+rwanda,2010,0.97,49861,Africa
+rwanda,2011,0.97,47435,Africa
+rwanda,2012,0.98,45676,Africa
+rwanda,2013,0.98,44042,Africa
+rwanda,2014,0.98,43033,Africa
+rwanda,2015,0.98,42154,Africa
+rwanda,2016,0.98,41264,Africa
+rwanda,2017,0.98,40388,Africa
+saint lucia,1990,0.89,34144,NorthAmerica
+saint lucia,1991,0.96,33660,NorthAmerica
+saint lucia,1992,0.96,33350,NorthAmerica
+saint lucia,1993,0.97,32833,NorthAmerica
+saint lucia,1994,0.93,32733,NorthAmerica
+saint lucia,1995,0.98,32080,NorthAmerica
+saint lucia,1996,0.88,31644,NorthAmerica
+saint lucia,1997,0.98,31130,NorthAmerica
+saint lucia,1998,0.88,30452,NorthAmerica
+saint lucia,1999,0.89,29847,NorthAmerica
+saint lucia,2000,0.7,29350,NorthAmerica
+saint lucia,2001,0.99,28881,NorthAmerica
+saint lucia,2002,0.74,28870,NorthAmerica
+saint lucia,2003,0.9,28817,NorthAmerica
+saint lucia,2004,0.91,28669,NorthAmerica
+saint lucia,2005,0.95,28496,NorthAmerica
+saint lucia,2006,0.85,28160,NorthAmerica
+saint lucia,2007,0.99,27633,NorthAmerica
+saint lucia,2008,0.96,27047,NorthAmerica
+saint lucia,2009,0.95,26953,NorthAmerica
+saint lucia,2010,0.97,26856,NorthAmerica
+saint lucia,2011,0.99,26901,NorthAmerica
+saint lucia,2012,0.98,26894,NorthAmerica
+saint lucia,2013,0.99,26943,NorthAmerica
+saint lucia,2014,0.99,26771,NorthAmerica
+saint lucia,2015,0.99,26679,NorthAmerica
+saint lucia,2016,0.95,26609,NorthAmerica
+saint lucia,2017,0.8,26558,NorthAmerica
+saint vincent and the grenadines,1990,0.98,33847,NorthAmerica
+saint vincent and the grenadines,1991,0.99,33349,NorthAmerica
+saint vincent and the grenadines,1992,0.99,33273,NorthAmerica
+saint vincent and the grenadines,1993,0.99,33242,NorthAmerica
+saint vincent and the grenadines,1994,0.99,33402,NorthAmerica
+saint vincent and the grenadines,1995,0.97,33472,NorthAmerica
+saint vincent and the grenadines,1996,0.99,34091,NorthAmerica
+saint vincent and the grenadines,1997,0.99,34144,NorthAmerica
+saint vincent and the grenadines,1998,0.99,34011,NorthAmerica
+saint vincent and the grenadines,1999,0.95,33754,NorthAmerica
+saint vincent and the grenadines,2000,0.98,33522,NorthAmerica
+saint vincent and the grenadines,2001,0.99,32881,NorthAmerica
+saint vincent and the grenadines,2002,0.99,33003,NorthAmerica
+saint vincent and the grenadines,2003,0.99,32057,NorthAmerica
+saint vincent and the grenadines,2004,0.99,31881,NorthAmerica
+saint vincent and the grenadines,2005,0.99,31594,NorthAmerica
+saint vincent and the grenadines,2006,0.99,31211,NorthAmerica
+saint vincent and the grenadines,2007,0.99,30877,NorthAmerica
+saint vincent and the grenadines,2008,0.99,30527,NorthAmerica
+saint vincent and the grenadines,2009,0.99,30380,NorthAmerica
+saint vincent and the grenadines,2010,0.99,30428,NorthAmerica
+saint vincent and the grenadines,2011,0.96,30485,NorthAmerica
+saint vincent and the grenadines,2012,0.96,30735,NorthAmerica
+saint vincent and the grenadines,2013,0.97,31602,NorthAmerica
+saint vincent and the grenadines,2014,0.98,31383,NorthAmerica
+saint vincent and the grenadines,2015,0.99,31460,NorthAmerica
+saint vincent and the grenadines,2016,0.99,31170,NorthAmerica
+saint vincent and the grenadines,2017,0.99,31003,NorthAmerica
+samoa,1990,0.9,34295,Oceania
+samoa,1991,0.79,34400,Oceania
+samoa,1992,0.91,33859,Oceania
+samoa,1993,0.92,33620,Oceania
+samoa,1994,0.93,33492,Oceania
+samoa,1995,0.94,33323,Oceania
+samoa,1996,0.95,33200,Oceania
+samoa,1997,0.96,32880,Oceania
+samoa,1998,0.99,32542,Oceania
+samoa,1999,0.97,32405,Oceania
+samoa,2000,0.98,32190,Oceania
+samoa,2001,0.9,31935,Oceania
+samoa,2002,0.92,31638,Oceania
+samoa,2003,0.9,31407,Oceania
+samoa,2004,0.63,31208,Oceania
+samoa,2005,0.59,31228,Oceania
+samoa,2006,0.5,30819,Oceania
+samoa,2007,0.65,30767,Oceania
+samoa,2008,0.39,30609,Oceania
+samoa,2009,0.64,35051,Oceania
+samoa,2010,0.78,30671,Oceania
+samoa,2011,0.82,30626,Oceania
+samoa,2012,0.82,30948,Oceania
+samoa,2013,0.85,30427,Oceania
+samoa,2014,0.81,30312,Oceania
+samoa,2015,0.84,30255,Oceania
+samoa,2016,0.8,30185,Oceania
+samoa,2017,0.74,30099,Oceania
+sao tome and principe,1990,0.92,53099,Africa
+sao tome and principe,1991,0.87,52486,Africa
+sao tome and principe,1992,0.68,52336,Africa
+sao tome and principe,1993,0.6,52399,Africa
+sao tome and principe,1994,0.83,52545,Africa
+sao tome and principe,1995,0.79,52416,Africa
+sao tome and principe,1996,0.68,52305,Africa
+sao tome and principe,1997,0.73,52098,Africa
+sao tome and principe,1998,0.73,51707,Africa
+sao tome and principe,1999,0.78,50814,Africa
+sao tome and principe,2000,0.82,49502,Africa
+sao tome and principe,2001,0.92,48193,Africa
+sao tome and principe,2002,0.92,47115,Africa
+sao tome and principe,2003,0.94,46261,Africa
+sao tome and principe,2004,0.96,45433,Africa
+sao tome and principe,2005,0.97,45490,Africa
+sao tome and principe,2006,0.97,43848,Africa
+sao tome and principe,2007,0.97,42995,Africa
+sao tome and principe,2008,0.99,42431,Africa
+sao tome and principe,2009,0.98,40908,Africa
+sao tome and principe,2010,0.98,40218,Africa
+sao tome and principe,2011,0.96,39776,Africa
+sao tome and principe,2012,0.96,39964,Africa
+sao tome and principe,2013,0.97,39468,Africa
+sao tome and principe,2014,0.95,38575,Africa
+sao tome and principe,2015,0.96,37928,Africa
+sao tome and principe,2016,0.96,37342,Africa
+sao tome and principe,2017,0.95,36754,Africa
+saudi arabia,1990,0.92,36958,Asia
+saudi arabia,1991,0.91,35906,Asia
+saudi arabia,1992,0.91,34920,Asia
+saudi arabia,1993,0.94,34108,Asia
+saudi arabia,1994,0.95,33372,Asia
+saudi arabia,1995,0.96,32685,Asia
+saudi arabia,1996,0.93,32019,Asia
+saudi arabia,1997,0.92,31445,Asia
+saudi arabia,1998,0.94,30794,Asia
+saudi arabia,1999,0.93,30242,Asia
+saudi arabia,2000,0.95,29775,Asia
+saudi arabia,2001,0.97,29338,Asia
+saudi arabia,2002,0.95,29341,Asia
+saudi arabia,2003,0.95,29160,Asia
+saudi arabia,2004,0.96,28844,Asia
+saudi arabia,2005,0.96,28669,Asia
+saudi arabia,2006,0.96,28527,Asia
+saudi arabia,2007,0.96,28261,Asia
+saudi arabia,2008,0.98,28066,Asia
+saudi arabia,2009,0.98,27931,Asia
+saudi arabia,2010,0.98,27697,Asia
+saudi arabia,2011,0.98,27334,Asia
+saudi arabia,2012,0.98,26881,Asia
+saudi arabia,2013,0.98,26408,Asia
+saudi arabia,2014,0.98,25920,Asia
+saudi arabia,2015,0.98,25848,Asia
+saudi arabia,2016,0.98,25296,Asia
+saudi arabia,2017,0.98,24935,Asia
+senegal,1990,0.51,68896,Africa
+senegal,1991,0.51,67677,Africa
+senegal,1992,0.59,67249,Africa
+senegal,1993,0.58,66895,Africa
+senegal,1994,0.57,66556,Africa
+senegal,1995,0.8,66518,Africa
+senegal,1996,0.7,65993,Africa
+senegal,1997,0.59,65074,Africa
+senegal,1998,0.59,64289,Africa
+senegal,1999,0.6,63142,Africa
+senegal,2000,0.52,61490,Africa
+senegal,2001,0.52,60042,Africa
+senegal,2002,0.6,59105,Africa
+senegal,2003,0.73,56810,Africa
+senegal,2004,0.87,55355,Africa
+senegal,2005,0.84,53983,Africa
+senegal,2006,0.89,52463,Africa
+senegal,2007,0.94,50752,Africa
+senegal,2008,0.88,49292,Africa
+senegal,2009,0.86,48027,Africa
+senegal,2010,0.89,46983,Africa
+senegal,2011,0.92,46003,Africa
+senegal,2012,0.91,45118,Africa
+senegal,2013,0.92,44248,Africa
+senegal,2014,0.89,43418,Africa
+senegal,2015,0.89,42739,Africa
+senegal,2016,0.93,41989,Africa
+senegal,2017,0.93,41359,Africa
+seychelles,1990,0.99,33305,Africa
+seychelles,1991,0.98,33358,Africa
+seychelles,1992,0.96,33291,Africa
+seychelles,1993,0.96,33555,Africa
+seychelles,1994,0.96,32986,Africa
+seychelles,1995,0.97,32321,Africa
+seychelles,1996,0.99,32104,Africa
+seychelles,1997,0.98,32241,Africa
+seychelles,1998,0.99,31737,Africa
+seychelles,1999,0.99,31382,Africa
+seychelles,2000,0.98,31167,Africa
+seychelles,2001,0.96,30962,Africa
+seychelles,2002,0.99,30593,Africa
+seychelles,2003,0.99,30261,Africa
+seychelles,2004,0.99,30199,Africa
+seychelles,2005,0.99,29637,Africa
+seychelles,2006,0.99,29214,Africa
+seychelles,2007,0.99,29033,Africa
+seychelles,2008,0.99,28777,Africa
+seychelles,2009,0.99,28675,Africa
+seychelles,2010,0.99,28486,Africa
+seychelles,2011,0.99,28322,Africa
+seychelles,2012,0.98,28283,Africa
+seychelles,2013,0.98,28212,Africa
+seychelles,2014,0.99,28175,Africa
+seychelles,2015,0.97,28165,Africa
+seychelles,2016,0.96,28136,Africa
+seychelles,2017,0.97,28043,Africa
+singapore,1990,0.85,23837,Asia
+singapore,1991,0.91,23148,Asia
+singapore,1992,0.89,22685,Asia
+singapore,1993,0.92,22302,Asia
+singapore,1994,0.95,22104,Asia
+singapore,1995,0.98,21880,Asia
+singapore,1996,0.97,21421,Asia
+singapore,1997,0.98,20854,Asia
+singapore,1998,0.97,20509,Asia
+singapore,1999,0.97,20101,Asia
+singapore,2000,0.98,19547,Asia
+singapore,2001,0.96,19128,Asia
+singapore,2002,0.94,18824,Asia
+singapore,2003,0.96,18268,Asia
+singapore,2004,0.95,18044,Asia
+singapore,2005,0.96,17857,Asia
+singapore,2006,0.95,17477,Asia
+singapore,2007,0.97,17176,Asia
+singapore,2008,0.97,16989,Asia
+singapore,2009,0.97,16479,Asia
+singapore,2010,0.96,16232,Asia
+singapore,2011,0.96,16100,Asia
+singapore,2012,0.97,15908,Asia
+singapore,2013,0.97,15629,Asia
+singapore,2014,0.96,15366,Asia
+singapore,2015,0.96,15163,Asia
+singapore,2016,0.97,14982,Asia
+singapore,2017,0.96,14901,Asia
+solomon islands,1990,0.77,55377,Oceania
+solomon islands,1991,0.76,55499,Oceania
+solomon islands,1992,0.71,54305,Oceania
+solomon islands,1993,0.65,53698,Oceania
+solomon islands,1994,0.68,52951,Oceania
+solomon islands,1995,0.69,52186,Oceania
+solomon islands,1996,0.72,51577,Oceania
+solomon islands,1997,0.72,51064,Oceania
+solomon islands,1998,0.7,50621,Oceania
+solomon islands,1999,0.88,50451,Oceania
+solomon islands,2000,0.86,50496,Oceania
+solomon islands,2001,0.84,50138,Oceania
+solomon islands,2002,0.78,50190,Oceania
+solomon islands,2003,0.84,50173,Oceania
+solomon islands,2004,0.9,50116,Oceania
+solomon islands,2005,0.89,49939,Oceania
+solomon islands,2006,0.99,49640,Oceania
+solomon islands,2007,0.88,49837,Oceania
+solomon islands,2008,0.85,48802,Oceania
+solomon islands,2009,0.86,48650,Oceania
+solomon islands,2010,0.83,47987,Oceania
+solomon islands,2011,0.91,47390,Oceania
+solomon islands,2012,0.92,46875,Oceania
+solomon islands,2013,0.83,46524,Oceania
+solomon islands,2014,0.77,46522,Oceania
+solomon islands,2015,0.87,45752,Oceania
+solomon islands,2016,0.94,45299,Oceania
+solomon islands,2017,0.83,44967,Oceania
+somalia,1990,0.19,101752,Africa
+somalia,1991,0.2,110096,Africa
+somalia,1992,0.21,106029,Africa
+somalia,1993,0.22,100215,Africa
+somalia,1994,0.23,100687,Africa
+somalia,1995,0.22,98889,Africa
+somalia,1996,0.21,97933,Africa
+somalia,1997,0.19,97628,Africa
+somalia,1998,0.33,93642,Africa
+somalia,1999,0.36,91350,Africa
+somalia,2000,0.33,88905,Africa
+somalia,2001,0.33,86510,Africa
+somalia,2002,0.4,84287,Africa
+somalia,2003,0.4,81934,Africa
+somalia,2004,0.3,80167,Africa
+somalia,2005,0.35,77210,Africa
+somalia,2006,0.26,75199,Africa
+somalia,2007,0.4,74693,Africa
+somalia,2008,0.31,72827,Africa
+somalia,2009,0.42,71373,Africa
+somalia,2010,0.45,74507,Africa
+somalia,2011,0.41,73247,Africa
+somalia,2012,0.42,68485,Africa
+somalia,2013,0.42,66129,Africa
+somalia,2014,0.42,64578,Africa
+somalia,2015,0.42,63201,Africa
+somalia,2016,0.42,62255,Africa
+somalia,2017,0.42,62153,Africa
+south africa,1990,0.72,51110,Africa
+south africa,1991,0.81,50232,Africa
+south africa,1992,0.79,50565,Africa
+south africa,1993,0.81,49563,Africa
+south africa,1994,0.73,50728,Africa
+south africa,1995,0.72,51465,Africa
+south africa,1996,0.73,54445,Africa
+south africa,1997,0.76,58946,Africa
+south africa,1998,0.75,62857,Africa
+south africa,1999,0.74,67169,Africa
+south africa,2000,0.73,73329,Africa
+south africa,2001,0.71,75825,Africa
+south africa,2002,0.7,79540,Africa
+south africa,2003,0.69,82780,Africa
+south africa,2004,0.74,84688,Africa
+south africa,2005,0.81,85444,Africa
+south africa,2006,0.84,85303,Africa
+south africa,2007,0.85,83320,Africa
+south africa,2008,0.82,80746,Africa
+south africa,2009,0.81,76943,Africa
+south africa,2010,0.77,71913,Africa
+south africa,2011,0.75,66470,Africa
+south africa,2012,0.71,61975,Africa
+south africa,2013,0.81,57557,Africa
+south africa,2014,0.85,53989,Africa
+south africa,2015,0.85,51775,Africa
+south africa,2016,0.76,49274,Africa
+south africa,2017,0.76,45453,Africa
+south korea,1990,0.74,30893,Asia
+south korea,1991,0.79,30177,Asia
+south korea,1992,0.84,29045,Asia
+south korea,1993,0.88,28325,Asia
+south korea,1994,0.93,27912,Asia
+south korea,1995,0.99,27198,Asia
+south korea,1996,0.9,26435,Asia
+south korea,1997,0.8,25775,Asia
+south korea,1998,0.74,25265,Asia
+south korea,1999,0.86,24716,Asia
+south korea,2000,0.97,24165,Asia
+south korea,2001,0.97,23470,Asia
+south korea,2002,0.97,22904,Asia
+south korea,2003,0.97,22443,Asia
+south korea,2004,0.88,21760,Asia
+south korea,2005,0.96,21102,Asia
+south korea,2006,0.98,20523,Asia
+south korea,2007,0.91,20135,Asia
+south korea,2008,0.94,19790,Asia
+south korea,2009,0.94,19503,Asia
+south korea,2010,0.94,19272,Asia
+south korea,2011,0.99,18970,Asia
+south korea,2012,0.99,18622,Asia
+south korea,2013,0.99,18213,Asia
+south korea,2014,0.99,17871,Asia
+south korea,2015,0.98,17554,Asia
+south korea,2016,0.98,17314,Asia
+south korea,2017,0.97,17236,Asia
+spain,1990,0.86,23848,Europe
+spain,1991,0.86,23711,Europe
+spain,1992,0.84,23309,Europe
+spain,1993,0.87,22936,Europe
+spain,1994,0.88,22616,Europe
+spain,1995,0.9,22479,Europe
+spain,1996,0.9,22272,Europe
+spain,1997,0.94,21549,Europe
+spain,1998,0.95,21223,Europe
+spain,1999,0.95,21156,Europe
+spain,2000,0.95,20674,Europe
+spain,2001,0.96,20359,Europe
+spain,2002,0.98,20189,Europe
+spain,2003,0.98,20383,Europe
+spain,2004,0.97,19749,Europe
+spain,2005,0.96,19444,Europe
+spain,2006,0.98,19058,Europe
+spain,2007,0.96,18912,Europe
+spain,2008,0.97,18660,Europe
+spain,2009,0.96,18247,Europe
+spain,2010,0.97,17963,Europe
+spain,2011,0.97,17822,Europe
+spain,2012,0.97,17614,Europe
+spain,2013,0.96,17344,Europe
+spain,2014,0.97,17266,Europe
+spain,2015,0.97,17284,Europe
+spain,2016,0.97,17086,Europe
+spain,2017,0.95,17002,Europe
+sri lanka,1990,0.86,37251,Asia
+sri lanka,1991,0.86,35462,Asia
+sri lanka,1992,0.88,34309,Asia
+sri lanka,1993,0.9,32050,Asia
+sri lanka,1994,0.88,32241,Asia
+sri lanka,1995,0.93,34540,Asia
+sri lanka,1996,0.92,34609,Asia
+sri lanka,1997,0.97,35123,Asia
+sri lanka,1998,0.94,33442,Asia
+sri lanka,1999,0.99,32342,Asia
+sri lanka,2000,0.99,32460,Asia
+sri lanka,2001,0.98,30331,Asia
+sri lanka,2002,0.98,28687,Asia
+sri lanka,2003,0.99,28409,Asia
+sri lanka,2004,0.97,37325,Asia
+sri lanka,2005,0.99,28502,Asia
+sri lanka,2006,0.98,27764,Asia
+sri lanka,2007,0.98,27112,Asia
+sri lanka,2008,0.98,28648,Asia
+sri lanka,2009,0.97,28609,Asia
+sri lanka,2010,0.99,27158,Asia
+sri lanka,2011,0.99,24926,Asia
+sri lanka,2012,0.99,24564,Asia
+sri lanka,2013,0.99,24004,Asia
+sri lanka,2014,0.99,24062,Asia
+sri lanka,2015,0.99,23395,Asia
+sri lanka,2016,0.99,23011,Asia
+sri lanka,2017,0.99,22689,Asia
+sudan,1990,0.62,70348,Africa
+sudan,1991,0.62,68028,Africa
+sudan,1992,0.53,66263,Africa
+sudan,1993,0.51,65471,Africa
+sudan,1994,0.46,62795,Africa
+sudan,1995,0.48,61771,Africa
+sudan,1996,0.56,60770,Africa
+sudan,1997,0.55,59991,Africa
+sudan,1998,0.46,58878,Africa
+sudan,1999,0.55,57097,Africa
+sudan,2000,0.62,55768,Africa
+sudan,2001,0.66,54704,Africa
+sudan,2002,0.6,54422,Africa
+sudan,2003,0.69,53884,Africa
+sudan,2004,0.74,53737,Africa
+sudan,2005,0.78,50321,Africa
+sudan,2006,0.78,49291,Africa
+sudan,2007,0.84,48205,Africa
+sudan,2008,0.86,47102,Africa
+sudan,2009,0.81,46361,Africa
+sudan,2010,0.9,45504,Africa
+sudan,2011,0.93,44789,Africa
+sudan,2012,0.92,43816,Africa
+sudan,2013,0.93,43080,Africa
+sudan,2014,0.94,42128,Africa
+sudan,2015,0.93,40933,Africa
+sudan,2016,0.93,40445,Africa
+sudan,2017,0.95,39487,Africa
+suriname,1990,0.83,40441,SouthAmerica
+suriname,1991,0.75,40125,SouthAmerica
+suriname,1992,0.74,39848,SouthAmerica
+suriname,1993,0.76,40278,SouthAmerica
+suriname,1994,0.74,39846,SouthAmerica
+suriname,1995,0.84,38767,SouthAmerica
+suriname,1996,0.85,38520,SouthAmerica
+suriname,1997,0.81,38047,SouthAmerica
+suriname,1998,0.9,37946,SouthAmerica
+suriname,1999,0.85,38214,SouthAmerica
+suriname,2000,0.71,38249,SouthAmerica
+suriname,2001,0.68,38331,SouthAmerica
+suriname,2002,0.73,38376,SouthAmerica
+suriname,2003,0.75,38216,SouthAmerica
+suriname,2004,0.85,38122,SouthAmerica
+suriname,2005,0.83,37620,SouthAmerica
+suriname,2006,0.84,36957,SouthAmerica
+suriname,2007,0.84,36158,SouthAmerica
+suriname,2008,0.85,35681,SouthAmerica
+suriname,2009,0.87,34787,SouthAmerica
+suriname,2010,0.94,34507,SouthAmerica
+suriname,2011,0.8,33856,SouthAmerica
+suriname,2012,0.76,33358,SouthAmerica
+suriname,2013,0.76,33105,SouthAmerica
+suriname,2014,0.71,33061,SouthAmerica
+suriname,2015,0.73,33074,SouthAmerica
+suriname,2016,0.77,33019,SouthAmerica
+suriname,2017,0.67,32970,SouthAmerica
+sweden,1990,0.99,22924,Europe
+sweden,1991,0.99,22849,Europe
+sweden,1992,0.99,22290,Europe
+sweden,1993,0.99,22003,Europe
+sweden,1994,0.99,21672,Europe
+sweden,1995,0.99,21270,Europe
+sweden,1996,0.99,21019,Europe
+sweden,1997,0.99,20762,Europe
+sweden,1998,0.99,20671,Europe
+sweden,1999,0.99,20540,Europe
+sweden,2000,0.99,20342,Europe
+sweden,2001,0.99,20282,Europe
+sweden,2002,0.99,20049,Europe
+sweden,2003,0.99,19887,Europe
+sweden,2004,0.99,19953,Europe
+sweden,2005,0.98,19525,Europe
+sweden,2006,0.98,19381,Europe
+sweden,2007,0.98,19271,Europe
+sweden,2008,0.98,19160,Europe
+sweden,2009,0.98,19082,Europe
+sweden,2010,0.98,18776,Europe
+sweden,2011,0.98,18662,Europe
+sweden,2012,0.98,18571,Europe
+sweden,2013,0.98,18499,Europe
+sweden,2014,0.97,18327,Europe
+sweden,2015,0.98,18263,Europe
+sweden,2016,0.98,18115,Europe
+sweden,2017,0.97,18002,Europe
+switzerland,1990,0.9,23588,Europe
+switzerland,1991,0.89,23559,Europe
+switzerland,1992,0.89,23227,Europe
+switzerland,1993,0.89,22775,Europe
+switzerland,1994,0.89,22593,Europe
+switzerland,1995,0.89,22435,Europe
+switzerland,1996,0.89,21721,Europe
+switzerland,1997,0.89,21534,Europe
+switzerland,1998,0.88,21224,Europe
+switzerland,1999,0.93,20864,Europe
+switzerland,2000,0.93,20832,Europe
+switzerland,2001,0.93,20484,Europe
+switzerland,2002,0.93,20189,Europe
+switzerland,2003,0.93,19944,Europe
+switzerland,2004,0.93,19570,Europe
+switzerland,2005,0.94,19290,Europe
+switzerland,2006,0.94,19110,Europe
+switzerland,2007,0.94,18856,Europe
+switzerland,2008,0.95,18614,Europe
+switzerland,2009,0.95,18584,Europe
+switzerland,2010,0.95,18305,Europe
+switzerland,2011,0.96,18061,Europe
+switzerland,2012,0.96,17972,Europe
+switzerland,2013,0.96,17872,Europe
+switzerland,2014,0.96,17629,Europe
+switzerland,2015,0.96,17485,Europe
+switzerland,2016,0.96,17178,Europe
+switzerland,2017,0.96,17047,Europe
+syria,1990,0.91,38492,Asia
+syria,1991,0.89,38254,Asia
+syria,1992,0.89,38025,Asia
+syria,1993,0.9,36926,Asia
+syria,1994,0.89,36371,Asia
+syria,1995,0.89,35748,Asia
+syria,1996,0.88,35045,Asia
+syria,1997,0.87,34452,Asia
+syria,1998,0.87,33805,Asia
+syria,1999,0.86,32803,Asia
+syria,2000,0.84,31497,Asia
+syria,2001,0.82,30269,Asia
+syria,2002,0.84,29569,Asia
+syria,2003,0.83,28050,Asia
+syria,2004,0.81,27626,Asia
+syria,2005,0.8,27106,Asia
+syria,2006,0.8,26738,Asia
+syria,2007,0.8,26426,Asia
+syria,2008,0.79,26663,Asia
+syria,2009,0.8,26305,Asia
+syria,2010,0.8,26142,Asia
+syria,2011,0.72,29012,Asia
+syria,2012,0.45,43173,Asia
+syria,2013,0.41,41912,Asia
+syria,2014,0.43,50857,Asia
+syria,2015,0.41,45749,Asia
+syria,2016,0.42,45710,Asia
+syria,2017,0.48,40283,Asia
+tanzania,1990,0.78,76664,Africa
+tanzania,1991,0.81,77986,Africa
+tanzania,1992,0.83,79723,Africa
+tanzania,1993,0.83,80920,Africa
+tanzania,1994,0.84,82316,Africa
+tanzania,1995,0.81,83157,Africa
+tanzania,1996,0.82,83610,Africa
+tanzania,1997,0.79,83685,Africa
+tanzania,1998,0.79,83004,Africa
+tanzania,1999,0.76,81897,Africa
+tanzania,2000,0.79,80219,Africa
+tanzania,2001,0.87,78234,Africa
+tanzania,2002,0.89,76226,Africa
+tanzania,2003,0.95,74079,Africa
+tanzania,2004,0.95,72051,Africa
+tanzania,2005,0.9,70029,Africa
+tanzania,2006,0.9,67856,Africa
+tanzania,2007,0.83,65165,Africa
+tanzania,2008,0.86,62573,Africa
+tanzania,2009,0.85,60508,Africa
+tanzania,2010,0.91,58210,Africa
+tanzania,2011,0.9,56118,Africa
+tanzania,2012,0.92,53416,Africa
+tanzania,2013,0.91,50963,Africa
+tanzania,2014,0.97,48658,Africa
+tanzania,2015,0.96,46906,Africa
+tanzania,2016,0.92,45454,Africa
+tanzania,2017,0.9,44298,Africa
+thailand,1990,0.92,34785,Asia
+thailand,1991,0.9,34671,Asia
+thailand,1992,0.85,34642,Asia
+thailand,1993,0.89,35006,Asia
+thailand,1994,0.93,35387,Asia
+thailand,1995,0.96,35872,Asia
+thailand,1996,0.94,36257,Asia
+thailand,1997,0.95,34831,Asia
+thailand,1998,0.96,34372,Asia
+thailand,1999,0.97,34497,Asia
+thailand,2000,0.97,33735,Asia
+thailand,2001,0.96,32458,Asia
+thailand,2002,0.96,31882,Asia
+thailand,2003,0.98,30744,Asia
+thailand,2004,0.98,30321,Asia
+thailand,2005,0.98,28437,Asia
+thailand,2006,0.98,27463,Asia
+thailand,2007,0.98,26631,Asia
+thailand,2008,0.99,25887,Asia
+thailand,2009,0.99,25172,Asia
+thailand,2010,0.99,24795,Asia
+thailand,2011,0.99,24375,Asia
+thailand,2012,0.99,24028,Asia
+thailand,2013,0.99,23619,Asia
+thailand,2014,0.99,23558,Asia
+thailand,2015,0.99,23521,Asia
+thailand,2016,0.99,23787,Asia
+thailand,2017,0.99,23662,Asia
+togo,1990,0.77,69584,Africa
+togo,1991,0.73,69195,Africa
+togo,1992,0.69,68690,Africa
+togo,1993,0.66,68985,Africa
+togo,1994,0.62,69362,Africa
+togo,1995,0.58,69508,Africa
+togo,1996,0.5,69942,Africa
+togo,1997,0.42,70873,Africa
+togo,1998,0.42,71331,Africa
+togo,1999,0.57,71192,Africa
+togo,2000,0.64,71556,Africa
+togo,2001,0.5,71903,Africa
+togo,2002,0.59,71583,Africa
+togo,2003,0.72,71470,Africa
+togo,2004,0.71,70608,Africa
+togo,2005,0.82,70354,Africa
+togo,2006,0.84,68657,Africa
+togo,2007,0.82,67744,Africa
+togo,2008,0.81,66510,Africa
+togo,2009,0.78,64779,Africa
+togo,2010,0.83,62859,Africa
+togo,2011,0.85,60666,Africa
+togo,2012,0.84,58735,Africa
+togo,2013,0.84,56796,Africa
+togo,2014,0.84,54938,Africa
+togo,2015,0.82,53078,Africa
+togo,2016,0.82,51537,Africa
+togo,2017,0.83,49336,Africa
+tonga,1990,0.94,35503,Oceania
+tonga,1991,0.88,35088,Oceania
+tonga,1992,0.99,34767,Oceania
+tonga,1993,0.96,34646,Oceania
+tonga,1994,0.89,34514,Oceania
+tonga,1995,0.95,34394,Oceania
+tonga,1996,0.99,34302,Oceania
+tonga,1997,0.96,34718,Oceania
+tonga,1998,0.97,34130,Oceania
+tonga,1999,0.94,34156,Oceania
+tonga,2000,0.95,34124,Oceania
+tonga,2001,0.94,34093,Oceania
+tonga,2002,0.9,34054,Oceania
+tonga,2003,0.98,34021,Oceania
+tonga,2004,0.99,33942,Oceania
+tonga,2005,0.99,33761,Oceania
+tonga,2006,0.99,33716,Oceania
+tonga,2007,0.99,33690,Oceania
+tonga,2008,0.99,33685,Oceania
+tonga,2009,0.99,37919,Oceania
+tonga,2010,0.99,33497,Oceania
+tonga,2011,0.99,33339,Oceania
+tonga,2012,0.95,33215,Oceania
+tonga,2013,0.99,33120,Oceania
+tonga,2014,0.98,33072,Oceania
+tonga,2015,0.96,32881,Oceania
+tonga,2016,0.96,32715,Oceania
+tonga,2017,0.99,32538,Oceania
+trinidad and tobago,1990,0.82,35524,NorthAmerica
+trinidad and tobago,1991,0.82,35095,NorthAmerica
+trinidad and tobago,1992,0.87,35423,NorthAmerica
+trinidad and tobago,1993,0.81,36120,NorthAmerica
+trinidad and tobago,1994,0.85,36534,NorthAmerica
+trinidad and tobago,1995,0.89,35767,NorthAmerica
+trinidad and tobago,1996,0.89,36031,NorthAmerica
+trinidad and tobago,1997,0.9,35142,NorthAmerica
+trinidad and tobago,1998,0.91,35755,NorthAmerica
+trinidad and tobago,1999,0.9,36163,NorthAmerica
+trinidad and tobago,2000,0.9,35298,NorthAmerica
+trinidad and tobago,2001,0.91,34921,NorthAmerica
+trinidad and tobago,2002,0.96,34137,NorthAmerica
+trinidad and tobago,2003,0.91,33999,NorthAmerica
+trinidad and tobago,2004,0.94,33222,NorthAmerica
+trinidad and tobago,2005,0.95,32598,NorthAmerica
+trinidad and tobago,2006,0.92,31559,NorthAmerica
+trinidad and tobago,2007,0.88,31236,NorthAmerica
+trinidad and tobago,2008,0.9,31866,NorthAmerica
+trinidad and tobago,2009,0.9,30993,NorthAmerica
+trinidad and tobago,2010,0.9,30093,NorthAmerica
+trinidad and tobago,2011,0.9,29058,NorthAmerica
+trinidad and tobago,2012,0.92,28846,NorthAmerica
+trinidad and tobago,2013,0.92,29022,NorthAmerica
+trinidad and tobago,2014,0.92,28918,NorthAmerica
+trinidad and tobago,2015,0.96,28789,NorthAmerica
+trinidad and tobago,2016,0.97,28903,NorthAmerica
+trinidad and tobago,2017,0.89,28909,NorthAmerica
+tunisia,1990,0.93,35056,Africa
+tunisia,1991,0.93,34565,Africa
+tunisia,1992,0.95,34066,Africa
+tunisia,1993,0.94,33518,Africa
+tunisia,1994,0.93,32939,Africa
+tunisia,1995,0.94,32358,Africa
+tunisia,1996,0.95,31526,Africa
+tunisia,1997,0.96,31107,Africa
+tunisia,1998,0.96,30539,Africa
+tunisia,1999,0.99,29906,Africa
+tunisia,2000,0.97,29376,Africa
+tunisia,2001,0.98,28888,Africa
+tunisia,2002,0.96,28423,Africa
+tunisia,2003,0.95,27941,Africa
+tunisia,2004,0.97,27369,Africa
+tunisia,2005,0.98,26945,Africa
+tunisia,2006,0.99,26570,Africa
+tunisia,2007,0.98,26242,Africa
+tunisia,2008,0.99,25920,Africa
+tunisia,2009,0.99,25684,Africa
+tunisia,2010,0.98,25451,Africa
+tunisia,2011,0.98,25374,Africa
+tunisia,2012,0.95,24778,Africa
+tunisia,2013,0.95,24502,Africa
+tunisia,2014,0.94,24224,Africa
+tunisia,2015,0.93,23974,Africa
+tunisia,2016,0.93,23690,Africa
+tunisia,2017,0.92,23405,Africa
+turkey,1990,0.84,42353,Asia
+turkey,1991,0.72,41463,Asia
+turkey,1992,0.77,40866,Asia
+turkey,1993,0.76,39845,Asia
+turkey,1994,0.87,39547,Asia
+turkey,1995,0.67,38762,Asia
+turkey,1996,0.72,37662,Asia
+turkey,1997,0.79,36519,Asia
+turkey,1998,0.81,35362,Asia
+turkey,1999,0.79,35612,Asia
+turkey,2000,0.85,32474,Asia
+turkey,2001,0.88,31351,Asia
+turkey,2002,0.78,30309,Asia
+turkey,2003,0.68,29433,Asia
+turkey,2004,0.85,28364,Asia
+turkey,2005,0.9,27602,Asia
+turkey,2006,0.9,26823,Asia
+turkey,2007,0.96,26094,Asia
+turkey,2008,0.96,25509,Asia
+turkey,2009,0.96,25461,Asia
+turkey,2010,0.97,25240,Asia
+turkey,2011,0.97,24724,Asia
+turkey,2012,0.97,24403,Asia
+turkey,2013,0.98,24303,Asia
+turkey,2014,0.96,24208,Asia
+turkey,2015,0.97,23830,Asia
+turkey,2016,0.98,23500,Asia
+turkey,2017,0.96,23005,Asia
+uganda,1990,0.45,104734,Africa
+uganda,1991,0.49,106306,Africa
+uganda,1992,0.53,106974,Africa
+uganda,1993,0.56,107357,Africa
+uganda,1994,0.6,106930,Africa
+uganda,1995,0.59,106214,Africa
+uganda,1996,0.57,105400,Africa
+uganda,1997,0.56,103468,Africa
+uganda,1998,0.48,101787,Africa
+uganda,1999,0.5,99300,Africa
+uganda,2000,0.52,97174,Africa
+uganda,2001,0.55,93846,Africa
+uganda,2002,0.57,91262,Africa
+uganda,2003,0.59,88333,Africa
+uganda,2004,0.62,84813,Africa
+uganda,2005,0.64,80505,Africa
+uganda,2006,0.64,76640,Africa
+uganda,2007,0.73,73368,Africa
+uganda,2008,0.71,69989,Africa
+uganda,2009,0.79,66839,Africa
+uganda,2010,0.8,63927,Africa
+uganda,2011,0.82,60754,Africa
+uganda,2012,0.83,57668,Africa
+uganda,2013,0.84,54715,Africa
+uganda,2014,0.85,51997,Africa
+uganda,2015,0.89,49575,Africa
+uganda,2016,0.93,48011,Africa
+uganda,2017,0.94,46651,Africa
+united arab emirates,1990,0.85,34794,Asia
+united arab emirates,1991,0.85,34229,Asia
+united arab emirates,1992,0.86,33705,Asia
+united arab emirates,1993,0.9,33235,Asia
+united arab emirates,1994,0.9,32825,Asia
+united arab emirates,1995,0.9,32455,Asia
+united arab emirates,1996,0.9,32024,Asia
+united arab emirates,1997,0.92,31861,Asia
+united arab emirates,1998,0.94,32084,Asia
+united arab emirates,1999,0.94,32537,Asia
+united arab emirates,2000,0.94,32682,Asia
+united arab emirates,2001,0.94,32693,Asia
+united arab emirates,2002,0.94,32212,Asia
+united arab emirates,2003,0.94,32411,Asia
+united arab emirates,2004,0.94,32569,Asia
+united arab emirates,2005,0.94,31967,Asia
+united arab emirates,2006,0.92,31936,Asia
+united arab emirates,2007,0.92,31926,Asia
+united arab emirates,2008,0.92,31755,Asia
+united arab emirates,2009,0.93,31941,Asia
+united arab emirates,2010,0.94,32067,Asia
+united arab emirates,2011,0.95,32003,Asia
+united arab emirates,2012,0.96,31896,Asia
+united arab emirates,2013,0.98,31717,Asia
+united arab emirates,2014,0.99,31519,Asia
+united arab emirates,2015,0.99,31278,Asia
+united arab emirates,2016,0.99,31038,Asia
+united arab emirates,2017,0.97,30806,Asia
+united kingdom,1990,0.84,25622,Europe
+united kingdom,1991,0.88,25240,Europe
+united kingdom,1992,0.92,24761,Europe
+united kingdom,1993,0.93,24734,Europe
+united kingdom,1994,0.93,24274,Europe
+united kingdom,1995,0.94,24247,Europe
+united kingdom,1996,0.94,24016,Europe
+united kingdom,1997,0.92,23648,Europe
+united kingdom,1998,0.91,23457,Europe
+united kingdom,1999,0.92,23264,Europe
+united kingdom,2000,0.91,22884,Europe
+united kingdom,2001,0.91,22628,Europe
+united kingdom,2002,0.91,22529,Europe
+united kingdom,2003,0.91,22427,Europe
+united kingdom,2004,0.92,21915,Europe
+united kingdom,2005,0.91,21672,Europe
+united kingdom,2006,0.92,21624,Europe
+united kingdom,2007,0.92,21372,Europe
+united kingdom,2008,0.92,21242,Europe
+united kingdom,2009,0.93,20922,Europe
+united kingdom,2010,0.94,20666,Europe
+united kingdom,2011,0.95,20334,Europe
+united kingdom,2012,0.95,20104,Europe
+united kingdom,2013,0.95,20098,Europe
+united kingdom,2014,0.95,19977,Europe
+united kingdom,2015,0.95,20067,Europe
+united kingdom,2016,0.94,20128,Europe
+united kingdom,2017,0.94,20120,Europe
+united states,1990,0.9,27651,NorthAmerica
+united states,1991,0.86,27442,NorthAmerica
+united states,1992,0.83,27125,NorthAmerica
+united states,1993,0.88,27296,NorthAmerica
+united states,1994,0.94,27160,NorthAmerica
+united states,1995,0.95,26974,NorthAmerica
+united states,1996,0.95,26477,NorthAmerica
+united states,1997,0.96,26023,NorthAmerica
+united states,1998,0.96,25742,NorthAmerica
+united states,1999,0.96,25689,NorthAmerica
+united states,2000,0.94,25548,NorthAmerica
+united states,2001,0.94,25516,NorthAmerica
+united states,2002,0.94,25452,NorthAmerica
+united states,2003,0.96,25325,NorthAmerica
+united states,2004,0.96,24946,NorthAmerica
+united states,2005,0.96,24996,NorthAmerica
+united states,2006,0.96,24784,NorthAmerica
+united states,2007,0.96,24509,NorthAmerica
+united states,2008,0.96,24284,NorthAmerica
+united states,2009,0.95,24051,NorthAmerica
+united states,2010,0.95,23719,NorthAmerica
+united states,2011,0.96,23741,NorthAmerica
+united states,2012,0.94,23653,NorthAmerica
+united states,2013,0.94,23651,NorthAmerica
+united states,2014,0.95,23715,NorthAmerica
+united states,2015,0.95,23901,NorthAmerica
+united states,2016,0.95,24235,NorthAmerica
+united states,2017,0.95,24305,NorthAmerica
+uruguay,1990,0.97,30020,SouthAmerica
+uruguay,1991,0.96,29413,SouthAmerica
+uruguay,1992,0.93,29405,SouthAmerica
+uruguay,1993,0.92,30000,SouthAmerica
+uruguay,1994,0.91,29599,SouthAmerica
+uruguay,1995,0.91,29412,SouthAmerica
+uruguay,1996,0.91,28908,SouthAmerica
+uruguay,1997,0.91,28556,SouthAmerica
+uruguay,1998,0.91,28461,SouthAmerica
+uruguay,1999,0.93,28030,SouthAmerica
+uruguay,2000,0.9,27473,SouthAmerica
+uruguay,2001,0.94,26971,SouthAmerica
+uruguay,2002,0.95,27002,SouthAmerica
+uruguay,2003,0.91,27032,SouthAmerica
+uruguay,2004,0.94,26562,SouthAmerica
+uruguay,2005,0.96,26045,SouthAmerica
+uruguay,2006,0.95,25386,SouthAmerica
+uruguay,2007,0.94,25949,SouthAmerica
+uruguay,2008,0.94,25222,SouthAmerica
+uruguay,2009,0.95,24776,SouthAmerica
+uruguay,2010,0.95,24830,SouthAmerica
+uruguay,2011,0.95,24976,SouthAmerica
+uruguay,2012,0.95,24914,SouthAmerica
+uruguay,2013,0.94,24571,SouthAmerica
+uruguay,2014,0.95,24070,SouthAmerica
+uruguay,2015,0.95,24004,SouthAmerica
+uruguay,2016,0.95,24021,SouthAmerica
+uruguay,2017,0.93,23941,SouthAmerica
+vanuatu,1990,0.76,53364,Oceania
+vanuatu,1991,0.83,52968,Oceania
+vanuatu,1992,0.77,52731,Oceania
+vanuatu,1993,0.86,52521,Oceania
+vanuatu,1994,0.74,52057,Oceania
+vanuatu,1995,0.73,51787,Oceania
+vanuatu,1996,0.67,51531,Oceania
+vanuatu,1997,0.72,54650,Oceania
+vanuatu,1998,0.72,51176,Oceania
+vanuatu,1999,0.71,52438,Oceania
+vanuatu,2000,0.71,50940,Oceania
+vanuatu,2001,0.7,50981,Oceania
+vanuatu,2002,0.7,51011,Oceania
+vanuatu,2003,0.69,50976,Oceania
+vanuatu,2004,0.69,50970,Oceania
+vanuatu,2005,0.68,50944,Oceania
+vanuatu,2006,0.68,50624,Oceania
+vanuatu,2007,0.7,50337,Oceania
+vanuatu,2008,0.73,49983,Oceania
+vanuatu,2009,0.75,49690,Oceania
+vanuatu,2010,0.77,49308,Oceania
+vanuatu,2011,0.79,48997,Oceania
+vanuatu,2012,0.82,48748,Oceania
+vanuatu,2013,0.84,48484,Oceania
+vanuatu,2014,0.86,48508,Oceania
+vanuatu,2015,0.8,48353,Oceania
+vanuatu,2016,0.81,47937,Oceania
+vanuatu,2017,0.85,47730,Oceania
+venezuela,1990,0.63,32500,SouthAmerica
+venezuela,1991,0.64,31042,SouthAmerica
+venezuela,1992,0.67,30984,SouthAmerica
+venezuela,1993,0.67,31326,SouthAmerica
+venezuela,1994,0.63,32050,SouthAmerica
+venezuela,1995,0.68,31624,SouthAmerica
+venezuela,1996,0.57,30709,SouthAmerica
+venezuela,1997,0.6,29773,SouthAmerica
+venezuela,1998,0.39,29959,SouthAmerica
+venezuela,1999,0.76,37018,SouthAmerica
+venezuela,2000,0.77,29412,SouthAmerica
+venezuela,2001,0.7,29408,SouthAmerica
+venezuela,2002,0.65,29474,SouthAmerica
+venezuela,2003,0.68,30427,SouthAmerica
+venezuela,2004,0.86,28326,SouthAmerica
+venezuela,2005,0.87,27395,SouthAmerica
+venezuela,2006,0.71,27522,SouthAmerica
+venezuela,2007,0.62,28009,SouthAmerica
+venezuela,2008,0.5,28610,SouthAmerica
+venezuela,2009,0.84,28659,SouthAmerica
+venezuela,2010,0.78,27963,SouthAmerica
+venezuela,2011,0.78,27747,SouthAmerica
+venezuela,2012,0.81,27949,SouthAmerica
+venezuela,2013,0.82,27727,SouthAmerica
+venezuela,2014,0.78,27703,SouthAmerica
+venezuela,2015,0.87,27535,SouthAmerica
+venezuela,2016,0.84,27325,SouthAmerica
+venezuela,2017,0.66,27375,SouthAmerica
+vietnam,1990,0.88,38525,Asia
+vietnam,1991,0.88,37918,Asia
+vietnam,1992,0.88,37209,Asia
+vietnam,1993,0.91,36561,Asia
+vietnam,1994,0.94,35884,Asia
+vietnam,1995,0.93,35177,Asia
+vietnam,1996,0.94,34515,Asia
+vietnam,1997,0.95,34041,Asia
+vietnam,1998,0.94,33224,Asia
+vietnam,1999,0.93,32712,Asia
+vietnam,2000,0.96,32210,Asia
+vietnam,2001,0.96,31717,Asia
+vietnam,2002,0.75,31244,Asia
+vietnam,2003,0.99,30844,Asia
+vietnam,2004,0.96,30483,Asia
+vietnam,2005,0.95,30121,Asia
+vietnam,2006,0.94,29761,Asia
+vietnam,2007,0.92,29378,Asia
+vietnam,2008,0.93,29005,Asia
+vietnam,2009,0.96,28656,Asia
+vietnam,2010,0.93,28287,Asia
+vietnam,2011,0.95,27976,Asia
+vietnam,2012,0.97,27649,Asia
+vietnam,2013,0.59,27377,Asia
+vietnam,2014,0.95,27097,Asia
+vietnam,2015,0.97,26840,Asia
+vietnam,2016,0.96,26603,Asia
+vietnam,2017,0.94,26376,Asia
+yemen,1990,0.84,71066,Asia
+yemen,1991,0.47,69618,Asia
+yemen,1992,0.5,68364,Asia
+yemen,1993,0.54,67189,Asia
+yemen,1994,0.33,66643,Asia
+yemen,1995,0.44,64909,Asia
+yemen,1996,0.47,63810,Asia
+yemen,1997,0.4,62394,Asia
+yemen,1998,0.68,60965,Asia
+yemen,1999,0.71,59294,Asia
+yemen,2000,0.74,57691,Asia
+yemen,2001,0.73,56088,Asia
+yemen,2002,0.65,54589,Asia
+yemen,2003,0.61,53167,Asia
+yemen,2004,0.72,51681,Asia
+yemen,2005,0.79,50159,Asia
+yemen,2006,0.78,48884,Asia
+yemen,2007,0.79,47920,Asia
+yemen,2008,0.78,46992,Asia
+yemen,2009,0.76,46125,Asia
+yemen,2010,0.76,45127,Asia
+yemen,2011,0.69,44634,Asia
+yemen,2012,0.67,44116,Asia
+yemen,2013,0.73,42837,Asia
+yemen,2014,0.73,42639,Asia
+yemen,2015,0.69,43427,Asia
+yemen,2016,0.71,44536,Asia
+yemen,2017,0.68,44559,Asia
+zambia,1990,0.91,90428,Africa
+zambia,1991,0.79,94869,Africa
+zambia,1992,0.83,98986,Africa
+zambia,1993,0.86,101964,Africa
+zambia,1994,0.9,105422,Africa
+zambia,1995,0.86,108600,Africa
+zambia,1996,0.84,110734,Africa
+zambia,1997,0.83,111714,Africa
+zambia,1998,0.84,112111,Africa
+zambia,1999,0.84,111740,Africa
+zambia,2000,0.85,110200,Africa
+zambia,2001,0.85,109606,Africa
+zambia,2002,0.84,105700,Africa
+zambia,2003,0.83,103097,Africa
+zambia,2004,0.83,99580,Africa
+zambia,2005,0.82,95752,Africa
+zambia,2006,0.81,92168,Africa
+zambia,2007,0.8,87284,Africa
+zambia,2008,0.87,81938,Africa
+zambia,2009,0.94,76854,Africa
+zambia,2010,0.83,71986,Africa
+zambia,2011,0.81,67416,Africa
+zambia,2012,0.78,63540,Africa
+zambia,2013,0.79,60261,Africa
+zambia,2014,0.86,57195,Africa
+zambia,2015,0.9,54721,Africa
+zambia,2016,0.91,52803,Africa
+zambia,2017,0.94,51675,Africa
+zimbabwe,1990,0.88,58186,Africa
+zimbabwe,1991,0.87,62266,Africa
+zimbabwe,1992,0.86,67778,Africa
+zimbabwe,1993,0.85,73877,Africa
+zimbabwe,1994,0.87,79931,Africa
+zimbabwe,1995,0.88,86445,Africa
+zimbabwe,1996,0.9,91140,Africa
+zimbabwe,1997,0.86,96004,Africa
+zimbabwe,1998,0.84,101215,Africa
+zimbabwe,1999,0.81,105850,Africa
+zimbabwe,2000,0.78,110065,Africa
+zimbabwe,2001,0.75,112452,Africa
+zimbabwe,2002,0.71,115379,Africa
+zimbabwe,2003,0.68,116525,Africa
+zimbabwe,2004,0.65,117743,Africa
+zimbabwe,2005,0.68,117578,Africa
+zimbabwe,2006,0.7,116142,Africa
+zimbabwe,2007,0.73,113212,Africa
+zimbabwe,2008,0.75,111039,Africa
+zimbabwe,2009,0.73,106291,Africa
+zimbabwe,2010,0.89,95431,Africa
+zimbabwe,2011,0.93,84493,Africa
+zimbabwe,2012,0.95,75899,Africa
+zimbabwe,2013,0.95,69744,Africa
+zimbabwe,2014,0.91,64429,Africa
+zimbabwe,2015,0.87,61121,Africa
+zimbabwe,2016,0.9,58595,Africa
+zimbabwe,2017,0.89,56253,Africa
