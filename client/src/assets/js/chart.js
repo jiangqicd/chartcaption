@@ -24,9 +24,12 @@
 // const tableData = {}
 
 // chart.js
-import { reactive } from 'vue';
+import { ref, reactive } from 'vue';
 
 const selectedChart = reactive({});
+const annotatedChart = reactive({});
 const tableData = reactive({});
+var annotatedChartList = reactive({});
+let selectedTable = ref("");
 
-export { selectedChart, tableData }
+export { selectedChart, annotatedChart, tableData, selectedTable, annotatedChartList }

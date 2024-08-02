@@ -4,15 +4,18 @@
       :chartInfo="chartInfo"
       :annotationStats="annotationStats"
     ></NavigationBar>
+    <PlotArea></PlotArea>
   </div>
 </template>
   
 <script>
 import NavigationBar from "./NavigationBar.vue";
+import PlotArea from "./PlotArea_v1.vue";
 
 export default {
   components: {
     NavigationBar,
+    PlotArea,
   },
   data() {
     return {
