@@ -1,0 +1,32 @@
+const timeSeriesVocabulary = [
+    "increasing", "decreasing", "rising", "falling", "growing", "shrinking", "ascending", "descending",
+    "upward", "downward", "uptrend", "downtrend", "upswing", "downturn", "uptick", "downtick",
+    "peak", "trough", "crest", "valley", "maximum", "minimum", "highest", "lowest",
+    "record high", "record low", "all-time high", "all-time low", "upper bound", "lower bound",
+    "ceiling", "floor", "cap", "limit", "threshold", "breakout", "breakdown", "resistance",
+    "support", "consolidation", "accumulation", "distribution", "expansion", "contraction", "recovery", "decline",
+    "rally", "correction", "retracement", "pullback", "bounce", "surge", "plunge", "spike",
+    "jump", "drop", "crash", "boom", "bust", "bear market", "bull market", "trend",
+    "trendline", "channel", "range", "trading range", "volatility", "fluctuation", "oscillation", "cycle",
+    "cyclical", "seasonal", "seasonality", "periodic", "periodicity", "frequency", "amplitude", "magnitude",
+    "momentum", "acceleration", "deceleration", "velocity", "rate of change", "inflection point", "turning point",
+    "reversal", "U-turn", "about-face", "shift", "transition", "transformation", "leveling off", "flattening",
+    "plateauing", "stabilizing", "steady", "consistent", "persistent", "sustained", "prolonged", "extended",
+    "brief", "short-lived", "temporary", "transient", "fleeting", "volatile", "erratic", "choppy",
+    "whipsaw", "see-saw", "zig-zag", "roller coaster", "turbulent", "chaotic", "random", "noisy",
+    "predictable", "foreseeable", "anticipated", "expected", "unexpected", "surprising", "shocking", "abnormal",
+    "anomalous", "atypical", "unusual", "rare", "infrequent", "sporadic", "intermittent", "occasional",
+    "linear", "nonlinear", "exponential", "logarithmic", "parabolic", "hyperbolic", "sinusoidal", "wave-like",
+    "step-like", "box-shaped", "U-shaped", "V-shaped", "W-shaped", "M-shaped", "S-shaped", "J-shaped",
+    "divergence", "convergence", "positive correlation", "negative correlation", "no correlation", "leading", "lagging",
+    "coincident", "forward-looking", "backward-looking", "historical", "trailing", "year-over-year", "quarter-over-quarter",
+    "month-over-month", "week-over-week", "day-over-day", "year-to-date", "quarter-to-date", "month-to-date", "week-to-date",
+    "daily", "weekly", "monthly", "quarterly", "annual", "annualized", "year-end", "quarter-end",
+    "month-end", "week-end", "intraday", "overnight", "long-term", "medium-term", "short-term", "trend-following",
+    "counter-trend", "overbought", "oversold", "overvalued", "undervalued", "overextended", "crowded trade",
+    "thin market", "liquid market", "illiquid market", "bullish", "bearish", "neutral", "flat",
+    "sideways", "increase", "decrease", "rise", "fall", "grow", "shrink", "ascende", "descende", "increases",
+    "decreases", "rises", "falls", "growes", "shrinks", "ascendes", "descendes"
+]
+
+export default timeSeriesVocabulary;
